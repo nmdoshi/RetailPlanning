@@ -1,0 +1,12 @@
+claim_id,date,claim_product_line,claim_product,client_segment,client_location,client_sex,client_age,body,label
+0,2016/1/1,Tea,lemon tea,Not Member,Manhattan,Male,20,The straw was peeled off from the juice pack.,package_container
+1,2016/1/2,Ice cream,vanilla ice cream,Silver Card Member,Queens,Female,20,"I got some ice cream for my children, but there was something like a piece of thread inside the cup.",contamination_tampering
+2,2016/1/2,Jelly,apple jelly,Silver Card Member,Brooklyn,Male,40,I could only find 11 cups in the 12-pack.,amount.shortage
+3,2016/1/2,Juice,orange juice,Silver Card Member,Bronx,Female,50,There was a stain on the package that seemed to be caused by a leak. Is it safe to drink?,package_container.leak
+4,2016/1/3,Chocolate,milk chocolate,Silver Card Member,Manhattan,Male,30,I love the ads for the new milk chocolate. Could you tell me the name of the actor in the commercial?,ads
+5,2016/1/3,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Female,20,The cup looked like it was already opened. Is it safe?,prank
+6,2016/1/3,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Male,40,It was a little more sour than when I ate it before.,other
+7,2016/1/4,Jelly,mint jelly,Golden Card Member,Queens,Female,20, I could only find 10 cups in the dozen pack.,amount.shortage
+8,2016/1/4,Juice,orange juice,Golden Card Member,Brooklyn,Male,20,Leaking (from the hole for the straw),package_container
+9,2016/1/5,Pastry,pastry,Silver Card Member,Queens,Female,30,"It is before the expiration date, but the pastry was moldy. Isn't this a problem?",change_of_properties
+10,2016/1/5,Muffin,muffin,Silver Card Member,Manhattan,Male,30,"I bought muffins for my children, but when I checked carefully, the bag looked like it was already opened.",prank

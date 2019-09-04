@@ -1,0 +1,853 @@
+claim_id,date,claim_product_line,claim_product,client_segment,client_location,client_sex,client_age,body,label
+0,2016/1/1,Tea,lemon tea,Not Member,Manhattan,Male,20,The straw was peeled off from the juice pack.,package_container
+1,2016/1/2,Ice cream,vanilla ice cream,Silver Card Member,Queens,Female,20,"I got some ice cream for my children, but there was something like a piece of thread inside the cup.",contamination_tampering
+2,2016/1/2,Jelly,apple jelly,Silver Card Member,Brooklyn,Male,40,I could only find 11 cups in the 12-pack.,amount.shortage
+3,2016/1/2,Juice,orange juice,Silver Card Member,Bronx,Female,50,There was a stain on the package that seemed to be caused by a leak. Is it safe to drink?,package_container.leak
+4,2016/1/3,Chocolate,milk chocolate,Silver Card Member,Manhattan,Male,30,I love the ads for the new milk chocolate. Could you tell me the name of the actor in the commercial?,ads
+5,2016/1/3,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Female,20,The cup looked like it was already opened. Is it safe?,prank
+6,2016/1/3,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Male,40,It was a little more sour than when I ate it before.,other
+7,2016/1/4,Jelly,mint jelly,Golden Card Member,Queens,Female,20, I could only find 10 cups in the dozen pack.,amount.shortage
+8,2016/1/4,Juice,orange juice,Golden Card Member,Brooklyn,Male,20,Leaking (from the hole for the straw),package_container
+9,2016/1/5,Pastry,pastry,Silver Card Member,Queens,Female,30,"It is before the expiration date, but the pastry was moldy. Isn't this a problem?",change_of_properties
+10,2016/1/5,Muffin,muffin,Silver Card Member,Manhattan,Male,30,"I bought muffins for my children, but when I checked carefully, the bag looked like it was already opened.",prank
+11,2016/1/7,Ice cream,vanilla ice cream,Not Member,Bronx,Female,40,"The expiration date for the ice cream was passed, but is it okay to eat?",expiration_date
+12,2016/1/7,Chocolate,chocolate,Silver Card Member,Manhattan,Male,50,"In a dozen-pack of chocolate, I could only find 9 pieces.",amount.shortage
+13,2016/1/8,Ice cream,vanilla ice cream,Silver Card Member,Queens,Female,60,"I frequently buy vanilla ice cream from ABCDE confectionery company, but this time there were one cup missing from the half dozen pack.",amount.shortage
+14,2016/1/8,Ice cream,chocolate ice cream,Silver Card Member,Brooklyn,Male,70,The inside of the cup was dirty.,package_container.dirt
+15,2016/1/8,Minerals,minerals,Silver Card Member,Bronx,Female,40,Don't you think the bottle is bigger than it needs to be? It seems like such a waste.,package_container
+16,2016/1/8,Pastry,pastry,Silver Card Member,Manhattan,Male,20,"I bought pastry at my local store yesterday, but it tasted sour. The date hasn't expired yet.",other
+17,2016/1/9,Jelly,mint jelly,Silver Card Member,Bronx,Female,50,I frequently buy jelly made by ABCDE confectionery company. Could you please tell me what additives you are using?,ingredient.additives
+18,2016/1/10,Juice,orange juice,Golden Card Member,Manhattan,Male,30,I found a dark clump in the bottle.,package_container
+19,2016/1/10,Chocolate,chocolate muffin,Golden Card Member,Queens,Female,30,The bag was already torn. Is it okay to eat?,package_container.torn
+20,2016/1/10,Jelly,mint jelly,Silver Card Member,Brooklyn,Male,40,I felt that there was a sour taste. Is it just me?,other
+21,2016/1/11,Jelly,mint jelly,Silver Card Member,Bronx,Female,50,"I bought some mint jelly, but it was empty inside.",amount.empty
+22,2016/1/11,Ice cream,chocolate ice cream,Not Member,Manhattan,Male,50,I have a milk allergy. Is this safe to eat?,ingredient.allergy
+23,2016/1/11,Pastry,pastry,Silver Card Member,Bronx,Female,60,Do you use soy beans as an ingredient?,other
+24,2016/1/11,Jelly,mint jelly,Silver Card Member,Manhattan,Male,60,There were only 10 cups in the dozen pack.,amount.shortage
+25,2016/1/11,Juice,orange juice,Silver Card Member,Queens,Female,20,Orange juice leaked from the top.,package_container.leak
+26,2016/1/11,Minerals,minerals,Silver Card Member,Brooklyn,Male,20, I wish that you could see through the bottle to know how much is left.,package_container
+27,2016/1/12,Minerals,minerals,Silver Card Member,Bronx,Female,50,I can't open up the bottle since the cap is on too tight.,package_container
+28,2016/1/12,Jelly,mint jelly,Silver Card Member,Manhattan,Male,60,"I bought jelly yesterday, but it had a sour odor. Should I bring it back to the store?",other
+29,2016/1/13,Ice cream,vanilla ice cream,Golden Card Member,Manhattan,Female,70,Is this safe to eat? My wife is allergic to milk.,ingredient.allergy
+30,2016/1/13,Ice cream,vanilla ice cream,Golden Card Member,Manhattan,Male,20,It tasted a bit more sour than when I had it the last time.,other
+31,2016/1/14,Jelly,fruit jelly,Silver Card Member,Queens,Female,30,"I bought fruit jelly, but the cup was already torn.",package_container.torn
+32,2016/1/14,Cookie,cookie,Silver Card Member,Brooklyn,Male,40,Are you going to lower the price of the cookies again?,price.lowing_price
+33,2016/1/15,N/A,N/A,Silver Card Member,Bronx,Female,20,I liked the old ads for jelly better.,ads
+34,2016/1/15,Pastry,pastry,Not Member,Manhattan,Male,50,I realized that after I bought pastry that it was expired. The store where I bought it is the PQRST supermarket on I-123.,expiration_date
+35,2016/1/15,Juice,orange juice,Silver Card Member,Bronx,Female,30,Some juice leaked from the top of the pack.,package_container.leak
+36,2016/1/15,Juice,orange juice,Silver Card Member,Manhattan,Male,30,The straw was separated from the container.,package_container
+37,2016/1/16,Pastry,pastry,Silver Card Member,Queens,Female,30,This is my first time calling. I could only find 9 pieces of bread in the 10-pack.,amount.shortage
+38,2016/1/16,Ice cream,vanilla ice cream,Silver Card Member,Brooklyn,Male,40," When I checked carefully, there was a deep cut in the inside of the cup.",package_container.torn
+39,2016/1/16,Juice,orange juice,Silver Card Member,Bronx,Female,30,This is my first time calling. There was some juice leaking from the top of the juice pack.,package_container.leak
+40,2016/1/17,Chocolate,chocolate,Silver Card Member,Manhattan,Male,50,There was something like a piece of thread inside the bag of mint chocolate.,contamination_tampering
+41,2016/1/17,Juice,orange juice,Golden Card Member,Bronx,Female,40,There was some juice leaking from the top of the juice pack.,package_container.leak
+42,2016/1/18,Chocolate,chocolate,Golden Card Member,Manhattan,Male,60,I found some hair inside the bag of chocolate.,contamination_tampering
+43,2016/1/18,Pastry,pastry,Silver Card Member,Queens,Female,40,There was nothing inside.,amount.empty
+44,2016/1/18,Ice cream,chocolate ice cream,Silver Card Member,Brooklyn,Male,40, Two cups of ice cream missing from a half-dozen-pack.,amount.shortage
+45,2016/1/18,Juice,orange juice,Not Member,Bronx,Female,40, Some juice leaked from the top of the juice pack.,package_container.leak
+46,2016/1/18,Muffin,muffin,Silver Card Member,Manhattan,Male,70,The price of your muffin are more expensive than other brands.,price.price_general
+47,2016/1/19,Juice,orange juice,Silver Card Member,Bronx,Female,40,"I like to buy juice from ABCDE confectionery company, but this time I found some clump at the bottom of the bottle.",package_container
+48,2016/1/19,Jelly,mint jelly,Silver Card Member,Manhattan,Male,20,There was a deep cut in the inside of the container.,package_container.torn
+49,2016/1/20,Chocolate,chocolate,Silver Card Member,Queens,Female,50," I got some chocolate, but there was more in the package than it said on the label.",amount.excess
+50,2016/1/21,Juice,pine juice,Silver Card Member,Queens,Male,20,There is a chunk of settlement at the bottom of the juice bottle. I would like it exchanged.,package_container
+51,2016/1/21,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Female,20, There was something that looked like a nail inside the cup of ice cream. Is this a prank?,contamination_tampering
+52,2016/1/23,Jelly,fruit jelly,Golden Card Member,Manhattan,Male,30,The inside of the container was a cloudy yellow.,change_of_properties
+53,2016/1/23,Jelly,fruit jelly,Golden Card Member,Bronx,Female,20, Nothing inside.,amount.empty
+54,2016/1/24,Juice,apple juice,Silver Card Member,Queens,Male,40,"I got orange juice at my local supermarket, but there is a chunk of settlement at the bottom of the juice bottle.",package_container
+55,2016/1/24,Pastry,pastry,Silver Card Member,Queens,Female,50,"I often buy pastry, but this time there were one piece missing from the 10-pack.",amount.shortage
+56,2016/1/25,Ice cream,vanilla ice cream,Not Member,Manhattan,Male,20,Is this safe to eat? The doctor said I was allergic to eggs.,ingredient.allergy
+57,2016/1/25,Juice,orange juice,Silver Card Member,Bronx,Female,50,Some juice is leaking. (the hole for the straw),package_container
+58,2016/1/26,Muffin,muffin,Silver Card Member,Manhattan,Male,30,My daughter is allergic to soy. Do you use soy beans?,ingredient.allergy
+59,2016/1/26,Chocolate,chocolate muffin,Silver Card Member,Bronx,Female,60,I am a first-time caller. I could only find 9 muffins in the dozen-pack.,amount.shortage
+60,2016/1/27,Juice,apple juice,Silver Card Member,Manhattan,Male,60,There was a stain on the package that seemed to be caused by a leak.,package_container.leak
+61,2016/1/27,Juice,apple juice,Silver Card Member,Queens,Female,70,"I purchased apple juice at my local PQRST supermarket yesterday, but some juice leaked from the bottom of the juice pack.",package_container.leak
+62,2016/1/27,Ice cream,vanilla ice cream,Silver Card Member,Brooklyn,Male,30,The taste is little bit sour. Is it safe to eat?,other
+63,2016/1/28,Muffin,muffin,Golden Card Member,Bronx,Female,70,My daughter is allergic to buckwheat. Do you use buckwheat?,ingredient.allergy
+64,2016/1/28,Juice,orange juice,Golden Card Member,Manhattan,Male,40, There is a trace of a leak on the outside of the package.,package_container.leak
+65,2016/1/28,Chocolate,chocolate muffin,Silver Card Member,Bronx,Female,20,"I bought the chocolate muffin yesterday, but it had a sour odor. Is it safe?",other
+66,2016/1/30,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Male,40,"I bought some ice cream the other day. The expiration date was passed, but is it safe to eat?",expiration_date
+67,2016/1/30,Juice,apple juice,Not Member,Queens,Female,40,The contents were leaking from the bottom of the juice pack.,package_container.leak
+68,2016/1/30,Juice,apple juice,Silver Card Member,Brooklyn,Male,50,"I bought pine juice for my daughter, but when I was holding an unopened pack, the contents leaked from the top. Is it safe?",package_container.leak
+69,2016/1/30,Jelly,fruit jelly,Silver Card Member,Bronx,Female,30,It was a little more sour than when I ate it before.,other
+70,2016/1/31,Juice,orange juice,Silver Card Member,Manhattan,Male,20, Some juice leaked from the top.,package_container.leak
+71,2016/1/31,Pastry,pastry,Silver Card Member,Bronx,Female,40,"When I checked carefully, it seemed that the bag was already opened.",prank
+72,2016/2/1,Jelly,fruit jelly,Silver Card Member,Manhattan,Male,50,I found a deep bruise in the inside of the container.,package_container.torn
+73,2016/2/1,Tea,lemon tea,Silver Card Member,Queens,Female,30, the straw was peeled off from the container.,package_container
+74,2016/2/2,Pastry,pastry,Golden Card Member,Brooklyn,Male,60,"In a 10-pack of pastry, I could only find 9 pieces.",amount.shortage
+75,2016/2/2,Cookie,cookie,Golden Card Member,Bronx,Female,50,You lowered the price on cookies for a limited time. Are you going to lower the price again?,price.lowing_price
+76,2016/2/3,Ice cream,chocolate ice cream,Silver Card Member,Queens,Male,70,There was a strong moldy smell.,change_of_properties
+77,2016/2/4,Tea,lemon tea,Silver Card Member,Bronx,Female,20,There was some tea leaking from the top of the pack.,package_container.leak
+78,2016/2/4,Juice,pine juice,Silver Card Member,Manhattan,Male,40,The straw was peeled off from the pack.,package_container
+79,2016/2/4,Pastry,pastry,Silver Card Member,Queens,Female,50,"I bought some pastry, but there was a pungent odor as soon as I opened the bag. I buy it a lot, but it usually doesn't smell. Should I bring it back to the store?",other
+80,2016/2/5,Jelly,fruit jelly,Silver Card Member,Brooklyn,Male,20,There was some hair inside the bag of jelly.,contamination_tampering
+81,2016/2/5,Jelly,fruit jelly,Silver Card Member,Bronx,Female,30,"I bought jelly for my daughter, but there was a lot more that was indicated on the package. Isn't this a problem?",amount.excess
+82,2016/2/5,Juice,orange juice,Golden Card Member,Manhattan,Male,30,"I bought orange juice at my local PQRST supermarket yesterday, but the contents were leaking from the top of the paper pack.",package_container.leak
+83,2016/2/6,Pastry,pastry,Golden Card Member,Bronx,Female,50,My baby is allergic to soy beans. Do you use soy?,ingredient.allergy
+84,2016/2/6,N/A,N/A,N/A,N/A,N/A,N/A,Crank call.,other
+85,2016/2/6,Juice,apple juice,Not Member,Manhattan,Female,30,There was some juice leaking from the bottom of the juice pack. Is it safe?,package_container.leak
+86,2016/2/7,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Male,40,My children are allergic to milk. Is this safe to eat?,ingredient.allergy
+87,2016/2/7,Juice,pine juice,Silver Card Member,Brooklyn,Female,60,The straw was peeled off from the container.,package_container
+88,2016/2/8,Chocolate,chocolate,Silver Card Member,Bronx,Male,50,Hair inside the bag!,contamination_tampering
+89,2016/2/8,Jelly,fruit jelly,Silver Card Member,Manhattan,Female,60,"I bought jelly for my daughter, but there was a lot more that was indicated on the package. Isn't this a problem?",amount.excess
+90,2016/2/8,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Male,20,I felt that there was a bitter taste. Is it just me?,other
+91,2016/2/9,Juice,pine juice,Silver Card Member,Manhattan,Female,40,"I bought orange juice for my children and left the pack in the fridge for about two days without opening the lid, but the contents were leaking from the bottom of the pack.",package_container.leak
+92,2016/2/9,Coffee,black coffee,Golden Card Member,Queens,Male,40, There was a stain on the package that seemed to be caused by a leak. Is it safe to drink?,package_container.leak
+93,2016/2/11,Juice,orange juice (bottle),Golden Card Member,Brooklyn,Female,70,There was a pungent odor as soon as I opened the bottle.,package_container
+94,2016/2/12,Chocolate,milk chocolate,Silver Card Member,Manhattan,Male,30, I love the ads for the new milk chocolate!,ads
+95,2016/2/12,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Female,60, Why is it that the ice cream prices of other brands are cheaper?,price.price_general
+96,2016/2/13,Ice cream,vanilla ice cream,Golden Card Member,Bronx,Male,40,There was something like a piece of thread inside the cup of ice cream.,contamination_tampering
+97,2016/2/13,Juice,pine juice,Silver Card Member,Manhattan,Female,20,There was no straw attached to the drink.,package_container
+98,2016/2/13,N/A,N/A,Golden Card Member,Queens,Male,30, Please make the drinks cheaper.,price.price_general
+99,2016/2/14,Juice,apple juice,Silver Card Member,Brooklyn,Female,40,There was a yellow clump in the bottle. I have saved the bottle without drinking it.,package_container
+100,2016/2/14,Pastry,pastry,Golden Card Member,Bronx,Male,50,I like to buy pastry made by ABCDE confectionery company. Sometimes there is almost no jam at all.,amount.shortage
+101,2016/2/14,Juice,orange juice,Silver Card Member,Manhattan,Female,50,"I bought apple juice for my son, but the contents were leaking from the bottom of the juice pack. Is it safe to drink?",package_container.leak
+102,2016/2/15,Jelly,fruit jelly,Silver Card Member,Bronx,Male,40,The inside of the container was a cloudy yellow.,change_of_properties
+103,2016/2/15,Jelly,fruit jelly,Not Member,Manhattan,Female,50,There was nothing inside.,amount.empty
+104,2016/2/15,N/A,N/A,Not Member,Queens,Male,40,I like to buy snacks made by ABCDE confectionery company. Do you use any genetically modified ingredients?,ingredient.gm_foods
+105,2016/2/16,Jelly,mint jelly,Silver Card Member,Brooklyn,Female,60,"I got a bag of mint jelly at my local PQRST supermarket, but there was something like a piece of thread inside the bag.",contamination_tampering
+106,2016/2/16,Minerals,minerals,Silver Card Member,Bronx,Male,70,The bottle won't open up since the cap is too tight.,package_container
+107,2016/2/16,Tea,lemon tea,Silver Card Member,Manhattan,Female,20, the straw was peeled off from the container.,package_container
+108,2016/2/17,Muffin,muffin,Silver Card Member,Queens,Male,20,The muffin was growing mold even before the expiration date. Isn't this a problem?,change_of_properties
+109,2016/2/17,N/A,N/A,N/A,N/A,N/A,N/A,Hung-up call.,other
+110,2016/2/17,Ice cream,chocolate ice cream,Not Member,Manhattan,Male,30,When are you going to raise the price on the ice cream?,price.raise_of_price
+111,2016/2/18,Juice,pine juice,Silver Card Member,Queens,Female,20,There was a dark clump at the bottom of the juice bottle.,package_container
+112,2016/2/19,Chocolate,milk chocolate,Silver Card Member,Brooklyn,Male,50,"When I checked carefully, the bag looked like it was already opened.",prank
+113,2016/2/20,Jelly,fruit jelly,Silver Card Member,Bronx,Female,30,One cup of mint jelly missing from a 12-pack.,amount.shortage
+114,2016/2/20,Juice,orange juice,Silver Card Member,Manhattan,Male,60,Some juice leaked from the bottom of the juice pack!,package_container.leak
+115,2016/2/21,Jelly,fruit jelly,Silver Card Member,Manhattan,Female,40,I am allergic to kiwis.  Is this safe to eat?,ingredient.allergy
+116,2016/2/21,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Male,50,The inside of the cup was dirty.,package_container.dirt
+117,2016/2/21,Tea,lemon tea,Golden Card Member,Queens,Female,20,There was no straw attached.,package_container
+118,2016/2/21,Chocolate,chocolate,Golden Card Member,Brooklyn,Male,60,"When I looked closely, it seemed that the bag was already opened.",prank
+119,2016/2/22,Chocolate,milk chocolate,Silver Card Member,Bronx,Female,30,"I've never called a customer service line before. I frequently buy chocolate made by ABCDE confectionery company, but this time I found some hair inside the bag.",contamination_tampering
+120,2016/2/22,Jelly,mint jelly,Silver Card Member,Manhattan,Male,70, Two cups of jelly missing from a dozen-pack.,amount.shortage
+121,2016/2/24,Jelly,mint jelly,Not Member,Bronx,Female,30, The inside of the jelly container was a cloudy white.,change_of_properties
+122,2016/2/24,Pastry,pastry,Silver Card Member,Manhattan,Male,20,There is very little jam in this jam bun.,amount.shortage
+123,2016/2/24,Ice cream,vanilla ice cream,Silver Card Member,Queens,Female,30,I felt that there was a bitter taste. Is it just me?,other
+124,2016/2/25,Ice cream,vanilla ice cream,Silver Card Member,Brooklyn,Male,30, there was no spoon attached.,package_container
+125,2016/2/26,Chocolate,milk chocolate,Silver Card Member,Bronx,Female,40,"I got some chocolate at my local PQRST supermarket, but I found some hair inside the bag.",contamination_tampering
+126,2016/2/26,Tea,lemon tea,Silver Card Member,Manhattan,Male,70," The contents leaked, when I was holding an unopened pack.",package_container.leak
+127,2016/2/26,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Female,50,There was a strange sour smell.,other
+128,2016/2/26,Jelly,fruit jelly,Golden Card Member,Queens,Male,50,The fruit jelly had a moldy odor.,change_of_properties
+129,2016/2/27,Juice,pine juice,Golden Card Member,Queens,Female,40,There was a clump at the bottom of the juice bottle. I have saved the bottle without drinking it.,package_container
+130,2016/2/27,Ice cream,vanilla ice cream,Silver Card Member,Brooklyn,Male,40,"The vanilla ice cream tasted bitter. I bought it yesterday, and the date hasn't expired yet.",other
+131,2016/2/28,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Female,60,The inside of the container was dirty!,package_container.dirt
+132,2016/2/29,Juice,apple juice (bottle),Not Member,Manhattan,Male,70, I think the bottle cap is on too tight.,package_container
+133,2016/3/1,Jelly,mint jelly,Silver Card Member,Bronx,Female,40,"I got some mint jelly, but there was more in the package than it said on the label.",amount.excess
+134,2016/3/1,Jelly,mint jelly,Silver Card Member,Manhattan,Male,50," When I checked carefully, there was a deep cut in the inside of the container.",package_container.torn
+135,2016/3/2,Jelly,mint jelly,Silver Card Member,Queens,Female,20,The inside of the container was a cloudy white.,change_of_properties
+136,2016/3/2,Jelly,fruit jelly,Silver Card Member,Brooklyn,Male,50, I found something like hair inside the bag.,contamination_tampering
+137,2016/3/2,Jelly,fruit jelly,Silver Card Member,Bronx,Female,30,"The expiration date for the jello was passed, but is it safe to eat?",expiration_date
+138,2016/3/2,Juice,apple juice (bottle),Silver Card Member,Manhattan,Male,60,"I like to buy apple juice, but the cap loosens up.",package_container
+139,2016/3/2,Minerals,minerals,Golden Card Member,Bronx,Female,40,"I frequently buy fruit mix juice, but the bottle cap loosens up easily.",package_container
+140,2016/3/2,Coffee,black coffee,Golden Card Member,Manhattan,Male,40,"I bought pine juice for my daughter, but when I was holding an unopened pack, the contents leaked from the bottom. Is it safe?",package_container.leak
+141,2016/3/2,Juice,pine juice,Silver Card Member,Queens,Female,40, The contents were leaking.,package_container.leak
+142,2016/3/4,Juice,pine juice,Silver Card Member,Queens,Male,50, There was a dark clump at the bottom of the juice bottle.,package_container
+143,2016/3/4,Juice,apple juice,Not Member,Bronx,Female,20,I like to buy snacks and juice made by ABCDE confectionery company. Do you use any GM foods?,ingredient.gm_foods
+144,2016/3/5,Muffin,muffin,Silver Card Member,Manhattan,Male,60,There was a strong sour smell. Should I bring it back to the store?,other
+145,2016/3/6,Jelly,mint jelly,Silver Card Member,Bronx,Female,30,There was something like a piece of thread inside the bag.,contamination_tampering
+146,2016/3/6,Juice,orange juice,Silver Card Member,Manhattan,Male,50,It looked like there was a leak on the outside of the pack.,package_container.leak
+147,2016/3/7,Chocolate,chocolate,Silver Card Member,Queens,Female,60,"I bought chocolate for my child, but there was a lot more that was indicated on the package. Isn't this a problem?",amount.excess
+148,2016/3/8,Minerals,minerals,Silver Card Member,Brooklyn,Male,70,"I like to buy apple juice, but the cap of the bottle loosens up easily.",package_container
+149,2016/3/9,Pastry,pastry,Silver Card Member,Bronx,Female,50,"The expiration date for the pastry was passed, but is it okay to eat?",expiration_date
+150,2016/3/9,Ice cream,chocolate ice cream,Golden Card Member,Manhattan,Male,40,This is my first time calling. The inside of the container was dirty!,package_container.dirt
+151,2016/3/9,Ice cream,vanilla ice cream,Golden Card Member,Bronx,Female,40,There was no spoon attached.,package_container
+152,2016/3/10,Juice,apple juice,Silver Card Member,Queens,Male,20,There is a chunk of settlement at the bottom of the juice bottle. I have saved the bottle without drinking it.,package_container
+153,2016/3/10,Muffin,muffin,Silver Card Member,Queens,Female,50,"There was a piece of plastic inside the muffin, and I accidentally ate it.",contamination_tampering
+154,2016/3/10,Jelly,mint jelly,Not Member,Brooklyn,Male,30,"I frequently buy jelly from ABCDE confectionery company, but this time there were one cup missing from the dozen pack.",amount.shortage
+155,2016/3/10,Juice,pine juice,Silver Card Member,Bronx,Female,40,"I bought pine juice yesterday, but it had a sour odor.",other
+156,2016/3/11,Jelly,fruit jelly,Silver Card Member,Manhattan,Male,40," I bought some fruit jelly, but there was nothing inside.",amount.empty
+157,2016/3/12,Juice,orange juice,Silver Card Member,Bronx,Female,20,"I frequently buy juice made by ABCDE confectionery company, but this time some juice leaked from the top of the juice pack.",package_container.leak
+158,2016/3/13,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Male,20,I am allergic to milk.  Is this safe to eat?,ingredient.allergy
+159,2016/3/14,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Female,50,My daughter is allergic to eggs.  Is this safe to eat?,ingredient.allergy
+160,2016/3/14,Juice,peach juice,Silver Card Member,Brooklyn,Male,20,The contents were leaking from a bottle of peach juice since there was a crack in it.,package_container
+161,2016/3/15,Ice cream,chocolate ice cream,Golden Card Member,Queens,Female,60,I found a dark clump in the cup of ice cream.,change_of_properties
+162,2016/3/15,Chocolate,chocolate,Golden Card Member,Manhattan,Male,20," I bought some chocolate, but there was nothing inside.",amount.empty
+163,2016/3/16,Jelly,fruit jelly,Silver Card Member,Bronx,Female,40, There was something that looked like a nail inside the jelly bag.,contamination_tampering
+164,2016/3/16,Juice,orange juice,Silver Card Member,Manhattan,Male,30,"This is my first time calling. When I was holding an unopened juice pack, the contents leaked from the bottom. Is it safe to drink?",package_container.leak
+165,2016/3/17,Juice,peach juice,Silver Card Member,Queens,Female,30,Leaking / the hole for the straw.,package_container
+166,2016/3/17,Tea,lemon tea,Silver Card Member,Brooklyn,Male,70,"I frequently buy juice made by ABCDE confectionery company, but this time the straw was peeled off from the container.",package_container
+167,2016/3/18,Ice cream,chocolate ice cream,Golden Card Member,Bronx,Female,30,"I purchase some ice cream at a nearby supermarket, but there was something like a piece of thread inside the cup.",contamination_tampering
+168,2016/3/18,Ice cream,chocolate ice cream,Golden Card Member,Manhattan,Male,50,There were only four cups in the 6-pack.,amount.shortage
+169,2016/3/18,N/A,N/A,N/A,N/A,N/A,N/A,Crank call.,other
+170,2016/3/18,Jelly,fruit jelly,Silver Card Member,Bronx,Male,20,There was a bruise in the inside of the container.,package_container.torn
+171,2016/3/18,Juice,apple juice,Silver Card Member,Queens,Female,40,"I frequently buy apple juice at a nearby supermarket, but this time the contents were leaking from the bottom of the juice pack.",package_container.leak
+172,2016/3/18,Minerals,minerals,Silver Card Member,Manhattan,Male,30, Don't you think the bottle is bigger than it needs to be?,package_container
+173,2016/3/19,Juice,orange juice,Golden Card Member,Bronx,Female,40,"I left the pack in the fridge for about two days without opening the lid, but the contents were leaking from the top the pack.",package_container.leak
+174,2016/3/19,Juice,orange juice,Golden Card Member,Brooklyn,Male,50,Some juice leaked from the top of the juice pack.,package_container.leak
+175,2016/3/20,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Female,30,There were three cups of ice cream missing from a 6-pack.,amount.shortage
+176,2016/3/20,Ice cream,vanilla ice cream,Not Member,Manhattan,Male,20, Three cups missing from a half-dozen-pack of ice cream.,amount.shortage
+177,2016/3/20,N/A,N/A,N/A,N/A,N/A,N/A,Hung-up call,other
+178,2016/3/20,Juice,orange juice,Not Member,Queens,Male,60,The contents were leaking from the straw hole of the juice pack.,package_container
+179,2016/3/21,Tea,lemon tea,Silver Card Member,Brooklyn,Female,70,This is my first time calling. There is a trace of a leak on the outside of the package.,package_container.leak
+180,2016/3/22,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Male,30,My son is allergic to eggs. Is this okay to eat?,ingredient.allergy
+181,2016/3/22,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Female,40,"In a half-dozen pack of vanilla ice cream, I could only find 4 of them.",amount.shortage
+182,2016/3/22,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Male,30,There was a bruise in the inside of the cup.,package_container.torn
+183,2016/3/23,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Female,40,My baby is allergic to milk.  Is this okay to eat?,ingredient.allergy
+184,2016/3/23,Tea,lemon tea,Silver Card Member,Manhattan,Male,50,The straw was peeled off from the container.,package_container
+185,2016/3/24,Pastry,pastry,Golden Card Member,Queens,Female,40,After buying some pastry I found a bug inside a bag!!  Get me your manager!,contamination_tampering
+186,2016/3/24,Juice,orange juice,Golden Card Member,Brooklyn,Male,40,The contents were leaking from the top of the juice pack.,package_container.leak
+187,2016/3/24,Chocolate,chocolate muffin,Silver Card Member,Bronx,Female,50,The bag was already torn. Is it safe?,package_container.torn
+188,2016/3/24,Juice,orange juice,Silver Card Member,Manhattan,Male,60,It is my first time calling. There was a strong sour smell.,other
+189,2016/3/25,N/A,mini cake,Golden Card Member,Bronx,Female,50,When the new mini cake will be on sale?,production_plan.new_product
+190,2016/3/26,Minerals,minerals,Silver Card Member,Manhattan,Male,70, I wish that you could see through the bottle to know how much is left.,package_container
+191,2016/3/26,Ice cream,chocolate ice cream,Golden Card Member,Queens,Female,40,The spoon was detached.,package_container
+192,2016/3/27,Ice cream,vanilla ice cream,Golden Card Member,Brooklyn,Male,60,This is my first time calling. The inside of the container was dirty!,package_container.dirt
+193,2016/3/27,Ice cream,vanilla ice cream,Not Member,Bronx,Female,20,The pastry tasted quite sour. The date hadn't expired yet. Is it safe?,other
+194,2016/3/28,N/A,N/A,N/A,N/A,N/A,N/A,Crank call.,other
+195,2016/3/28,Juice,pine juice,Not Member,Manhattan,Female,40,Some juice leaked from the bottom of the juice pack.,package_container.leak
+196,2016/3/28,Jelly,mint jelly,Silver Card Member,Bronx,Male,20,It seems like the wrapper was cut by a knife or something.,prank
+197,2016/3/28,Ice cream,strawberry ice cream,Silver Card Member,Bronx,Female,50,Could you tell me when the new strawberry ice cream will be on sale?,production_plan.new_product
+198,2016/3/30,Ice cream,vanilla ice cream,Silver Card Member,Brooklyn,Male,60,It tasted a bit more sour than when I had it the last time. Is it okay?,other
+199,2016/3/31,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Female,30,"I always buy vanilla ice cream, but it was only half full.",amount.shortage
+200,2016/3/31,Juice,apple juice,Silver Card Member,Brooklyn,Male,50,"There was a crack in the bottle of pine juice, so the contents were leaking.",package_container.leak
+201,2016/3/31,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Female,40,Are you really going to raise the price on the vanilla ice cream?,price.raise_of_price
+202,2016/4/1,Jelly,mint jelly,Golden Card Member,Queens,Male,40,The inside of the cup was dirty.,package_container.dirt
+203,2016/4/1,Jelly,mint jelly,Golden Card Member,Brooklyn,Female,50," When I looked closely, I found the bag torn.",package_container.torn
+204,2016/4/1,Cookie,cookie,Silver Card Member,Bronx,Male,50,I frequently buy cookie made by ABCDE confectionery company. When are you going to stop selling the cookie?,production_plan.end_of_sale
+205,2016/4/2,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Female,60,There was something like a piece of thread inside the cup of ice cream.,contamination_tampering
+206,2016/4/2,Jelly,fruit jelly,Not Member,Bronx,Male,30,There was more in the package than it said on the label.,amount.excess
+207,2016/4/3,Jelly,mint jelly,Silver Card Member,Manhattan,Female,70,Hair / mint jelly.,other
+208,2016/4/3,Minerals,minerals,Silver Card Member,Queens,Male,50, It would be nice if there were a bottle so that you could see how much of the contents are left.,package_container
+209,2016/4/4,Ice cream,chocolate ice cream,Silver Card Member,Brooklyn,Female,40,There was a piece of plastic inside the chocolate ice cream.,contamination_tampering
+210,2016/4/4,Chocolate,milk chocolate,Silver Card Member,Bronx,Male,20,"I've never called a customer service line before. I bought milk chocolate, but it was empty inside.",amount.empty
+211,2016/4/4,Chocolate,milk chocolate,Silver Card Member,Manhattan,Female,20,"In a dozen-pack of chocolate, I could only find 9 pieces.",amount.shortage
+212,2016/4/4,Juice,orange juice,Silver Card Member,Bronx,Male,20,"I bought apple juice at my local PQRST supermarket yesterday, but the contents were leaking from the bottom of the paper pack.",package_container.leak
+213,2016/4/5,Ice cream,vanilla ice cream,Golden Card Member,Manhattan,Female,20,"I bought vanilla ice cream for my son, but the inside of the container was dirty.",package_container.dirt
+214,2016/4/5,Juice,orange juice,Golden Card Member,Queens,Male,20,"I bought orange juice for my son, but the contents were leaking from the top of the juice pack. Is it safe to drink?",package_container.leak
+215,2016/4/5,Ice cream,vanilla ice cream,Silver Card Member,Brooklyn,Female,40,"I bought pastry at my local store yesterday, but it tasted sour. The date hasn't expired yet.",other
+216,2016/4/6,Chocolate,milk chocolate,Silver Card Member,Bronx,Male,30,There were three pieces of chocolate missing from a 12-pack.,amount.shortage
+217,2016/4/6,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Female,40,The inside of the container was dirty.,package_container.dirt
+218,2016/4/6,Pastry,pastry,Silver Card Member,Bronx,Male,50,The pastry tasted quite sour. The date hadn't expired yet. Is it safe?,other
+219,2016/4/7,Chocolate,chocolate cookie,Silver Card Member,Manhattan,Female,50,The inside of the container was dirty. Could you exchange it?,package_container.dirt
+220,2016/4/7,Minerals,minerals,Silver Card Member,Queens,Male,60, It would be nice if there were a bottle so that you could see how much of the contents are left.,package_container
+221,2016/4/7,Tea,lemon tea,Silver Card Member,Brooklyn,Female,20,The straw was separated from the container.,package_container
+222,2016/4/8,Chocolate,chocolate,Golden Card Member,Bronx,Male,70," I bought some chocolate, but there was nothing inside.",amount.empty
+223,2016/4/9,Juice,apple juice (bottle),Golden Card Member,Manhattan,Female,30,I think that the bottle is larger than necessary.,package_container
+224,2016/4/9,Chocolate,chocolate muffin,Silver Card Member,Bronx,Male,20,I felt that there was a bitter taste. Is it just me?,other
+225,2016/4/10,Juice,orange juice,Silver Card Member,Manhattan,Female,30,"When I was holding an unopened pack, the contents leaked from the bottom of the juice pack.",package_container.leak
+226,2016/4/11,Pastry,pastry,Silver Card Member,Queens,Male,30,"It is before the expiration date, but the pastry was moldy.",change_of_properties
+227,2016/4/11,N/A,N/A,Silver Card Member,Brooklyn,Female,30,Do you use any GM foods?,ingredient.gm_foods
+228,2016/4/11,Juice,orange juice,Not Member,Bronx,Male,30,Some juice leaked from the hole for the straw of the juice pack.,package_container
+229,2016/4/12,Jelly,mint jelly,Silver Card Member,Manhattan,Female,30,"I like to buy jelly from ABCDE confectionery company, but this time there was a lot more that was indicated on the package.",amount.excess
+230,2016/4/12,Jelly,mint jelly,Silver Card Member,Bronx,Male,50,I found a deep bruise in the inside of the container.,package_container.torn
+231,2016/4/13,Ice cream,chocolate ice cream,Silver Card Member,Queens,Female,40,A dark clump at the bottom of the cup.,change_of_properties
+232,2016/4/13,Pastry,pastry,Silver Card Member,Queens,Male,40,I like to buy pastries made by ABCDE confectionery company. I would like to know what additives are used.,ingredient.additives
+233,2016/4/13,Juice,orange juice,Silver Card Member,Brooklyn,Female,40, Some juice leaked from the bottom.,package_container.leak
+234,2016/4/13,Juice,pine juice,Silver Card Member,Bronx,Male,40,Some juice leaked from the bottom of the juice pack.,package_container.leak
+235,2016/4/13,Muffin,muffin,Golden Card Member,Manhattan,Female,40,"I got some mint jelly for my daughter, but it seemed that the bag was already opened. Is it safe?",prank
+236,2016/4/14,Chocolate,milk chocolate,Golden Card Member,Bronx,Male,50, Two pieces of chocolate missing from a dozen-pack.,amount.shortage
+237,2016/4/14,Minerals,minerals,Silver Card Member,Manhattan,Female,50,Could you make the bottle so that you could see how much is left?,package_container
+238,2016/4/14,Muffin,muffin,Silver Card Member,Queens,Male,50,Why is it that the muffin prices of other brands are cheaper?,price.price_general
+239,2016/4/15,Cookie,cookie,Silver Card Member,Brooklyn,Female,60, Please make the cookies cheaper.,price.price_general
+240,2016/4/16,Juice,pine juice,Silver Card Member,Bronx,Male,60,Could you tell me the name of the actor in the TV commercial of the pine juice?,ads
+241,2016/4/16,Juice,pine juice,Silver Card Member,Queens,Female,60, There was a dark clump at the bottom of the juice bottle.,package_container
+242,2016/4/17,Tea,lemon tea,Golden Card Member,Bronx,Male,70,There was no straw attached.,package_container
+243,2016/4/17,Juice,apple juice,Golden Card Member,Manhattan,Female,20,The apple juice has a rancid odor.,other
+244,2016/4/18,Ice cream,chocolate ice cream,Silver Card Member,Queens,Male,20, There was a piece of plastic inside the cup of the ice cream.,contamination_tampering
+245,2016/4/19,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Female,30,I have a egg allergy. Is this safe to eat?,ingredient.allergy
+246,2016/4/19,N/A,N/A,N/A,N/A,N/A,N/A,Crank call.,other
+247,2016/4/20,Ice cream,vanilla ice cream,Not Member,Queens,Female,40,I found a dark clump in the cup of ice cream.,change_of_properties
+248,2016/4/20,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Male,40,"I bought vanilla ice cream for my daughter, but the inside of the container was dirty.",package_container.dirt
+249,2016/4/20,Juice,pine juice,Silver Card Member,Bronx,Female,50,The straw was peeled off from the container.,package_container
+250,2016/4/21,Jelly,mint jelly,Silver Card Member,Bronx,Male,30,"I bought mint jelly, but the bag was already torn.",package_container.torn
+251,2016/4/22,Chocolate,chocolate,Silver Card Member,Brooklyn,Female,40,There was a bug inside a bag!  Get me your manager!,contamination_tampering
+252,2016/4/22,Chocolate,chocolate,Silver Card Member,Bronx,Male,40,There was nothing inside.,amount.empty
+253,2016/4/23,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Female,50,Are you not running the old ads for ice cream anymore?,ads
+254,2016/4/23,Juice,orange juice,Golden Card Member,Queens,Male,50,The contents were leaking from the hole for the straw of the juice pack.,package_container
+255,2016/4/24,Ice cream,vanilla ice cream,Golden Card Member,Brooklyn,Female,20, The spoon was detached.,package_container
+256,2016/4/25,Jelly,fruit jelly,Silver Card Member,Bronx,Male,50,"I bought some fruit jelly, but it was empty inside.",amount.empty
+257,2016/4/25,Pastry,pastry,Silver Card Member,Manhattan,Female,20,"I bought the pastry today, but it has a strange odor.",other
+258,2016/4/26,Jelly,fruit jelly,Not Member,Bronx,Male,30,There was something that looked like a nail inside the bag of jelly. Is this a prank?,contamination_tampering
+259,2016/4/26,Jelly,mint jelly,Silver Card Member,Manhattan,Female,60," I like to buy jelly from ABCDE confectionery company, but this time there was a lot more that was indicated on the package.",amount.excess
+260,2016/4/26,Juice,orange juice,Silver Card Member,Queens,Male,60,There is a trace of a leak on the outside of the package. I am wondering if it is okay to drink.,package_container.leak
+261,2016/4/27,Tea,lemon tea,Silver Card Member,Brooklyn,Female,70,Some tea leaked from the hole for the straw of the juice pack.,package_container
+262,2016/4/27,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Male,20,The cup looked like it was already opened.,prank
+263,2016/4/28,Jelly,fruit jelly,Silver Card Member,Manhattan,Female,40,Do you use organic gelatin?,other
+264,2016/4/28,Jelly,apple jelly,Silver Card Member,Bronx,Male,30,There was something like a piece of thread inside the bag of jelly.,contamination_tampering
+265,2016/4/28,Pastry,pastry,Golden Card Member,Manhattan,Female,40,The price of your pastry are more expensive than other brands.,price.price_general
+266,2016/4/29,Cookie,cookie,Golden Card Member,Queens,Male,50,"It is before the expiration date, but the cookies were moldy.",change_of_properties
+267,2016/4/29,Pastry,pastry,Silver Card Member,Queens,Female,70,The pastry was growing mold even before the expiration date.,change_of_properties
+268,2016/4/29,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Male,50,I am allergic to milk.  Is this okay to eat?,ingredient.allergy
+269,2016/4/29,Ice cream,chocolate ice cream,Not Member,Manhattan,Female,20,"In a 6-pack of chocolate ice cream, I could only find four cups.",amount.shortage
+270,2016/4/30,Jelly,strawberry jelly,Silver Card Member,Bronx,Male,60,"When I checked carefully, I found a bruise in the inside of the container.",package_container.torn
+271,2016/5/1,Muffin,muffin,Silver Card Member,Manhattan,Female,30,Do you use buckwheat as an ingredient?,other
+272,2016/5/1,Jelly,mint jelly,Silver Card Member,Queens,Male,40,There were three cups of jelly missing from a 12-pack.,amount.shortage
+273,2016/5/1,Minerals,minerals,Silver Card Member,Brooklyn,Female,40,The bottle won't open up since the cap is too tight.,package_container
+274,2016/5/1,Juice,apple juice,Silver Card Member,Bronx,Male,40,There was some juice leaking from the hole for the straw. Could you exchange it?,package_container
+275,2016/5/1,Juice,peach juice,Silver Card Member,Manhattan,Female,40, This is my first time calling. There was a stain on the package that seemed to be caused by a leak.,package_container.leak
+276,2016/5/2,Chocolate,chocolate muffin,Golden Card Member,Bronx,Male,50,"In a dozen-pack of chocolate muffin, I could only find 11 muffins.",amount.shortage
+277,2016/5/2,Pastry,pastry,Golden Card Member,Manhattan,Female,30,One piece of bread missing from a 10-pack.,amount.shortage
+278,2016/5/2,Juice,apple juice,Silver Card Member,Queens,Male,50,Orange juice leaked from the top of the juice pack.,package_container.leak
+279,2016/5/2,Chocolate,chocolate muffin,Silver Card Member,Brooklyn,Female,50,I found the bag torn.,package_container.torn
+280,2016/5/4,Pastry,pastry,Not Member,Bronx,Male,50,Do you use buckwheat as an ingredient?,other
+281,2016/5/5,N/A,N/A,Not Member,Manhattan,Female,60,Do you use any GM foods?,ingredient.gm_foods
+282,2016/5/5,Tea,lemon tea,Not Member,Bronx,Male,40,There was no straw attached.,package_container
+283,2016/5/6,Jelly,fruit jelly,Silver Card Member,Manhattan,Female,50,My son is allergic to gelatin.  Is this safe to eat?,ingredient.allergy
+284,2016/5/6,Chocolate,chocolate,Silver Card Member,Queens,Male,60,I could only find 11 cups in the 12-pack.,amount.shortage
+285,2016/5/6,Chocolate,chocolate,Silver Card Member,Brooklyn,Female,20,There were only 10 pieces in the dozen pack.,amount.shortage
+286,2016/5/7,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Male,70,I think that the price of your ice cream are more expensive than other brands. Why are they?,price.price_general
+287,2016/5/8,Muffin,muffin,Silver Card Member,Manhattan,Female,30,The muffin tasted quite sour.,other
+288,2016/5/9,Jelly,fruit jelly,Silver Card Member,Bronx,Male,20,There was a piece of plastic inside the jelly cup.,contamination_tampering
+289,2016/5/9,Jelly,mint jelly,Golden Card Member,Manhattan,Female,40,There was a deep bruise in the inside of the container.,package_container.torn
+290,2016/5/10,Ice cream,chocolate ice cream,Golden Card Member,Queens,Male,30,"I bought ice cream for my daughter, but there was only half the usual amount. Is it okay to eat?",amount.shortage
+291,2016/5/10,Pastry,pastry,Silver Card Member,Brooklyn,Female,20,"In a 10-pack of bread, I could only find 9 pieces.",amount.shortage
+292,2016/5/10,Juice,orange juice,Silver Card Member,Bronx,Male,20,"I bought orange juice the day before yesterday and left the pack in the fridge for about two days without opening the lid, but the contents were leaking from the top of the pack.",package_container.leak
+293,2016/5/11,Tea,lemon tea,Golden Card Member,Manhattan,Female,40,There was no straw attached.,package_container
+294,2016/5/12,Jelly,mint jelly,Silver Card Member,Bronx,Male,30, Two cups of jelly missing from a dozen-pack.,amount.shortage
+295,2016/5/12,Tea,lemon tea,Golden Card Member,Manhattan,Female,50,Straw is not attached.,package_container
+296,2016/5/13,Ice cream,chocolate ice cream,Golden Card Member,Queens,Male,40,It tasted a bit more sour than when I had it the last time.,other
+297,2016/5/14,Juice,apple juice,Silver Card Member,Brooklyn,Female,20,This is my first time calling. The contents were leaking from a bottle of peach juice since there was a crack in it.,package_container
+298,2016/5/14,Juice,orange juice,Silver Card Member,Bronx,Male,30,The contents were leaking from the bottom of the juice pack.,package_container.leak
+299,2016/5/14,Juice,apple juice,Not Member,Manhattan,Female,30," I left the pack in the refrigerator for about three days without opening the lid, but the contents were leaking from the top of the pack.",package_container.leak
+300,2016/5/15,N/A,N/A,N/A,N/A,N/A,N/A,Hung-up call.,other
+301,2016/5/16,Jelly,strawberry jelly,Not Member,Bronx,Female,60,"I bought strawberry jelly for my son, but the inside of the container was a cloudy white.",change_of_properties
+302,2016/5/16,Ice cream,chocolate ice cream,Silver Card Member,Brooklyn,Male,40,There was a piece of plastic inside the ice cream.,contamination_tampering
+303,2016/5/16,Juice,apple juice,Silver Card Member,Manhattan,Female,40,"I am a first-time caller. I purchased orange juice at my local PQRST supermarket, but it looked like there was a leak on the outside of the pack.",package_container.leak
+304,2016/5/16,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Male,50,It was a little more sour than when I ate it before.,other
+305,2016/5/16,Ice cream,vanilla ice cream,Silver Card Member,Brooklyn,Female,70,"I bought ice cream for my child yesterday, but it had a sour odor.",other
+306,2016/5/18,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Male,50,"I got some chocolate ice cream, but the inside of the container was dirty. Is it safe?",package_container.dirt
+307,2016/5/18,Muffin,muffin,Silver Card Member,Manhattan,Female,20,I felt that there was a sour taste. Is it just me?,other
+308,2016/5/19,Ice cream,vanilla ice cream,Golden Card Member,Queens,Male,20,There was a yellow clump in the cup. I have saved the cup without eating it.,change_of_properties
+309,2016/5/19,Chocolate,chocolate cookie,Golden Card Member,Brooklyn,Female,60,"I bought cookie at my local PQRST supermarket, but the inside of the bag was dirty.",package_container.dirt
+310,2016/5/19,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Male,30,"I bought chocolate ice cream, but the inside of the container was dirty. Is it safe?",package_container.dirt
+311,2016/5/19,Juice,orange juice,Silver Card Member,Manhattan,Female,40,I am a first-time caller. The contents were leaking from the bottom of the juice pack.,package_container.leak
+312,2016/5/19,Juice,peach juice,Not Member,Bronx,Male,50,Apple juice leaked from the bottom of the juice pack.,package_container.leak
+313,2016/5/20,Chocolate,milk chocolate,Silver Card Member,Manhattan,Female,20,"I bought milk chocolate, but there were two pieces too few in the 12-pack.",amount.shortage
+314,2016/5/21,Chocolate,chocolate,Silver Card Member,Queens,Male,40,I found some hair inside the bag.,contamination_tampering
+315,2016/5/21,Jelly,fruit jelly,Silver Card Member,Brooklyn,Female,30,"I got fruit jelly at a supermarket, but there was something that looked like a needle inside the bag!",contamination_tampering
+316,2016/5/21,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Male,50,There was a piece of plastic inside the ice cream. Isn't it a prank?,contamination_tampering
+317,2016/5/22,Juice,orange juice,Silver Card Member,Manhattan,Female,60,"There was a crack in the bottle of apple juice, so the contents were leaking.",package_container.leak
+318,2016/5/23,Jelly,mint jelly,Silver Card Member,Bronx,Male,40, I liked the old ads for jelly better.  Are you not running them anymore?,ads
+319,2016/5/23,Ice cream,vanilla ice cream,Golden Card Member,Manhattan,Female,40,The price of your ice cream are more expensive than other brands.,price.price_general
+320,2016/5/24,Ice cream,vanilla ice cream,Golden Card Member,Queens,Male,50,Is this safe to eat? I am allergic to milk.,ingredient.allergy
+321,2016/5/24,N/A,N/A,Not Member,Brooklyn,Female,50,I like to buy snacks made by ABCDE confectionery company. Do you use any GM foods?,ingredient.gm_foods
+322,2016/5/24,Ice cream,chocolate ice cream,Not Member,Bronx,Male,60,There were three cups of ice cream missing from a 6-pack.,amount.shortage
+323,2016/5/24,Juice,orange juice,Silver Card Member,Manhattan,Female,70, There was a stain on the package that seemed to be caused by a leak.,package_container.leak
+324,2016/5/25,Juice,orange juice,Silver Card Member,Bronx,Male,40, There was some juice leaking from the top of the juice pack.,package_container.leak
+325,2016/5/26,Juice,pine juice,Silver Card Member,Queens,Female,30,There is a chunk of settlement in the juice bottle. I have saved the bottle without drinking it.,package_container
+326,2016/5/26,Jelly,fruit jelly,Silver Card Member,Queens,Male,20,There was a piece of plastic inside the chocolate ice cream.,contamination_tampering
+327,2016/5/26,Ice cream,vanilla ice cream,Silver Card Member,Brooklyn,Female,70,"I bought some ice cream for my daughter, but there was a piece of paper inside. Could you be a little more careful?",contamination_tampering
+328,2016/5/26,Jelly,fruit jelly,Silver Card Member,Bronx,Male,50, Nothing inside.,amount.empty
+329,2016/5/26,Juice,apple juice,Golden Card Member,Manhattan,Female,40,"I left the pack in the refrigerator for about three days without opening the lid, but the contents were leaking from the pack.",package_container.leak
+330,2016/5/26,Juice,orange juice,Golden Card Member,Bronx,Male,20,"I frequently buy juice made by ABCDE confectionery company, but this time some juice leaked from the bottom of the juice pack.",package_container.leak
+331,2016/5/26,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Female,30,I bought vanilla ice cream for my son. There was a sour smell.,other
+332,2016/5/27,Chocolate,chocolate,Silver Card Member,Queens,Male,60,"I bought some chocolate, but it was empty inside.",amount.empty
+333,2016/5/27,Juice,apple juice,Not Member,Brooklyn,Female,40,I like to buy juice made by ABCDE confectionery company. I would like to know what additives are used.,ingredient.additives
+334,2016/5/28,Tea,lemon tea,Silver Card Member,Bronx,Male,40,The straw was separated from the container.,package_container
+335,2016/5/29,Juice,pine juice,Silver Card Member,Manhattan,Female,50,"I am a first-time caller. There was a crack in the bottle of pine juice, so the contents were leaking.",package_container.leak
+336,2016/5/29,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Male,50,There was no spoon attached to the cup.,package_container
+337,2016/5/30,Cookie,cookie,Silver Card Member,Manhattan,Female,20,"You lowered the price on cookies for a limited time, but are you planning to keep the discount?",price.lowing_price
+338,2016/5/31,Jelly,mint jelly,Silver Card Member,Queens,Male,50,"I frequently buy mint fruit jelly, but this time the inside of the container was a cloudy white.",change_of_properties
+339,2016/5/31,Cookie,cookie,Silver Card Member,Brooklyn,Female,30,When are you going to stop selling the cookie?,production_plan.end_of_sale
+340,2016/5/31,Pastry,pastry,Golden Card Member,Bronx,Male,60,"The date hadn't expired yet, but it tasted bitter.",other
+341,2016/6/1,Juice,pine juice,Golden Card Member,Queens,Female,40,I found a chunk of settlement at the bottom of the juice bottle.,package_container
+342,2016/6/1,Chocolate,chocolate,Silver Card Member,Bronx,Male,20,This is my first time calling. There were three pieces of chocolate missing from a 12-pack.,amount.shortage
+343,2016/6/1,Jelly,mint jelly,Silver Card Member,Manhattan,Female,40,"I bought mint jelly, but there were two cups too few in the 12-pack.",amount.shortage
+344,2016/6/3,Muffin,muffin,Golden Card Member,Queens,Male,50,I found a bug inside a bag!,contamination_tampering
+345,2016/6/3,Ice cream,chocolate ice cream,Golden Card Member,Brooklyn,Female,30, no spoon attached.,package_container
+346,2016/6/4,Jelly,mint jelly,Silver Card Member,Bronx,Male,60, The inside of the cup was dirty.,package_container.dirt
+347,2016/6/4,Juice,apple juice,Silver Card Member,Manhattan,Female,20,There was some juice leaking from the bottom of the juice pack. Could you exchange it?,package_container.leak
+348,2016/6/4,Minerals,minerals,Silver Card Member,Bronx,Male,50,The bottle is larger than necessary.  It seems like a waste.,package_container
+349,2016/6/5,Pastry,pastry,Silver Card Member,Manhattan,Female,40,There was a bug inside a bag!  Get me your manager!,contamination_tampering
+350,2016/6/5,N/A,N/A,N/A,N/A,N/A,N/A,Crank call.,other
+351,2016/6/6,Juice,apple juice,Silver Card Member,Queens,Female,20,"This is my first time calling. When I was holding an unopened pack, the contents leaked from the straw hole. Is it okay to drink?",package_container
+352,2016/6/7,Minerals,minerals,Silver Card Member,Brooklyn,Male,70,"I like to buy apple juice, but the cap loosens up.",package_container
+353,2016/6/7,Juice,apple juice,Silver Card Member,Bronx,Female,30,"I like to buy apple juice from ABCDE confectionery company, but this time there was some juice leaking from the hole for the straw of the juice pack.",package_container
+354,2016/6/8,Jelly,fruit jelly,Silver Card Member,Manhattan,Male,20,"I am a first-time caller. I bought jelly, but it was empty inside.",amount.empty
+355,2016/6/8,Chocolate,chocolate,Silver Card Member,Bronx,Female,40, Three pieces of chocolate missing from a dozen-pack.,amount.shortage
+356,2016/6/8,Muffin,muffin,Golden Card Member,Brooklyn,Male,30,It was a little more sour than when I ate it before.,other
+357,2016/6/9,Juice,pine juice,Golden Card Member,Manhattan,Female,50,I like to buy juice from ABCDE confectionery company. I love the ads for the pine juice. Could you tell me the name of the actor in the commercial?,ads
+358,2016/6/9,N/A,N/A,Golden Card Member,Queens,Male,40,Do you use any GM foods?,ingredient.gm_foods
+359,2016/6/9,Jelly,mint jelly,Silver Card Member,Brooklyn,Female,20,"I often buy mint jelly, but this time there were only 10 muffins in the 12-pack.",amount.shortage
+360,2016/6/9,Tea,lemon tea,Silver Card Member,Bronx,Male,20,"I bought lemon tea at my local PQRST supermarket, but the straw was peeled off from the container.",package_container
+361,2016/6/9,N/A,mini cake,Silver Card Member,Manhattan,Female,50,I like to buy pastry and snacks from ABCDE confectionery company. Could you tell me when the new mini cake will be on sale?,production_plan.new_product
+362,2016/6/10,Pastry,pastry,Not Member,Bronx,Male,20,"The date hadn't expired yet, but it tasted sour.",other
+363,2016/6/10,Muffin,muffin,Silver Card Member,Manhattan,Female,60,The muffin had a rancid odor.,other
+364,2016/6/12,Chocolate,chocolate,Silver Card Member,Queens,Male,30,"I got some chocolate, but there was more in the package than it said on the label.",amount.excess
+365,2016/6/13,Juice,orange juice,Silver Card Member,Queens,Female,30,"I like to buy juice from ABCDE confectionery company, but this time I found some clump at the bottom of the bottle.",package_container
+366,2016/6/13,Chocolate,chocolate,Silver Card Member,Bronx,Male,30,This is my first time calling. There were three pieces of chocolate missing from a 12-pack.,amount.shortage
+367,2016/6/13,Juice,apple juice,Silver Card Member,Manhattan,Female,30, Some juice leaked from the bottom of the juice pack.,package_container.leak
+368,2016/6/13,Minerals,minerals,Silver Card Member,Bronx,Male,40,Could you make the bottle so that you could see how much is left?,package_container
+369,2016/6/14,Juice,orange juice,Golden Card Member,Manhattan,Female,40,There was some juice leaking from the bottom of the juice pack. I am wondering if it is okay to drink.,package_container.leak
+370,2016/6/14,Tea,lemon tea,Golden Card Member,Queens,Male,40,The straw was detached.,package_container
+371,2016/6/15,Cookie,cookie,Silver Card Member,Brooklyn,Female,70,Is buckwheat an ingredient?,other
+372,2016/6/15,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Male,50,"I bought chocolate ice cream for my daughters. The date hadn't expired yet, but it tasted sour.",other
+373,2016/6/16,Chocolate,chocolate,Golden Card Member,Manhattan,Female,20, One piece missing from a dozen-pack of chocolate.,amount.shortage
+374,2016/6/16,Ice cream,vanilla ice cream,Golden Card Member,Bronx,Male,50, I could only find 5 cups in the half-dozen pack.,amount.shortage
+375,2016/6/16,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Female,30,There was no spoon attached.,package_container
+376,2016/6/17,Juice,pine juice,Silver Card Member,Queens,Male,50, I love the ads for the pine juice!,ads
+377,2016/6/17,Ice cream,vanilla ice cream,Not Member,Brooklyn,Female,60,"I frequently buy vanilla ice cream, but this time there was only half the usual amount.",amount.shortage
+378,2016/6/17,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Male,40,"I bought chocolate ice cream for my daughter, but I found something that looked like a nail inside the cup!",contamination_tampering
+379,2016/6/18,N/A,N/A,N/A,N/A,N/A,N/A,HUNG-UP CALL,other
+380,2016/6/18,Juice,apple juice,Not Member,Manhattan,Male,40,"The contents leaked from the straw hole, when I was holding an unopened pack.",package_container
+381,2016/6/19,Juice,apple juice,Silver Card Member,Bronx,Female,50,"There was a crack in the bottle of apple juice, so the contents were leaking.",package_container.leak
+382,2016/6/20,Minerals,minerals,Silver Card Member,Bronx,Male,40,Don't you think the bottle is bigger than it needs to be?,package_container
+383,2016/6/21,Chocolate,milk chocolate,Silver Card Member,Manhattan,Female,60,"I frequently buy milk chocolate from ABCDE confectionery company, but this time there were one piece missing from the dozen pack.",amount.shortage
+384,2016/6/21,Juice,orange juice,Silver Card Member,Brooklyn,Male,60, The contents were leaking from the top.,package_container.leak
+385,2016/6/21,Juice,pine juice,Silver Card Member,Manhattan,Female,70,"I like to buy juice made by ABCDE confectionery company, but this time there was some juice leaking from the top.",package_container.leak
+386,2016/6/21,Juice,apple juice (bottle),Silver Card Member,Manhattan,Male,50, I think that the bottle is larger than necessary. It seems like a waste.,package_container
+387,2016/6/21,Minerals,minerals,Golden Card Member,Queens,Female,50,I think that the bottle is larger than necessary.  It seems like a waste.,package_container
+388,2016/6/22,Ice cream,chocolate ice cream,Golden Card Member,Brooklyn,Male,60, I found something like hair inside the cup.,contamination_tampering
+389,2016/6/22,Jelly,mint jelly,Silver Card Member,Bronx,Female,40," I bought mint jelly for my son, but there was something that looked like a nail inside the bag. Is this some sort of joke?",contamination_tampering
+390,2016/6/22,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Male,70,The cup looked like it was already opened. Is this a prank?,prank
+391,2016/6/23,Jelly,mint jelly,Not Member,Bronx,Female,50,I liked the old ads for mint jelly better.  Are you not running them anymore?,ads
+392,2016/6/23,Jelly,mint jelly,Silver Card Member,Manhattan,Male,20," I frequently buy mint fruit jelly, but this time the inside of the container was a cloudy white.",change_of_properties
+393,2016/6/23,Ice cream,vanilla ice cream,Silver Card Member,Queens,Female,20,After buying some ice cream I found a bug inside a cup!!  Get me your manager!,contamination_tampering
+394,2016/6/23,Jelly,mint jelly,Silver Card Member,Brooklyn,Male,20,"In a dozen-pack of mint jelly, I could only find 9 cups.",amount.shortage
+395,2016/6/23,N/A,N/A,Golden Card Member,Bronx,Female,30,Lower the price!,price.lowing_price
+396,2016/6/24,Ice cream,chocolate ice cream,Not Member,Queens,Male,30,There was a yellow clump in the cup. I have saved the cup without eating it.,change_of_properties
+397,2016/6/24,Muffin,muffin,Silver Card Member,Bronx,Female,40,"I bought muffin at my local supermarket. There was a piece of paper inside the muffin, and I accidentally ate it. Could you be a little more careful?",contamination_tampering
+398,2016/6/24,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Male,40,I found something like a piece of thread inside the cup of ice cream.,contamination_tampering
+399,2016/6/24,Ice cream,chocolate ice cream,Silver Card Member,Queens,Female,30,I purchased chocolate ice cream. I would like to know what additives are used.,ingredient.additives
+400,2016/6/24,Pastry,pastry,Silver Card Member,Brooklyn,Male,20,The bag was already torn. Is it okay?,package_container.torn
+401,2016/6/25,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Female,40,The inside of the container was dirty.,package_container.dirt
+402,2016/6/27,Pastry,pastry,Silver Card Member,Manhattan,Male,40,There is very little cream in this pastry.,amount.shortage
+403,2016/6/27,Tea,lemon tea,Golden Card Member,Bronx,Female,50,"I bought black coffee at my local PQRST supermarket, but the straw was peeled off from the pack.",package_container
+404,2016/6/28,Pastry,pastry,Golden Card Member,Manhattan,Male,50,There were only 8 pieces of bread in the 10-pack.,amount.shortage
+405,2016/6/28,Pastry,pastry,Silver Card Member,Queens,Female,60,There were three pieces of bread missing from a 10-pack.,amount.shortage
+406,2016/6/28,Juice,orange juice,Silver Card Member,Brooklyn,Male,40, This is my first time calling. There is a trace of a leak on the outside of the package.,package_container.leak
+407,2016/6/28,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Female,70,"I bought the vanilla ice cream yesterday, but it had a sour odor. Is it okay?",other
+408,2016/6/29,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Male,50,Is this safe to eat? I am allergic to eggs.,ingredient.allergy
+409,2016/6/30,Pastry,pastry,Silver Card Member,Bronx,Female,20,I think that the price of your pastry are more expensive than other brands. Why are they?,price.price_general
+410,2016/7/1,Cookie,cookie,Silver Card Member,Manhattan,Male,20,Do you use soy beans as an ingredient?,other
+411,2016/7/1,Chocolate,chocolate,Golden Card Member,Queens,Female,60,"I bought some chocolate, but there was a lot more that was indicated on the package. Is this a problem?",amount.excess
+412,2016/7/1,Chocolate,milk chocolate,Golden Card Member,Brooklyn,Male,30,It looks like someone cut the wrapper with a knife.,prank
+413,2016/7/3,Chocolate,bitter chocolate,Silver Card Member,Bronx,Female,30,"I bought bitter chocolate, but there was nothing inside.",amount.empty
+414,2016/7/3,Chocolate,chocolate muffin,Silver Card Member,Manhattan,Male,40,"I bought muffin at my local PQRST supermarket, but the bag was already torn.",package_container.torn
+415,2016/7/4,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Female,30,One cup of ice cream missing from a 6-pack.,amount.shortage
+416,2016/7/6,N/A,N/A,Silver Card Member,Manhattan,Male,40,I frequently buy snacks made by ABCDE confectionery company. Do you use any genetically modified ingredients?,ingredient.gm_foods
+417,2016/7/7,Juice,pine juice,Golden Card Member,Queens,Female,40,"I bought orange juice the day before yesterday and left the pack in the fridge for about two days without opening the lid, but the contents were leaking from the pack.",package_container.leak
+418,2016/7/7,Tea,lemon tea,Silver Card Member,Brooklyn,Male,50,There was no straw attached!,package_container
+419,2016/7/8,Jelly,mint jelly,Silver Card Member,Bronx,Female,40,There was something like a piece of thread inside the bag of mint jelly.,contamination_tampering
+420,2016/7/9,Chocolate,chocolate,Silver Card Member,Manhattan,Male,50,Three pieces of chocolate missing from a 12-pack.,amount.shortage
+421,2016/7/9,N/A,N/A,N/A,N/A,N/A,N/A,crank call,other
+422,2016/7/9,Jelly,mint jelly,Silver Card Member,Bronx,Male,60," I bought mint jelly, but the inside of the container was dirty. Is it okay?",package_container.dirt
+423,2016/7/10,Pastry,pastry,Golden Card Member,Bronx,Female,50,"After buying some bread, I found a bug inside a bag!!! Get me your president!!!",contamination_tampering
+424,2016/7/10,Chocolate,chocolate muffin,Silver Card Member,Brooklyn,Male,70,I like to buy muffins made by ABCDE confectionery company. Could you please tell me what additives you are using?,ingredient.additives
+425,2016/7/10,N/A,N/A,N/A,N/A,N/A,N/A,Crank call.,other
+426,2016/7/11,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Female,20,"After buying some ice cream, I found a bug inside a cup!!!  Get me your president!!!",contamination_tampering
+427,2016/7/11,Jelly,mint jelly,Silver Card Member,Queens,Male,50, I found a deep bruise in the inside of the container.,package_container.torn
+428,2016/7/11,N/A,mini cake,Silver Card Member,Brooklyn,Female,20,Could you tell me when the new mini cake will be on sale?,production_plan.new_product
+429,2016/7/11,Muffin,muffin,Not Member,Bronx,Male,30,"I bought some muffin, but there was a sour odor when I opened the bag. It usually doesn't smell.",other
+430,2016/7/12,Juice,pine juice,Silver Card Member,Manhattan,Female,50, There was some juice leaking from the bottom of the juice pack.,package_container.leak
+431,2016/7/13,Jelly,mint jelly,Silver Card Member,Bronx,Male,40,There was a piece of plastic inside the jelly. Isn't it a prank?,contamination_tampering
+432,2016/7/13,Tea,lemon tea,Silver Card Member,Manhattan,Female,60, the straw was peeled off from the juice pack.,package_container
+433,2016/7/14,Ice cream,chocolate ice cream,Silver Card Member,Queens,Male,30,"I got some ice cream, but I found some hair inside the cup.",contamination_tampering
+434,2016/7/14,Ice cream,chocolate ice cream,Silver Card Member,Brooklyn,Female,20,I have a egg allergy. Is this safe to eat?,ingredient.allergy
+435,2016/7/15,Jelly,mint jelly,Silver Card Member,Bronx,Male,40,I am allergic to gelatin.  Is this safe to eat?,ingredient.allergy
+436,2016/7/15,Ice cream,chocolate ice cream,Golden Card Member,Manhattan,Female,40,"I bought chocolate ice cream, but there were two cups too few in the 6-pack.",amount.shortage
+437,2016/7/15,Minerals,minerals,Golden Card Member,Bronx,Male,50,The cap of the bottle loosens up easily.,package_container
+438,2016/7/15,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Female,50,The inside of the container was dirty.,package_container.dirt
+439,2016/7/15,Juice,pine juice,Silver Card Member,Queens,Male,20, There was a stain on the package that seemed to be caused by a leak.,package_container.leak
+440,2016/7/15,Pastry,pastry,Silver Card Member,Brooklyn,Female,50,"I bought pastry at a nearby PQRST supermarket, but the bag was already torn.",package_container.torn
+441,2016/7/16,Jelly,mint jelly,Silver Card Member,Bronx,Male,60,There was some hair inside the bag of jelly.,contamination_tampering
+442,2016/7/16,Chocolate,chocolate,Silver Card Member,Manhattan,Female,60,There was something like a piece of thread inside the bag of chocolate.,contamination_tampering
+443,2016/7/16,Jelly,fruit jelly,Silver Card Member,Bronx,Male,70,The bag was torn.,package_container.torn
+444,2016/7/17,Juice,orange juice,Golden Card Member,Manhattan,Female,30,I frequently buy juice made by ABCDE confectionery company. Do you use any genetically modified ingredients?,ingredient.gm_foods
+445,2016/7/18,Juice,orange juice,Golden Card Member,Queens,Male,20,Some juice leaked from the top of the juice pack.,package_container.leak
+446,2016/7/20,Jelly,mint jelly,Silver Card Member,Brooklyn,Female,20,"I bought jelly at my local supermarket, but it has already expired.",expiration_date
+447,2016/7/21,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Male,40,I got some ice cream. Could you please tell me what additives you are using?,ingredient.additives
+448,2016/7/21,Muffin,muffin,Golden Card Member,Manhattan,Female,30,My son is allergic to buckwheat. Do you use buckwheat?,ingredient.allergy
+449,2016/7/21,Pastry,pastry,Silver Card Member,Bronx,Male,20,Do you use soy?,other
+450,2016/7/21,Chocolate,milk chocolate,Silver Card Member,Manhattan,Female,40,"In a dozen-pack of pieces, I could only find 9 of them.",amount.shortage
+451,2016/7/22,N/A,N/A,N/A,N/A,N/A,N/A,crank call,other
+452,2016/7/23,Chocolate,milk chocolate,Silver Card Member,Queens,Female,50," I bought milk chocolate, but it was empty inside.",amount.empty
+453,2016/7/23,Tea,lemon tea,Silver Card Member,Brooklyn,Male,40, the straw was peeled off from the juice pack.,package_container
+454,2016/7/23,Juice,apple juice,Silver Card Member,Bronx,Female,40,There was a strong strange sour smell.,other
+455,2016/7/24,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Male,50,I found something like hair inside the cup of ice cream.,contamination_tampering
+456,2016/7/24,Juice,pine juice,Silver Card Member,Bronx,Female,50,"I bought lemon tea at my local PQRST supermarket, but the straw was detached.",package_container
+457,2016/7/24,Tea,lemon tea,Golden Card Member,Bronx,Male,20,When are you going to raise the price on the tea?,price.raise_of_price
+458,2016/7/25,Chocolate,chocolate,Golden Card Member,Manhattan,Female,60,"I often buy chocolate from ABCDE confectionery company, but this time there were two pieces missing from the dozen pack.",amount.shortage
+459,2016/7/25,Juice,orange juice,Silver Card Member,Queens,Male,30,There was some juice leaking from the bottom of the pack.,package_container.leak
+460,2016/7/25,Juice,orange juice,Silver Card Member,Brooklyn,Female,30, This is my first time calling. The contents were leaking from the top of the orange juice pack.,package_container.leak
+461,2016/7/26,Muffin,muffin,Golden Card Member,Queens,Male,20,The muffin was growing mold even before the expiration date.,change_of_properties
+462,2016/7/26,Coffee,black coffee,Silver Card Member,Manhattan,Female,40,LEAK (straw hole),package_container
+463,2016/7/27,Jelly,fruit jelly,Silver Card Member,Bronx,Male,70,"When I checked carefully, there was a bruise in the inside of the container.",package_container.torn
+464,2016/7/27,Juice,apple juice,Silver Card Member,Manhattan,Female,40,The apple juice were leaking from the straw hole.,package_container
+465,2016/7/28,Juice,apple juice,Silver Card Member,Queens,Male,20, There was no straw attached.,package_container
+466,2016/7/29,Ice cream,chocolate ice cream,Silver Card Member,Brooklyn,Female,30, A piece of thread inside the cup of ice cream.,contamination_tampering
+467,2016/7/29,Minerals,minerals,Silver Card Member,Bronx,Male,30,I think the bottle cap is on too tight.,package_container
+468,2016/7/29,Juice,pine juice,Silver Card Member,Manhattan,Female,50,The contents were leaking from a bottle of orange juice since there was a crack in it.,package_container
+469,2016/7/30,Muffin,muffin,Golden Card Member,Queens,Male,40,"It is before the expiration date, but the muffin was moldy.",change_of_properties
+470,2016/7/30,Jelly,mint jelly,Golden Card Member,Manhattan,Female,40,There was a bruise in the inside of the container.,package_container.torn
+471,2016/7/30,Juice,orange juice,Silver Card Member,Queens,Male,60,There is a trace of a leak on the outside of the package.,package_container.leak
+472,2016/7/30,Juice,orange juice,Silver Card Member,Brooklyn,Female,70,"This is my first time calling. When I was holding an unopened pack, the contents leaked from the top. Is it okay to drink?",package_container.leak
+473,2016/7/30,Minerals,minerals,Golden Card Member,Bronx,Male,30, Don't you think the bottle is bigger than it needs to be?,package_container
+474,2016/7/31,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Female,50,There was some hair inside the cup of ice cream.,contamination_tampering
+475,2016/7/31,Jelly,fruit jelly,Silver Card Member,Bronx,Male,40,One cup of mint jelly missing from a 12-pack.,amount.shortage
+476,2016/7/31,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Female,50, the spoon was detached.,package_container
+477,2016/7/31,Ice cream,strawberry ice cream,Silver Card Member,Queens,Male,50,When the new strawberry ice cream will be on sale?,production_plan.new_product
+478,2016/8/1,Cookie,cookie,Silver Card Member,Brooklyn,Female,30,I am allergic to eggs.  Do you use eggs?,ingredient.allergy
+479,2016/8/1,Juice,pine juice,Golden Card Member,Bronx,Male,40, This is my first time calling. The contents were leaking from the bottom of the apple juice pack.,package_container.leak
+480,2016/8/1,N/A,N/A,Golden Card Member,Manhattan,Female,60,"Company xyzw confectionery company has lowered its prices since August, but are you going lower prices as well?",price.lowing_price
+481,2016/8/1,Muffin,muffin,Silver Card Member,Bronx,Male,50,It tasted a bit more bitter than when I had it the last time.,other
+482,2016/8/2,Ice cream,vanilla ice cream,Silver Card Member,Queens,Female,70, There was a dark clump at the bottom of the ice cream cup.,change_of_properties
+483,2016/8/2,Ice cream,chocolate ice cream,Silver Card Member,Queens,Male,60,I frequently buy the chocolate ice cream for my children. Please lower the price of the ice cream.,price.lowing_price
+484,2016/8/3,Chocolate,chocolate,Golden Card Member,Brooklyn,Female,60,I found a bug inside a bag! Could you be a little more careful?,contamination_tampering
+485,2016/8/3,Jelly,mint jelly,Silver Card Member,Bronx,Male,20,"I frequently buy jelly from ABCDE confectionery company, but this time there were one cup missing from the dozen pack.",amount.shortage
+486,2016/8/3,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Female,40,"I bought ice cream today, but it had a strange odor.",other
+487,2016/8/4,Jelly,fruit jelly,Silver Card Member,Bronx,Male,50,"When I checked carefully, there was a deep cut in the inside of the container.",package_container.torn
+488,2016/8/4,N/A,N/A,Golden Card Member,Manhattan,Female,20,Xyzw confectionery company lowered its prices in this month.  Can't you lower your prices also?,price.lowing_price
+489,2016/8/5,Ice cream,chocolate ice cream,Golden Card Member,Queens,Male,40,I found a piece of thread inside the cup of ice cream.,contamination_tampering
+490,2016/8/5,N/A,N/A,Golden Card Member,Brooklyn,Female,30, Why doesn't ABCDE confectionery company lower prices when the other companies are.,price.lowing_price
+491,2016/8/6,Pastry,pastry,Silver Card Member,Bronx,Male,50,Is soy an ingredient?,other
+492,2016/8/6,Minerals,minerals,Golden Card Member,Manhattan,Female,40,"I frequently buy fruit mix juice, but the bottle cap loosens up even if I close it tightly.",package_container
+493,2016/8/6,Tea,lemon tea,Silver Card Member,Bronx,Male,20,The straw was separated from the container.,package_container
+494,2016/8/7,Jelly,mint jelly,Silver Card Member,Manhattan,Female,50, Are you not running the old ads for mint jelly anymore?,ads
+495,2016/8/7,Chocolate,chocolate,Silver Card Member,Queens,Male,30,"I bought chocolate at my local PQRST supermarket, but there were two pieces too few in the 12-pack.",amount.shortage
+496,2016/8/7,Juice,orange juice,Silver Card Member,Brooklyn,Female,40,"I frequently buy orange juice at a nearby supermarket, but this time the contents were leaking from the top of the juice pack.",package_container.leak
+497,2016/8/7,Tea,lemon tea,Golden Card Member,Bronx,Male,60,Please lower the price of the lemon tea.,price.lowing_price
+498,2016/8/9,Ice cream,vanilla ice cream,Golden Card Member,Manhattan,Female,40, Two cups of ice cream missing from a half-dozen-pack.,amount.shortage
+499,2016/8/9,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Male,70, I found a deep bruise in the inside of the cup.,package_container.torn
+500,2016/8/9,Juice,orange juice,Silver Card Member,Manhattan,Female,50,The contents were leaking from the top of the juice pack.,package_container.leak
+501,2016/8/10,Ice cream,vanilla ice cream,Silver Card Member,Queens,Male,30,"I frequently buy vanilla ice cream from ABCDE confectionery company, but this time there were one cup missing from the half dozen pack.",amount.shortage
+502,2016/8/10,Juice,apple juice (bottle),Golden Card Member,Brooklyn,Female,20, The bottle won't open up since the cap is too tight.,package_container
+503,2016/8/10,N/A,N/A,Golden Card Member,Bronx,Male,40,Are you going lower prices?,price.lowing_price
+504,2016/8/10,Tea,lemon tea,Silver Card Member,Manhattan,Female,40,Are you really going to raise the price on the lemon tea?,price.raise_of_price
+505,2016/8/11,Jelly,fruit jelly,Silver Card Member,Bronx,Male,20,There was a cut in the inside of the container. Is it okay to eat?,package_container.torn
+506,2016/8/11,Minerals,minerals,Silver Card Member,Manhattan,Female,50,It would be nice if there were a bottle so that you could see how much juice is left.,package_container
+507,2016/8/12,Coffee,black coffee,Golden Card Member,Queens,Male,30,Could you make the coffee cheaper?,price.price_general
+508,2016/8/13,Juice,orange juice (bottle),Golden Card Member,Brooklyn,Female,50,The cap of the bottle loosens up easily.,package_container
+509,2016/8/13,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Male,40," I bought chocolate ice cream, but the inside of the container was dirty. Is it safe?",package_container.dirt
+510,2016/8/13,Minerals,minerals,Silver Card Member,Manhattan,Female,60, I think that the bottle is larger than necessary. It seems like a waste.,package_container
+511,2016/8/13,N/A,N/A,Golden Card Member,Bronx,Male,50,I don't understand why ABCDE confectionery company doesn't lower prices.,price.lowing_price
+512,2016/8/13,N/A,N/A,Golden Card Member,Manhattan,Female,20,Xyzw confectionery company has lowered its prices since the previous month. Are you going lower prices as well?,price.lowing_price
+513,2016/8/13,Cookie,cookie,Silver Card Member,Queens,Male,40,Please make the cookies cheaper.,price.price_general
+514,2016/8/13,Cookie,cookie,Silver Card Member,Brooklyn,Female,60,I like to buy cookie from ABCDE confectionery company. When are you going to stop selling the cookie?,production_plan.end_of_sale
+515,2016/8/14,Jelly,apple jelly,Silver Card Member,Bronx,Male,30," I bought some apple jelly, but there was nothing inside.",amount.empty
+516,2016/8/14,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Female,70,There was no spoon attached.,package_container
+517,2016/8/14,Muffin,muffin,Silver Card Member,Bronx,Male,30,It looks like someone cut the wrapper with a knife.,prank
+518,2016/8/15,Muffin,blueberry muffin,Silver Card Member,Manhattan,Female,50,There were only 10 muffins in the dozen-pack.,amount.shortage
+519,2016/8/15,N/A,N/A,Golden Card Member,Queens,Male,50,Please make the drinks cheaper.,price.price_general
+520,2016/8/16,Ice cream,vanilla ice cream,Silver Card Member,Queens,Female,40,A dark clump at the bottom of the cup.,change_of_properties
+521,2016/8/16,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Male,50, I found some hair inside the cup.,contamination_tampering
+522,2016/8/16,N/A,N/A,Golden Card Member,Manhattan,Female,20,Please make the snacks cheaper.,price.price_general
+523,2016/8/17,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Male,20,"I bought vanilla ice cream for my daughter, but the inside of the container was dirty.",package_container.dirt
+524,2016/8/17,Juice,apple juice,Silver Card Member,Manhattan,Female,30,I like to buy apple juice from ABCDE confectionery company! I wish you would lower prices on the juice.,price.lowing_price
+525,2016/8/18,Cookie,cookie,Golden Card Member,Queens,Male,30,Do you use buckwheat?,other
+526,2016/8/18,N/A,N/A,Golden Card Member,Brooklyn,Female,40,Do you use any GM ingredients?,ingredient.gm_foods
+527,2016/8/18,Pastry,pastry,Silver Card Member,Bronx,Male,40,There were two pieces of bread too few in the 10-pack.,amount.shortage
+528,2016/8/18,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Female,50, The spoon was detached.,package_container
+529,2016/8/19,Juice,apple juice,Silver Card Member,Queens,Male,60,There was a yellow clump in the bottle. I have saved the bottle without drinking it.,package_container
+530,2016/8/19,Pastry,pastry,Silver Card Member,Manhattan,Female,40,I wish you would lower prices on the pastry.,price.lowing_price
+531,2016/8/19,Jelly,mint jelly,Silver Card Member,Queens,Male,60,"This is my first time calling. I bought mint jelly today, but it had a strange odor.",other
+532,2016/8/20,Ice cream,chocolate ice cream,Silver Card Member,Brooklyn,Female,20,"I bought chocolate ice cream for my son, but there was something like a piece of plastic inside.",contamination_tampering
+533,2016/8/20,Pastry,pastry,Silver Card Member,Bronx,Male,70,There is very little cream in this cream bun. Sometimes there is almost no cream at all.,amount.shortage
+534,2016/8/20,Juice,apple juice,Silver Card Member,Manhattan,Female,20,This is my first time calling. There was some juice leaking from the bottom of the juice pack.,package_container.leak
+535,2016/8/20,Juice,pine juice,Silver Card Member,Bronx,Male,50, There was a strange sour smell.,other
+536,2016/8/21,Jelly,fruit jelly,Silver Card Member,Manhattan,Female,30,"I bought fruit jelly for my son, but there was something like a piece of thread inside the bag.",contamination_tampering
+537,2016/8/21,Ice cream,chocolate ice cream,Silver Card Member,Queens,Male,50,"I bought chocolate ice cream, but there were two cups too few in the 6-pack.",amount.shortage
+538,2016/8/22,Jelly,mint jelly,Golden Card Member,Brooklyn,Female,60,"I bought mint jelly for my son, but there was a piece of paper inside. Could you be a little more careful?",contamination_tampering
+539,2016/8/22,N/A,N/A,Golden Card Member,Bronx,Male,20,Lower the price of drinks.,price.lowing_price
+540,2016/8/22,Juice,orange juice,Golden Card Member,Manhattan,Female,40,Xyzw confectionery company has lowered its prices on the snacks. I wish you would also lower prices on the orange juice!,price.lowing_price
+541,2016/8/22,Pastry,pastry,Silver Card Member,Bronx,Male,30,Please lower the price of the sweet bun.,price.lowing_price
+542,2016/8/22,Cookie,cookie,Silver Card Member,Manhattan,Female,50,When are you going to stop selling the cookie?,production_plan.end_of_sale
+543,2016/8/23,Jelly,fruit jelly,Golden Card Member,Queens,Male,40, There was something like a piece of thread inside the bag of fruit jelly. Is it safe?,contamination_tampering
+544,2016/8/23,Chocolate,chocolate,Silver Card Member,Brooklyn,Female,40, I could only find 10 chocolate pieces in the dozen pack.,amount.shortage
+545,2016/8/23,Muffin,muffin,Silver Card Member,Bronx,Male,50,"When I looked closely, the bag looked like it was already opened.",prank
+546,2016/8/24,Ice cream,chocolate ice cream,Golden Card Member,Manhattan,Female,40,"I like to buy ice cream from ABCDE confectionery company, but this time it was only half full.",amount.shortage
+547,2016/8/24,Jelly,mint jelly,Golden Card Member,Bronx,Male,50,"I got some mint jelly, but I found some hair inside the bag.",contamination_tampering
+548,2016/8/25,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Female,60,Do you use any GM foods?,ingredient.gm_foods
+549,2016/8/25,Chocolate,chocolate,Silver Card Member,Queens,Male,20,It seems like the wrapper was cut by a knife or something.,prank
+550,2016/8/25,Pastry,pastry,Silver Card Member,Brooklyn,Female,70,Could you make the pastry cheaper?,price.price_general
+551,2016/8/26,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Male,20,"I frequently buy chocolate ice cream from ABCDE confectionery company, but this time there were one cup missing from the half dozen pack.",amount.shortage
+552,2016/8/27,Jelly,fruit jelly,Silver Card Member,Manhattan,Female,20,There was a piece of plastic inside the jelly.,contamination_tampering
+553,2016/8/27,Chocolate,chocolate cookie,Silver Card Member,Bronx,Male,30," I bought fruit jelly, but the inside of the container was dirty. I would like it exchanged.",package_container.dirt
+554,2016/8/27,Juice,pine juice,Silver Card Member,Manhattan,Female,30,I frequently buy the pine juice for my children. Please lower the price of the juice.,price.lowing_price
+555,2016/8/27,Ice cream,vanilla ice cream,Silver Card Member,Queens,Male,40,The vanilla ice cream has a rancid odor.,other
+556,2016/8/28,Tea,lemon tea,Silver Card Member,Brooklyn,Female,20,"I frequently buy tea made by ABCDE confectionery company, but this time the straw was peeled off from the container.",package_container
+557,2016/8/28,Muffin,muffin,Silver Card Member,Bronx,Male,40,I like to buy muffin from ABCDE confectionery company! I wish you would lower prices on the muffin.,price.lowing_price
+558,2016/8/31,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Female,30,"I frequently buy chocolate ice cream from ABCDE confectionery company, but this time there were one cup missing from the half dozen pack.",amount.shortage
+559,2016/8/31,Juice,orange juice,Silver Card Member,Bronx,Male,20,"I bought orange juice the day before yesterday and left the pack in the fridge for about two days without opening the lid, but the contents were leaking from the bottom of the pack.",package_container.leak
+560,2016/8/31,Muffin,muffin,Golden Card Member,Manhattan,Female,40,Xyzw confectionery company has lowered its prices on the pastry and snacks. I wish you would also lower prices on the muffin.,price.lowing_price
+561,2016/9/1,Juice,apple juice (bottle),Silver Card Member,Queens,Male,50,The bottle won't open up. The cap is on too tight!,package_container
+562,2016/9/1,N/A,N/A,Golden Card Member,Brooklyn,Female,50,I don't understand why ABCDE confectionery company doesn't lower prices when the other companies are.,price.lowing_price
+563,2016/9/2,N/A,N/A,Golden Card Member,Bronx,Male,30,Lower the price!,price.lowing_price
+564,2016/9/3,Muffin,muffin,Silver Card Member,Manhattan,Female,50,I frequently buy the muffin. Please lower the price of the muffin.,price.lowing_price
+565,2016/9/4,Minerals,minerals,Silver Card Member,Bronx,Male,60, The bottle won't open up since the cap is too tight.,package_container
+566,2016/9/4,Juice,apple juice,Silver Card Member,Manhattan,Female,50,The apple juice had a rancid odor.,other
+567,2016/9/5,Chocolate,chocolate,Golden Card Member,Queens,Male,70,"I bought chocolate at my local PQRST supermarket, but there were two pieces too few in the 12-pack.",amount.shortage
+568,2016/9/5,Juice,apple juice,Silver Card Member,Brooklyn,Female,30,The juice leaked from the straw hole. Is it safe to drink?,package_container
+569,2016/9/5,Juice,orange juice,Golden Card Member,Bronx,Male,30,"I am a first-time caller. I bought orange juice today, but the contents were leaking from the hole for the straw of the bottle.",package_container
+570,2016/9/5,Juice,orange juice,Golden Card Member,Manhattan,Female,40,There was some juice leaking from the hole for the straw of the juice pack. Could you exchange it?,package_container
+571,2016/9/6,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Male,60,There was some hair inside the cup of chocolate ice cream.,contamination_tampering
+572,2016/9/6,Chocolate,chocolate,Silver Card Member,Manhattan,Female,40,There was something that looked like a nail inside the bag. Is this a joke?,contamination_tampering
+573,2016/9/6,N/A,N/A,Golden Card Member,Queens,Male,20,You're the only company that hasn't lowered prices.,price.lowing_price
+574,2016/9/6,Jelly,fruit jelly,Golden Card Member,Brooklyn,Female,50,I wish you would lower prices on the jelly.,price.lowing_price
+575,2016/9/7,N/A,N/A,Golden Card Member,Bronx,Male,30,"I heard company Xyzw confectionery company has lowered its prices since August, but are you going lower prices as well?",price.lowing_price
+576,2016/9/8,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Female,40,"I like to buy vanilla ice cream from ABCDE confectionery company, but it was only half full.",amount.shortage
+577,2016/9/9,Juice,pine juice,Golden Card Member,Queens,Male,40,There was a clump at the bottom of the juice bottle. I have saved the bottle without drinking it.,package_container
+578,2016/9/9,Minerals,minerals,Golden Card Member,Manhattan,Female,50,The cap loosens up.,package_container
+579,2016/9/9,Jelly,fruit jelly,Silver Card Member,Queens,Male,50,Please lower the price of the fruit jelly.,price.lowing_price
+580,2016/9/10,Juice,pine juice,Silver Card Member,Brooklyn,Female,60,"I bought pine juice yesterday, but it had a sour odor.",other
+581,2016/9/11,Juice,apple juice,Silver Card Member,Queens,Male,20,"I bought juice for my children, but there was something like a dark clump at the bottom of the bottle.",package_container
+582,2016/9/11,N/A,N/A,Silver Card Member,Manhattan,Female,60,Do you use any genetically modified ingredients?,ingredient.gm_foods
+583,2016/9/11,Juice,orange juice,Silver Card Member,Bronx,Male,20, It looked like there was a leak on the outside of the pack.,package_container.leak
+584,2016/9/11,N/A,N/A,Golden Card Member,Manhattan,Female,70,Other companies has lowered their prices!,price.lowing_price
+585,2016/9/12,Ice cream,vanilla ice cream,Golden Card Member,Queens,Male,30,There was a dark clump at the bottom of the cup of ice cream.,change_of_properties
+586,2016/9/12,Ice cream,chocolate ice cream,Silver Card Member,Brooklyn,Female,30,"In a half-dozen pack of chocolate ice cream, I could only find five of them.",amount.shortage
+587,2016/9/12,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Male,40,"I bought vanilla ice cream for my son, but the inside of the container was dirty.",package_container.dirt
+588,2016/9/12,Jelly,fruit jelly,Silver Card Member,Manhattan,Female,40,Could you make the fruit jelly cheaper?,price.price_general
+589,2016/9/12,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Male,40,Are you really going to raise the price on the ice cream?,price.raise_of_price
+590,2016/9/12,Jelly,fruit jelly,Silver Card Member,Manhattan,Female,20,"I bought some jelly today, but it had a strange odor.",other
+591,2016/9/13,Juice,orange juice (bottle),Golden Card Member,Queens,Male,50, I think the bottle cap is on too tight.,package_container
+592,2016/9/13,Tea,lemon tea,Silver Card Member,Brooklyn,Female,30, straw hole.,package_container
+593,2016/9/14,N/A,N/A,Golden Card Member,Bronx,Male,50,Please make the snacks cheaper.,price.price_general
+594,2016/9/15,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Female,40,I am allergic to eggs.  Is this safe to eat?,ingredient.allergy
+595,2016/9/15,N/A,N/A,N/A,N/A,N/A,N/A,Crank call.,other
+596,2016/9/15,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Female,50,I like to buy vanilla ice cream from ABCDE confectionery company! I wish you would lower prices on the ice cream.,price.lowing_price
+597,2016/9/16,N/A,N/A,Golden Card Member,N/A,Male,20,Can't you lower your prices? Xyzw confectionery company lowered its prices.,price.lowing_price
+598,2016/9/16,N/A,N/A,Golden Card Member,N/A,Female,60,You are the only company that hasn't lowered prices.,price.lowing_price
+599,2016/9/17,Pastry,pastry,Silver Card Member,Brooklyn,Male,60,"Yesterday I bought pastry, but it was totally dry even after only one day.",change_of_properties
+600,2016/9/17,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Female,20,My daughter has a milk allergy. Is this safe to eat?,ingredient.allergy
+601,2016/9/18,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Male,70,I liked the old ads for ice cream better.,ads
+602,2016/9/18,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Female,30,Xyzw confectionery company has lowered its prices on the snacks. I wish you would also lower prices on the ice cream!,price.lowing_price
+603,2016/9/19,Ice cream,vanilla ice cream,Silver Card Member,Queens,Male,30,There was a strong strange sour order.,other
+604,2016/9/21,Ice cream,vanilla ice cream,Silver Card Member,Brooklyn,Female,50,I liked the old ads for vanilla ice cream better.  Are you not running them anymore?,ads
+605,2016/9/21,Chocolate,chocolate,Golden Card Member,Bronx,Male,40,There was some hair inside the bag!,contamination_tampering
+606,2016/9/21,Muffin,blueberry muffin,Golden Card Member,Manhattan,Female,50,I could only find 11 muffins in the 12-pack.,amount.shortage
+607,2016/9/21,N/A,N/A,Golden Card Member,Bronx,Male,20,Lower the price!,price.lowing_price
+608,2016/9/21,N/A,N/A,Golden Card Member,Manhattan,Female,60,Xyzw confectionery company has lowered its prices on the snacks and the drinks. I don't understand why ABCDE confectionery company doesn't lower prices when the other companies are.,price.lowing_price
+609,2016/9/22,Juice,orange juice,Silver Card Member,Queens,Male,40,Some juice leaked from the bottom of the juice pack.,package_container.leak
+610,2016/9/23,Ice cream,vanilla ice cream,Golden Card Member,Brooklyn,Female,40, This is my first time calling. The inside of the container was dirty!,package_container.dirt
+611,2016/9/23,Jelly,mint jelly,Golden Card Member,Bronx,Male,30,I bought jelly at my local store. It tasted a bit more sour than when I had it the last time.,other
+612,2016/9/24,Chocolate,milk chocolate,Silver Card Member,Manhattan,Female,50,"I bought chocolate for my son, but I found something that looked like a nail inside the bag!",contamination_tampering
+613,2016/9/26,Tea,lemon tea,Silver Card Member,Bronx,Male,40, the straw was peeled off from the juice pack.,package_container
+614,2016/9/26,N/A,N/A,Golden Card Member,Manhattan,Female,20,Why doesn't ABCDE confectionery company lower prices when the other companies are.,price.lowing_price
+615,2016/9/27,Chocolate,chocolate,Silver Card Member,Queens,Male,30,There was something like a piece of thread inside the bag.,contamination_tampering
+616,2016/9/27,Muffin,blueberry muffin,Silver Card Member,Brooklyn,Female,50,"In a dozen-pack of muffin, I could only find 10 of them.",amount.shortage
+617,2016/9/28,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Male,40,I found something like hair inside the cup of ice cream.,contamination_tampering
+618,2016/9/28,Pastry,pastry,Silver Card Member,Manhattan,Female,60, Two pieces of bread missing from a 10-pack.,amount.shortage
+619,2016/9/28,Tea,lemon tea,Silver Card Member,Bronx,Male,20,"I like to buy tea from ABCDE confectionery company, but this time there was no straw attached to the pack.",package_container
+620,2016/9/29,Ice cream,vanilla ice cream,Golden Card Member,Manhattan,Female,20, Three cups missing from a half-dozen-pack of ice cream.,amount.shortage
+621,2016/9/29,Ice cream,vanilla ice cream,Silver Card Member,Queens,Male,30,The inside of the container was dirty.,package_container.dirt
+622,2016/9/30,Jelly,fruit jelly,Silver Card Member,Brooklyn,Female,20,The bag was already torn.,package_container.torn
+623,2016/10/1,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Male,30, There was something that looked like a nail inside the cup of ice cream.,contamination_tampering
+624,2016/10/1,Chocolate,chocolate cookie,Silver Card Member,Manhattan,Female,70,"I bought fruit jelly, but the inside of the container was dirty. I would like it exchanged.",package_container.dirt
+625,2016/10/1,N/A,N/A,Golden Card Member,Bronx,Male,30, Why doesn't ABCDE confectionery company lower prices when the other companies are.,price.lowing_price
+626,2016/10/2,Jelly,mint jelly,Silver Card Member,Manhattan,Female,20, I found some hair inside the bag.,contamination_tampering
+627,2016/10/2,Cookie,cookie,Silver Card Member,Queens,Male,40,Is soy an ingredient?,other
+628,2016/10/2,Juice,apple juice,Silver Card Member,Brooklyn,Female,50," I am a first-time caller. I purchased orange juice at my local PQRST supermarket, but it looked like there was a leak on the outside of the pack.",package_container.leak
+629,2016/10/2,Juice,orange juice,Silver Card Member,Bronx,Male,60,"I purchased orange juice at my local PQRST supermarket yesterday, but some juice leaked from the top of the juice pack.",package_container.leak
+630,2016/10/2,Tea,lemon tea,Silver Card Member,Manhattan,Female,30, the straw was separated from the container.,package_container
+631,2016/10/2,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Male,50,The ice cream tasted sour.,other
+632,2016/10/3,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Female,60,"When I checked carefully, I found a bruise in the inside of the cup.",package_container.torn
+633,2016/10/4,Ice cream,vanilla ice cream,Silver Card Member,Queens,Male,40,I could only find 5 cups in the 6-pack.,amount.shortage
+634,2016/10/5,Ice cream,vanilla ice cream,Silver Card Member,Brooklyn,Female,20,"I often buy ice cream, but this time there were only 5 muffins in the  half dozen pack.",amount.shortage
+635,2016/10/6,Juice,peach juice,Silver Card Member,Queens,Male,50,There was a dark clump at the bottom of the juice bottle.,package_container
+636,2016/10/6,N/A,N/A,N/A,N/A,N/A,N/A,Crank call.,other
+637,2016/10/7,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Male,30,There were three cups of ice cream missing from a 6-pack.,amount.shortage
+638,2016/10/7,Juice,apple juice,Silver Card Member,Bronx,Female,20,There was some juice leaking from the top of the juice pack. I am wondering if it is okay to drink.,package_container.leak
+639,2016/10/7,Minerals,minerals,Silver Card Member,Brooklyn,Male,40,I wish that you could see through the bottle to know how much is left.,package_container
+640,2016/10/7,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Female,50,There was no spoon attached!,package_container
+641,2016/10/7,Juice,orange juice,Silver Card Member,Brooklyn,Male,60,"I bought orange juice today, but it had a strange odor.",other
+642,2016/10/8,Pastry,pastry,Golden Card Member,Manhattan,Female,40,I am allergic to eggs.  Do you use eggs?,ingredient.allergy
+643,2016/10/8,Chocolate,milk chocolate,Golden Card Member,Manhattan,Male,70, There were only 10 pieces in the dozen pack.,amount.shortage
+644,2016/10/8,Ice cream,vanilla ice cream,Silver Card Member,Queens,Female,50,"I bought vanilla ice cream, but there were two cups too few in the 6-pack.",amount.shortage
+645,2016/10/8,Juice,orange juice,Silver Card Member,Brooklyn,Male,70,"I bought pine juice for my daughter, but when I was holding an unopened pack, the contents leaked from the straw hole. Is it safe?",package_container
+646,2016/10/8,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Female,60,The vanilla ice cream had a rancid odor.,other
+647,2016/10/9,Jelly,mint jelly,Silver Card Member,Manhattan,Male,20,"I bought mint jelly, but the inside of the container was dirty. Is it okay?",package_container.dirt
+648,2016/10/10,Juice,pine juice,Silver Card Member,Bronx,Female,20,"I frequently buy juice made by ABCDE confectionery company, but the contents were leaking from the bottom of the juice pack.",package_container.leak
+649,2016/10/10,Chocolate,chocolate muffin,Golden Card Member,Manhattan,Male,20, There was a strange smell.,other
+650,2016/10/11,Ice cream,vanilla ice cream,Golden Card Member,Queens,Female,30,There was only half the usual amount.,amount.shortage
+651,2016/10/11,Jelly,fruit jelly,Silver Card Member,Brooklyn,Male,30,The inside of the jelly container was a cloudy yellow.,change_of_properties
+652,2016/10/11,Pastry,pastry,Silver Card Member,Bronx,Female,40,"I frequently buy pastry, but this time there were only 8 pieces in the 10-pack.",amount.shortage
+653,2016/10/11,Juice,orange juice,Silver Card Member,Manhattan,Male,30," The contents leaked from the straw hole, when I was holding an unopened pack.",package_container
+654,2016/10/11,Jelly,mint jelly,Silver Card Member,Bronx,Female,50,The bag was already torn.,package_container.torn
+655,2016/10/12,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Male,60,"I often buy ice cream, but this time there were only 5 muffins in the  half dozen pack.",amount.shortage
+656,2016/10/13,Jelly,fruit jelly,Golden Card Member,Queens,Female,40,"I bought fruit jelly for my son, but there was something like a piece of plastic inside.",contamination_tampering
+657,2016/10/14,Ice cream,vanilla ice cream,Golden Card Member,Brooklyn,Male,50,Hair / ice cream cup.,other
+658,2016/10/14,Jelly,apple jelly,Silver Card Member,Bronx,Female,50,"In a dozen-pack of jelly, I could only find 9 of them.",amount.shortage
+659,2016/10/14,Chocolate,chocolate,Silver Card Member,Manhattan,Male,20,"In a dozen-pack of chocolate, I could only find 9 of them.",amount.shortage
+660,2016/10/14,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Female,60, There were only 5 cups in the half-dozen pack.,amount.shortage
+661,2016/10/15,Minerals,minerals,Silver Card Member,Manhattan,Male,40,This is my first time calling. I think the bottle cap is on too tight.,package_container
+662,2016/10/17,Juice,orange juice,Silver Card Member,Queens,Female,70,I found a dark clump in the bottle.,package_container
+663,2016/10/17,N/A,N/A,Not Member,Brooklyn,Male,50,Could you please tell me what additives you are using?,ingredient.additives
+664,2016/10/17,Minerals,minerals,Silver Card Member,Bronx,Female,20,I think that the bottle is larger than necessary.,package_container
+665,2016/10/17,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Male,30,The spoon was detached.,package_container
+666,2016/10/17,Chocolate,chocolate muffin,Silver Card Member,Bronx,Female,30,There was a strange odor as soon as I opened the bag.,other
+667,2016/10/18,Jelly,fruit jelly,Silver Card Member,Manhattan,Male,30,"I am a first-time caller. I bought jelly, but it was empty inside.",amount.empty
+668,2016/10/20,Muffin,muffin,Silver Card Member,Queens,Female,40,"I bought muffin, but it was totally dry.",change_of_properties
+669,2016/10/20,Ice cream,chocolate ice cream,Silver Card Member,Brooklyn,Male,40, Two cups of ice cream missing from a half-dozen-pack.,amount.shortage
+670,2016/10/20,Ice cream,chocolate ice cream,Golden Card Member,Bronx,Female,20, Three cups missing from a half-dozen-pack of ice cream.,amount.shortage
+671,2016/10/20,Minerals,minerals,Golden Card Member,Manhattan,Male,20,The bottle cap loosens up easily.,package_container
+672,2016/10/21,Minerals,minerals,Silver Card Member,Bronx,Female,30,The bottle cap loosens up easily.,package_container
+673,2016/10/21,Tea,lemon tea,Silver Card Member,Manhattan,Male,20,The straw was detached.,package_container
+674,2016/10/21,Muffin,muffin,Silver Card Member,Queens,Female,30, I think that the price of your muffin are more expensive than other brands. Why are they?,price.price_general
+675,2016/10/22,Muffin,muffin,Golden Card Member,Brooklyn,Male,50,There was something like a piece of thread inside the bag of muffins. There was also some hair inside another time.,contamination_tampering
+676,2016/10/22,N/A,N/A,N/A,N/A,N/A,N/A,hung-up call,other
+677,2016/10/22,Tea,lemon tea,Silver Card Member,Bronx,Male,60, the straw was detached.,package_container
+678,2016/10/23,Juice,orange juice,Silver Card Member,Manhattan,Female,40,"I left the pack in the fridge for about two days without opening the lid, but the contents were leaking from the pack.",package_container.leak
+679,2016/10/23,Juice,apple juice,Silver Card Member,Bronx,Male,40, The contents were leaking from the bottom.,package_container.leak
+680,2016/10/25,Pastry,pastry,Silver Card Member,Brooklyn,Female,40,Do you use soy as an ingredient?,other
+681,2016/10/26,Chocolate,milk chocolate,Silver Card Member,Manhattan,Male,70, There was more in the package than it said on the label. Is it safe to eat?,amount.excess
+682,2016/10/26,Minerals,minerals,Silver Card Member,Brooklyn,Female,30,I wish that you could see through the bottle to know how much is left.,package_container
+683,2016/10/27,N/A,N/A,Golden Card Member,Manhattan,Male,50,I would like to know what additives are used.,ingredient.additives
+684,2016/10/27,Juice,orange juice,Silver Card Member,Queens,Female,50," I left the pack in the refrigerator for about three days without opening the lid, but the contents were leaking from the top of the pack.",package_container.leak
+685,2016/10/27,Muffin,muffin,Silver Card Member,Brooklyn,Male,60,There seems to be a mark that the wrapper was cut by a knife or something.,prank
+686,2016/10/28,Chocolate,chocolate,Silver Card Member,Bronx,Female,20,"I got a bag of chocolate at a nearby PQRST supermarket, but there was something like a piece of thread inside the bag.",contamination_tampering
+687,2016/10/28,Jelly,fruit jelly,Silver Card Member,Manhattan,Male,20,There was something like a piece of thread inside the bag of fruit jelly.,contamination_tampering
+688,2016/10/28,Ice cream,chocolate ice cream,Golden Card Member,Bronx,Female,30,I am allergic to eggs.  Is this okay to eat?,ingredient.allergy
+689,2016/10/29,Juice,apple juice,Silver Card Member,Manhattan,Male,40,A dark clump at the bottom of the bottle.,package_container
+690,2016/10/29,Juice,peach juice,Silver Card Member,Queens,Female,20,"The contents leaked from the bottom, when I was holding an unopened pack.",package_container.leak
+691,2016/10/29,Juice,apple juice,Silver Card Member,Brooklyn,Male,20, There was some juice leaking from the top of the juice pack.,package_container.leak
+692,2016/10/30,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Female,30,"I got chocolate ice cream at a nearby supermarket, but there was something that looked like a needle inside the bag!",contamination_tampering
+693,2016/10/30,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Male,40,I could only find 4 cups in the 6-pack.,amount.shortage
+694,2016/10/30,Minerals,minerals,Silver Card Member,Bronx,Female,40,The bottle cap loosens up easily.,package_container
+695,2016/10/30,Juice,peach juice,Silver Card Member,Manhattan,Male,30,Apple juice leaked from the bottom.,package_container.leak
+696,2016/10/30,Juice,pine juice,Silver Card Member,Queens,Female,30, This is my first time calling. There was a stain on the package that seemed to be caused by a leak.,package_container.leak
+697,2016/10/30,Juice,orange juice,Silver Card Member,Brooklyn,Male,40,"When I was holding an unopened pack, the contents leaked from the top of the juice pack.",package_container.leak
+698,2016/10/30,Chocolate,chocolate muffin,Silver Card Member,Bronx,Female,50,It was a little more bitter than when I ate it before. Is it safe to eat?,other
+699,2016/10/31,Muffin,muffin,Silver Card Member,Manhattan,Male,20,"Yesterday I bought muffin, but it was totally dry even after only one day.",change_of_properties
+700,2016/10/31,N/A,N/A,N/A,N/A,N/A,N/A,Crank call.,other
+701,2016/10/31,Jelly,mint jelly,Silver Card Member,Bronx,Male,60, There was a deep cut in the inside of the container.,package_container.torn
+702,2016/11/1,Ice cream,vanilla ice cream,Golden Card Member,Brooklyn,Female,20,"I bought some ice cream for my daughter, but I found a bug inside a box!!",contamination_tampering
+703,2016/11/1,Jelly,fruit jelly,Silver Card Member,Manhattan,Male,70,"I bought jelly today, but the expiration date was passed.",expiration_date
+704,2016/11/1,Chocolate,chocolate cookie,Silver Card Member,Brooklyn,Female,30," I bought cookie at my local PQRST supermarket, but the inside of the bag was dirty.",package_container.dirt
+705,2016/11/1,Juice,orange juice,Silver Card Member,Manhattan,Male,40, The contents were leaking.,package_container.leak
+706,2016/11/1,Chocolate,chocolate muffin,Silver Card Member,Brooklyn,Female,30, I found the bag torn.  Is it okay to eat?,package_container.torn
+707,2016/11/2,Chocolate,chocolate muffin,Golden Card Member,Manhattan,Male,40,"I bought chocolate muffin, but the bag was already torn.",package_container.torn
+708,2016/11/3,Juice,orange juice,Silver Card Member,Queens,Female,50,"This is my first time calling. When I was holding an unopened pack, the contents leaked from the bottom. I am wondering if it is okay to drink?",package_container.leak
+709,2016/11/4,Jelly,fruit jelly,Silver Card Member,Brooklyn,Male,20,"I like to buy fruit jelly made by ABCDE confectionery company, but this time I found something that looked like a nail inside the cup. Is this some sort of joke?",contamination_tampering
+710,2016/11/4,Pastry,pastry,Silver Card Member,Bronx,Female,50,"I got some pastry, but it was empty inside.",amount.empty
+711,2016/11/4,Coffee,black coffee,Silver Card Member,Manhattan,Male,60,This is my first time calling. There was a stain on the package that seemed to be caused by a leak.,package_container.leak
+712,2016/11/4,Juice,orange juice,Silver Card Member,Bronx,Female,70,Some juice leaked from the top of the juice pack!,package_container.leak
+713,2016/11/4,Chocolate,chocolate muffin,Silver Card Member,Manhattan,Male,30,"I bought the chocolate muffin yesterday, but it had a sour odor. Is it safe?",other
+714,2016/11/5,Juice,orange juice,Silver Card Member,Queens,Female,40, This is my first time calling. There is a trace of a leak on the outside of the package.,package_container.leak
+715,2016/11/5,Chocolate,chocolate muffin,Silver Card Member,Brooklyn,Male,40,"I bought muffin for my sons. The date hadn't expired yet, but it tasted sour.",other
+716,2016/11/7,Juice,orange juice,Silver Card Member,Bronx,Female,60," I am a first-time caller. I purchased orange juice at my local PQRST supermarket, but it looked like there was a leak on the outside of the pack.",package_container.leak
+717,2016/11/8,Chocolate,milk chocolate,Silver Card Member,Manhattan,Male,20,There was more in the package than it said on the label. Is it safe to eat?,amount.excess
+718,2016/11/8,Juice,orange juice,Silver Card Member,Bronx,Female,40,"I left the pack in the fridge for about two days without opening the lid, but the contents were leaking from the bottom the pack.",package_container.leak
+719,2016/11/8,Minerals,minerals,Not Member,Manhattan,Male,30,Don't you think the bottle is bigger than it needs to be?,package_container
+720,2016/11/8,Cookie,cookie,Not Member,Queens,Female,50,There seems to be a mark that the juice pack was cut by a knife or something.,prank
+721,2016/11/9,Pastry,pastry,Silver Card Member,Brooklyn,Male,40,"When I looked closely, I found the bag torn.",package_container.torn
+722,2016/11/10,Juice,orange juice,Golden Card Member,Bronx,Female,50,It looked like there was a leak on the outside of the pack. I am wondering if it is okay to drink.,package_container.leak
+723,2016/11/11,Juice,apple juice,Silver Card Member,Manhattan,Male,20,There is a chunk of settlement at the bottom of the juice bottle. I have saved the bottle without drinking it.,package_container
+724,2016/11/11,Jelly,mint jelly,Silver Card Member,Bronx,Female,50,There was something like a nail inside the bag of jelly.,contamination_tampering
+725,2016/11/11,Cookie,cookie,Silver Card Member,Manhattan,Male,50,My daughter is allergic to eggs.  Do you use eggs?,ingredient.allergy
+726,2016/11/11,Juice,orange juice,Silver Card Member,Queens,Female,20,I am a first-time caller. The contents were leaking from the top of the juice pack.,package_container.leak
+727,2016/11/11,Ice cream,vanilla ice cream,Golden Card Member,Brooklyn,Male,20,"The date hadn't expired yet, but it tasted bitter.",other
+728,2016/11/12,Chocolate,chocolate,Silver Card Member,Bronx,Female,60," I bought chocolate for my child, but there was a lot more that was indicated on the package. Isn't this a problem?",amount.excess
+729,2016/11/13,Juice,apple juice (bottle),Silver Card Member,Manhattan,Male,60,"I purchased apple juice, but I can't open up the bottle since the cap is on too tight.",package_container
+730,2016/11/13,Juice,apple juice,Silver Card Member,Bronx,Female,20,"I bought apple juice at PQRST Supermarket, but there was some juice leaking from the straw hole. I am a first-time caller.",package_container
+731,2016/11/13,Ice cream,strawberry ice cream,Silver Card Member,Manhattan,Male,40,When the new strawberry ice cream will be on sale?,production_plan.new_product
+732,2016/11/14,Jelly,fruit jelly,Silver Card Member,Manhattan,Female,70,I am allergic to kiwis. Is it safe to eat?,ingredient.allergy
+733,2016/11/15,Ice cream,chocolate ice cream,Silver Card Member,Brooklyn,Male,30,"I always buy chocolate ice cream, but it was only half full.",amount.shortage
+734,2016/11/15,Chocolate,chocolate,Silver Card Member,Bronx,Female,30,"I got chocolate muffin at my local supermarket, but there was something that looked like a needle inside the bag. Is this a joke?",contamination_tampering
+735,2016/11/15,Juice,apple juice,Silver Card Member,Manhattan,Male,20, It looked like there was a leak on the outside of the pack.,package_container.leak
+736,2016/11/15,Juice,pine juice,Silver Card Member,Bronx,Female,50,"When I was holding an unopened pack, the contents leaked from the straw hole.",package_container
+737,2016/11/16,Pastry,pastry,Silver Card Member,Manhattan,Male,30,The pastry was growing mold even before the expiration date.,change_of_properties
+738,2016/11/16,Jelly,strawberry jelly,Silver Card Member,Queens,Female,60,"I bought strawberry jelly for my son, but the inside of the container was a cloudy white.",change_of_properties
+739,2016/11/16,Jelly,fruit jelly,Not Member,Brooklyn,Male,20, Three cups missing from a dozen-pack of fruit jelly.,amount.shortage
+740,2016/11/17,Ice cream,chocolate ice cream,Not Member,Bronx,Female,30,"I bought chocolate ice cream for my children, but the cup looked like it was already opened.",prank
+741,2016/11/18,Muffin,muffin,Silver Card Member,Manhattan,Male,50,Do you use soy?,other
+742,2016/11/18,Juice,orange juice,Golden Card Member,Bronx,Female,30,"I frequently buy fruit juice made by ABCDE confectionery company, but this time the contents were leaking from a bottle of apple juice since there was a crack in it.",package_container
+743,2016/11/19,Juice,apple juice,Silver Card Member,Manhattan,Male,40,A dark clump at the bottom of the bottle.,package_container
+744,2016/11/19,Chocolate,milk chocolate,Silver Card Member,Queens,Female,40,"I often buy 12-pack chocolate, but this time there were only 10 pieces.",amount.shortage
+745,2016/11/19,Juice,apple juice,Silver Card Member,Brooklyn,Male,50,"This is my first time calling. When I was holding an unopened juice pack, the contents leaked from the hole for the straw. Is it okay to drink?",package_container
+746,2016/11/19,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Female,40,"I bought ice cream at a nearby supermarket, but it had a sour odor.",other
+747,2016/11/20,Juice,pine juice,Golden Card Member,Manhattan,Male,60,There was some juice leaking from the bottom of the juice pack.,package_container.leak
+748,2016/11/20,Chocolate,chocolate muffin,Silver Card Member,Bronx,Female,50,It tasted a bit more bitter than when I had it the last time.,other
+749,2016/11/21,Jelly,mint jelly,Silver Card Member,Manhattan,Male,70,The inside of the jelly container was a cloudy white.,change_of_properties
+750,2016/11/21,Chocolate,chocolate,Silver Card Member,Queens,Female,20,There was something like a nail inside the bag. Is this a prank?,contamination_tampering
+751,2016/11/21,Ice cream,vanilla ice cream,Silver Card Member,Brooklyn,Male,20, Two cups of ice cream missing from a half-dozen-pack.,amount.shortage
+752,2016/11/21,Juice,orange juice,Silver Card Member,Bronx,Female,20,There was some juice leaking from the top of the juice pack. Is it safe?,package_container.leak
+753,2016/11/21,Muffin,muffin,Silver Card Member,Manhattan,Male,30,The muffin has a rancid odor.,other
+754,2016/11/21,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Female,30,"I bought ice cream for my child yesterday, but it had a sour odor.",other
+755,2016/11/22,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Male,30, There was only half the usual amount.,amount.shortage
+756,2016/11/22,Ice cream,chocolate ice cream,Silver Card Member,Queens,Female,50,One cup of ice cream missing from a 6-pack.,amount.shortage
+757,2016/11/22,Ice cream,chocolate ice cream,Silver Card Member,Brooklyn,Male,60,There were three cups of ice cream missing from a 6-pack.,amount.shortage
+758,2016/11/22,Tea,lemon tea,Silver Card Member,Bronx,Female,20,No straw.,package_container
+759,2016/11/22,Ice cream,chocolate ice cream,Not Member,Manhattan,Male,30,"The ice cream had a rancid odor, and tasted sour.",other
+760,2016/11/23,Ice cream,chocolate ice cream,Not Member,Bronx,Female,40, Three cups missing from a half-dozen-pack of ice cream.,amount.shortage
+761,2016/11/23,Juice,orange juice,Silver Card Member,Manhattan,Male,30, There is a trace of a leak on the outside of the package.,package_container.leak
+762,2016/11/23,Juice,orange juice (bottle),Golden Card Member,Queens,Female,50, Don't you think the bottle is bigger than it needs to be?,package_container
+763,2016/11/24,Juice,apple juice (bottle),Silver Card Member,Brooklyn,Male,40,"I am a first-time caller. I purchased apple juice, but I can't open up the bottle since the cap is on too tight.",package_container
+764,2016/11/24,Juice,apple juice (bottle),Silver Card Member,Bronx,Female,60,"I like to buy apple juice, but the bottle cap loosens up easily.",package_container
+765,2016/11/24,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Male,40,"I bought some ice cream today, but it had a strange odor.",other
+766,2016/11/25,Muffin,muffin,Silver Card Member,Bronx,Female,70,"It is before the expiration date, but the muffin was moldy.",change_of_properties
+767,2016/11/25,Chocolate,chocolate,Golden Card Member,Manhattan,Male,20,"I often buy chocolate, but this time there were only 8 pieces in the 12-pack.",amount.shortage
+768,2016/11/25,Juice,apple juice,Silver Card Member,Queens,Female,40," The contents leaked, when I was holding an unopened pack.",package_container.leak
+769,2016/11/25,Juice,orange juice,Silver Card Member,Brooklyn,Male,20,"I bought orange juice today, but it had a strange odor.",other
+770,2016/11/26,Juice,apple juice (bottle),Silver Card Member,Bronx,Female,30,The bottle cap loosens up easily.,package_container
+771,2016/11/26,Minerals,minerals,Silver Card Member,Manhattan,Male,30,I can't open up the bottle since the cap is on too tight.,package_container
+772,2016/11/26,Minerals,minerals,Silver Card Member,Bronx,Female,40,The bottle cap loosens up even if I close it tightly.,package_container
+773,2016/11/27,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Male,20,"I bought vanilla ice cream for my son, but there was only half the usual amount. Is it safe?",amount.shortage
+774,2016/11/27,Juice,orange juice,Silver Card Member,Queens,Female,20,Leaking from the straw hole.,package_container
+775,2016/11/28,Pastry,pastry,Silver Card Member,Brooklyn,Male,50,"I bought some bread, but there was nothing inside.",amount.empty
+776,2016/11/28,Juice,apple juice,Silver Card Member,Bronx,Female,50,There was some juice leaking from the hole for the straw of the juice pack.,package_container
+777,2016/11/29,Jelly,apple jelly,Silver Card Member,Manhattan,Male,40,There was nothing inside.,amount.empty
+778,2016/11/29,Juice,orange juice,Silver Card Member,Bronx,Female,40,There was some juice leaking from the top of the juice pack. Could you exchange it?,package_container.leak
+779,2016/11/30,Chocolate,chocolate,Not Member,Manhattan,Male,50,I could only find 11 pieces of chocolate in the 12-pack.,amount.shortage
+780,2016/12/1,Chocolate,chocolate,Not Member,Queens,Female,60, There was something like a piece of thread inside the bag of chocolate.,contamination_tampering
+781,2016/12/1,Jelly,fruit jelly,Silver Card Member,Brooklyn,Male,60,There was more in the package than it said on the label.,amount.excess
+782,2016/12/1,Jelly,fruit jelly,Golden Card Member,Bronx,Female,40,There was a deep bruise in the inside of the container.,package_container.torn
+783,2016/12/1,Tea,lemon tea,Silver Card Member,Manhattan,Male,70, The straw was detached.,package_container
+784,2016/12/2,Muffin,muffin,Silver Card Member,Bronx,Female,30,"I got some muffin, but there was something like a piece of thread inside the bag.",contamination_tampering
+785,2016/12/2,Juice,pine juice,Silver Card Member,Manhattan,Male,50,Some juice leaked from the bottom of the pack.,package_container.leak
+786,2016/12/2,Juice,pine juice,Silver Card Member,Queens,Female,20,"This is my first time calling. When I was holding an unopened juice pack, the contents leaked from the top. Is it okay to drink?",package_container.leak
+787,2016/12/2,Juice,apple juice (bottle),Golden Card Member,Brooklyn,Male,30,There was a pungent odor as soon as I opened the bottle.,package_container
+788,2016/12/3,Minerals,minerals,Silver Card Member,Bronx,Female,30,"I frequently buy fruit mix juice, but the bottle cap loosens up even if I close it tightly.",package_container
+789,2016/12/3,Pastry,pastry,Silver Card Member,Manhattan,Male,50,There was a pungent odor when I opened the bag.,other
+790,2016/12/3,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Female,60,It tasted sour and bitter!,other
+791,2016/12/4,Juice,pine juice,Silver Card Member,Manhattan,Male,20,Could you tell me the name of the actor in the TV commercial of the pine juice?,ads
+792,2016/12/4,Chocolate,chocolate muffin,Silver Card Member,Queens,Female,50,"I frequently buy chocolate muffin, but this time there were only 8 muffins in the 12-pack.",amount.shortage
+793,2016/12/4,Minerals,minerals,Silver Card Member,Brooklyn,Male,40,The bottle won't open up. The cap is on too tight!,package_container
+794,2016/12/5,Juice,apple juice (bottle),Silver Card Member,Bronx,Female,40,The bottle cap loosens up even if I close it tightly.,package_container
+795,2016/12/6,Chocolate,milk chocolate,Silver Card Member,Manhattan,Male,30,Could you tell me the name of the actor in the TV commercial of the new milk chocolate?,ads
+796,2016/12/6,Juice,orange juice,Silver Card Member,Bronx,Female,50,There is a chunk of settlement at the bottom of the juice bottle. I would like it exchanged.,package_container
+797,2016/12/6,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Male,50,One cup of ice cream missing from a 6-pack.,amount.shortage
+798,2016/12/6,Juice,apple juice,Silver Card Member,Queens,Female,60,It looked like there was a leak from the straw hole of the pack.,package_container
+799,2016/12/7,Juice,pine juice,Not Member,Brooklyn,Male,20,There is a chunk of settlement at the bottom of the juice bottle. I have saved the bottle without drinking it.,package_container
+800,2016/12/8,Chocolate,milk chocolate,Not Member,Bronx,Female,70,I love the ads for the new chocolate. Could you tell me the name of the actor in the commercial?,ads
+801,2016/12/8,Pastry,pastry,Silver Card Member,Manhattan,Male,40,Do you use soy as an ingredient?,other
+802,2016/12/8,Juice,orange juice,Golden Card Member,Bronx,Female,60,"I frequently buy juice made by ABCDE confectionery company, but the contents were leaking from the top of the juice pack.",package_container.leak
+803,2016/12/8,Jelly,mint jelly,Silver Card Member,Manhattan,Male,20,It seemed that the bag was already opened.,prank
+804,2016/12/8,Jelly,strawberry jelly,Silver Card Member,Queens,Female,20,The bag looked like it was already opened.,prank
+805,2016/12/9,Juice,orange juice,Silver Card Member,Brooklyn,Male,30, There was some juice leaking from the bottom of the juice pack.,package_container.leak
+806,2016/12/9,Juice,orange juice,Silver Card Member,Bronx,Female,20,Some juice leaked from the top of the juice pack.,package_container.leak
+807,2016/12/9,Tea,lemon tea,Golden Card Member,Manhattan,Male,30,The straw was separated from the container.,package_container
+808,2016/12/10,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Female,30,"I bought vanilla ice cream, but there were two cups too few in the 6-pack.",amount.shortage
+809,2016/12/10,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Male,30,One cup of ice cream missing from a 6-pack.,amount.shortage
+810,2016/12/11,Ice cream,chocolate ice cream,Silver Card Member,Queens,Female,40,"I like to buy chocolate ice cream from ABCDE confectionery company, but this time there was no spoon attached to the pack.",package_container
+811,2016/12/12,Minerals,minerals,Silver Card Member,Brooklyn,Male,40,It would be nice if there were a bottle so that you could see how much juice is left.,package_container
+812,2016/12/12,Tea,lemon tea,Silver Card Member,Bronx,Female,50, the straw was separated from the pack.,package_container
+813,2016/12/13,Juice,apple juice,Silver Card Member,Manhattan,Male,50," I left the pack in the refrigerator for about three days without opening the lid, but the contents were leaking from the bottom of the pack.",package_container.leak
+814,2016/12/14,Pastry,pastry,Silver Card Member,Bronx,Female,40,"I frequently buy pastry made by ABCDE confectionery company, but this time it was totally dry.",change_of_properties
+815,2016/12/14,Chocolate,milk chocolate,Silver Card Member,Manhattan,Male,60,"I got milk chocolate for my son, but there was something like a piece of thread inside the bag.",contamination_tampering
+816,2016/12/15,Juice,peach juice,Silver Card Member,Queens,Female,50," I left the pack in the refrigerator for about three days without opening the lid, but the contents were leaking from the bottom of the pack.",package_container.leak
+817,2016/12/16,Chocolate,milk chocolate,Silver Card Member,Brooklyn,Male,70,There was something like a piece of thread inside the bag of chocolate. Is it okay to eat?,contamination_tampering
+818,2016/12/16,Muffin,muffin,Silver Card Member,Bronx,Female,60,My child is allergic to eggs.  Do you use eggs as an ingredient?,ingredient.allergy
+819,2016/12/16,Chocolate,chocolate cookie,Not Member,Manhattan,Male,20,The inside of the container was dirty. Could you exchange it?,package_container.dirt
+820,2016/12/17,Jelly,fruit jelly,Not Member,Bronx,Female,20, Three cups missing from a dozen-pack of fruit jelly.,amount.shortage
+821,2016/12/17,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Male,30, There was no spoon attached.,package_container
+822,2016/12/19,Ice cream,vanilla ice cream,Golden Card Member,Queens,Female,30,"In a 6-pack of vanilla ice cream, I could only find 4 cups.",amount.shortage
+823,2016/12/19,Tea,lemon tea,Silver Card Member,Brooklyn,Male,40,There was no straw attached.,package_container
+824,2016/12/19,Pastry,pastry,Silver Card Member,Bronx,Female,20,The bag looked like it was already opened.,prank
+825,2016/12/20,Ice cream,vanilla ice cream,Silver Card Member,Manhattan,Male,20," I often buy vanilla ice cream, but this time there was only half the usual amount.",amount.shortage
+826,2016/12/20,Juice,orange juice,Silver Card Member,Bronx,Female,50,"I bought orange juice for my children and left the pack in the fridge for about two days without opening the lid, but the contents were leaking from the top of the pack.",package_container.leak
+827,2016/12/21,Juice,pine juice,Golden Card Member,Manhattan,Male,60,The contents were leaking from the hole for the straw of the juice pack.,package_container
+828,2016/12/21,Pastry,pastry,Silver Card Member,Queens,Female,40,"I bought the pastry yesterday, but it had a sour odor.",other
+829,2016/12/22,Juice,orange juice,Silver Card Member,Brooklyn,Male,70,"The contents leaked from the top, when I was holding an unopened pack.",package_container.leak
+830,2016/12/22,Juice,pine juice,Silver Card Member,Bronx,Female,50, The straw was detached.,package_container
+831,2016/12/22,Pastry,pastry,Silver Card Member,Manhattan,Male,40,Why is it that the pastry prices of other brands are cheaper?,price.price_general
+832,2016/12/24,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Female,60,"I bought vanilla ice cream for my daughter, but the inside of the container was dirty.",package_container.dirt
+833,2016/12/24,Tea,lemon tea,Silver Card Member,Manhattan,Male,50, no straw attached.,package_container
+834,2016/12/24,Ice cream,vanilla ice cream,Silver Card Member,Queens,Female,70,"I like to buy ABCDE confectionery company's ice cream, but today it was a little more sour than when I ate it before. ",other
+835,2016/12/25,Jelly,fruit jelly,Silver Card Member,Brooklyn,Male,30,Do you use kiwis? I am allergic to kiwis.,ingredient.allergy
+836,2016/12/26,Jelly,mint jelly,Silver Card Member,Bronx,Female,30," I got some mint jelly, but there was more in the package than it said on the label.",amount.excess
+837,2016/12/26,Chocolate,chocolate,Silver Card Member,Manhattan,Male,20,There were only 10 pieces in the dozen pack.,amount.shortage
+838,2016/12/26,Juice,orange juice,Silver Card Member,Bronx,Female,50,"I purchased 100% orange juice at a nearby PQRST supermarket, but there was some juice leaking from the straw hole. I would like it exchanged.",package_container
+839,2016/12/26,Tea,lemon tea,Not Member,Manhattan,Male,30,Are you really going to raise the price on the tea?,price.raise_of_price
+840,2016/12/27,Juice,apple juice,Not Member,Queens,Female,60,There is a chunk of settlement in the juice bottle. I have saved the bottle without drinking it.,package_container
+841,2016/12/28,Pastry,pastry,Silver Card Member,Brooklyn,Male,20,I found the bag torn.,package_container.torn
+842,2016/12/29,Juice,pine juice,Golden Card Member,Bronx,Female,30,I like to buy drink made by ABCDE confectionery company. Do you use any genetically modified ingredients?,ingredient.gm_foods
+843,2016/12/29,Ice cream,strawberry ice cream,Silver Card Member,Manhattan,Male,40,Could you tell me when the new strawberry ice cream will be on sale?,production_plan.new_product
+844,2016/12/30,Ice cream,chocolate ice cream,Silver Card Member,Bronx,Female,50, There was a dark clump at the bottom of the ice cream cup.,change_of_properties
+845,2016/12/30,Juice,orange juice,Silver Card Member,Queens,Male,40,"I got orange juice at my local supermarket, but there is a chunk of settlement at the bottom of the juice bottle.",package_container
+846,2016/12/30,Jelly,mint jelly,Silver Card Member,Queens,Female,40, There was a piece of plastic inside the cup of the jelly.,contamination_tampering
+847,2016/12/30,Pastry,pastry,Golden Card Member,Brooklyn,Male,50,I could only find 6 pieces of bread in the 10-pack.,amount.shortage
+848,2016/12/30,Minerals,minerals,Silver Card Member,Bronx,Female,20,"I frequently buy fruit mix juice, but the bottle cap loosens up even if I close it tightly.",package_container
+849,2016/12/30,Ice cream,chocolate ice cream,Silver Card Member,Manhattan,Male,60,"The vanilla ice cream tasted bitter. I bought it the day before yesterday, and the date hasn't expired yet.",other
+850,2016/12/30,Ice cream,vanilla ice cream,Silver Card Member,Bronx,Female,20,"I bought some ice cream today, but it had a strange odor.",other
+851,2016/12/31,Juice,pine juice,Silver Card Member,Manhattan,Male,70,"I like to buy juice made by ABCDE confectionery company, but this time there was some juice leaking from the bottom.",package_container.leak
