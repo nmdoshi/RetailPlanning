@@ -112,8 +112,15 @@ def build_model():
         helper_add_labeled_cplex_constraint(mdl, row.conditioned_Offer_id <= 2, u'For each Customer selection, Offer id of selected Customer is less than or equal to 2', row)
     
     # [ST_2] Constraint : cGlobalRelationalConstraint_cGlobalRelationalConstraint
+    # total CostToServ of Customers over all selections is less than 200000
+    # Label: CT_2_total_CostToServ_of_Customers_over_all_selections_is_less_than_200000
+    list_of_Customer['conditioned_CostToServ'] = list_of_Customer.selectionVar * list_of_Customer.CostToServ
+    agg_Customer_conditioned_CostToServ_lhs = mdl.sum(list_of_Customer.conditioned_CostToServ)
+    helper_add_labeled_cplex_constraint(mdl, agg_Customer_conditioned_CostToServ_lhs <= -0.001 + 200000, u'total CostToServ of Customers over all selections is less than 200000')
+    
+    # [ST_3] Constraint : cGlobalRelationalConstraint_cGlobalRelationalConstraint
     # total Revenue of Customers over all selections is greater than 300000
-    # Label: CT_2_total_Revenue_of_Customers_over_all_selections_is_greater_than_300000
+    # Label: CT_3_total_Revenue_of_Customers_over_all_selections_is_greater_than_300000
     list_of_Customer['conditioned_Revenue'] = list_of_Customer.selectionVar * list_of_Customer.Revenue
     agg_Customer_conditioned_Revenue_lhs = mdl.sum(list_of_Customer.conditioned_Revenue)
     helper_add_labeled_cplex_constraint(mdl, agg_Customer_conditioned_Revenue_lhs >= 0.001 + 300000, u'total Revenue of Customers over all selections is greater than 300000')

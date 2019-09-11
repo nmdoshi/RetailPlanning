@@ -1,45 +1,26 @@
-[2019-03-22T14:32:38Z, INFO] * building wado model
-[2019-03-22T14:32:44Z, INFO] model building done in 5.63608884811 secs
-[2019-03-22T14:32:44Z, INFO] * running wado model
-[2019-03-22T14:32:44Z, INFO] WARNING: Number of workers has been reduced to 3 to comply with platform limitations.
-[2019-03-22T14:32:44Z, INFO] CPXPARAM_TimeLimit                               300
-[2019-03-22T14:32:44Z, INFO] CPXPARAM_Read_DataCheck                          1
-[2019-03-22T14:32:44Z, INFO] CPXPARAM_Threads                                 3
-[2019-03-22T14:32:44Z, INFO] Found incumbent of value 0.000000 after 0.00 sec. (1.85 ticks)
-[2019-03-22T14:32:44Z, INFO] Tried aggregator 1 time.
-[2019-03-22T14:32:44Z, INFO] MIP Presolve eliminated 60190 rows and 54967 columns.
-[2019-03-22T14:32:44Z, INFO] MIP Presolve added 147 rows and 147 columns.
-[2019-03-22T14:32:44Z, INFO] Reduced MIP has 140 rows, 5362 columns, and 5644 nonzeros.
-[2019-03-22T14:32:44Z, INFO] Reduced MIP has 5223 binaries, 139 generals, 0 SOSs, and 0 indicators.
-[2019-03-22T14:32:44Z, INFO] Presolve time = 0.06 sec. (39.79 ticks)
-[2019-03-22T14:32:44Z, INFO] Tried aggregator 1 time.
-[2019-03-22T14:32:44Z, INFO] MIP Presolve eliminated 138 rows and 138 columns.
-[2019-03-22T14:32:44Z, INFO] MIP Presolve added 139 rows and 139 columns.
-[2019-03-22T14:32:44Z, INFO] Reduced MIP has 141 rows, 5363 columns, and 5647 nonzeros.
-[2019-03-22T14:32:44Z, INFO] Reduced MIP has 5223 binaries, 140 generals, 0 SOSs, and 0 indicators.
-[2019-03-22T14:32:44Z, INFO] Presolve time = 0.01 sec. (4.52 ticks)
-[2019-03-22T14:32:44Z, INFO] Probing time = 0.00 sec. (0.62 ticks)
-[2019-03-22T14:32:44Z, INFO] MIP emphasis: balance optimality and feasibility.
-[2019-03-22T14:32:44Z, INFO] MIP search method: dynamic search.
-[2019-03-22T14:32:44Z, INFO] Parallel mode: deterministic, using up to 3 threads.
-[2019-03-22T14:32:44Z, INFO] Root relaxation solution time = 0.01 sec. (3.74 ticks)
-[2019-03-22T14:32:44Z, INFO] 
-[2019-03-22T14:32:44Z, INFO]         Nodes                                         Cuts/
-[2019-03-22T14:32:44Z, INFO]    Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
-[2019-03-22T14:32:44Z, INFO] *     0+    0                            0.0000  1974119.2519              ---
-[2019-03-22T14:32:44Z, INFO]       0     0  1362121.6369     1        0.0000  1362121.6369        1     ---
-[2019-03-22T14:32:45Z, INFO] *     0+    0                      1362034.5394  1362121.6369             0.01%
-[2019-03-22T14:32:45Z, INFO] 
-[2019-03-22T14:32:45Z, INFO] Root node processing (before b&c):
-[2019-03-22T14:32:45Z, INFO]   Real time             =    0.27 sec. (72.84 ticks)
-[2019-03-22T14:32:45Z, INFO] Parallel b&c, 3 threads:
-[2019-03-22T14:32:45Z, INFO]   Real time             =    0.00 sec. (0.00 ticks)
-[2019-03-22T14:32:45Z, INFO]   Sync time (average)   =    0.00 sec.
-[2019-03-22T14:32:45Z, INFO]   Wait time (average)   =    0.00 sec.
-[2019-03-22T14:32:45Z, INFO]                           ------------
-[2019-03-22T14:32:45Z, INFO] Total (root+branch&cut) =    0.27 sec. (72.84 ticks)
-[2019-03-22T14:32:45Z, INFO] Solve status: JobSolveStatus.OPTIMAL_SOLUTION
-[2019-03-22T14:32:45Z, INFO] * model docplex_model1 solved with objective = 1362034.539
-[2019-03-22T14:32:46Z, INFO] *  KPI: total Revenue of Customers over all selections = 1362034.539
-[2019-03-22T14:32:46Z, INFO] model solve done in 1.52363300323 secs
-[2019-03-22T14:32:46Z, INFO] solution export done in 0.0495431423187 secs
+[2019-09-11T14:08:15Z, INFO] * building wado model
+[2019-09-11T14:08:21Z, INFO] model building done in 5.974270582199097 secs
+[2019-09-11T14:08:21Z, INFO] * running wado model
+[2019-09-11T14:08:21Z, INFO] WARNING: Number of workers has been reduced to 3 to comply with platform limitations.
+[2019-09-11T14:08:21Z, INFO] CPXPARAM_TimeLimit                               120
+[2019-09-11T14:08:21Z, INFO] CPXPARAM_Read_DataCheck                          1
+[2019-09-11T14:08:21Z, INFO] CPXPARAM_Threads                                 3
+[2019-09-11T14:08:21Z, INFO] Tried aggregator 1 time.
+[2019-09-11T14:08:21Z, INFO] MIP Presolve eliminated 60183 rows and 60182 columns.
+[2019-09-11T14:08:21Z, INFO] All rows and columns eliminated.
+[2019-09-11T14:08:21Z, INFO] Presolve time = 0.04 sec. (32.58 ticks)
+[2019-09-11T14:08:21Z, INFO] 
+[2019-09-11T14:08:21Z, INFO] Root node processing (before b&c):
+[2019-09-11T14:08:21Z, INFO]   Real time             =    0.06 sec. (39.23 ticks)
+[2019-09-11T14:08:21Z, INFO] Parallel b&c, 3 threads:
+[2019-09-11T14:08:21Z, INFO]   Real time             =    0.00 sec. (0.00 ticks)
+[2019-09-11T14:08:21Z, INFO]   Sync time (average)   =    0.00 sec.
+[2019-09-11T14:08:21Z, INFO]   Wait time (average)   =    0.00 sec.
+[2019-09-11T14:08:21Z, INFO]                           ------------
+[2019-09-11T14:08:21Z, INFO] Total (root+branch&cut) =    0.06 sec. (39.23 ticks)
+[2019-09-11T14:08:22Z, INFO] Solve status: JobSolveStatus.OPTIMAL_SOLUTION
+[2019-09-11T14:08:22Z, INFO] * model docplex_model1 solved with objective = -25723910.562
+[2019-09-11T14:08:22Z, INFO] *  KPI: total Revenue of Customers over all selections    = 31581875.013
+[2019-09-11T14:08:22Z, INFO] *  KPI: total CostToServ of Customers over all selections = 5857964.451
+[2019-09-11T14:08:22Z, INFO] model solve done in 1.2586421966552734 secs
+[2019-09-11T14:08:22Z, INFO] solution export done in 0.05196404457092285 secs

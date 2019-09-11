@@ -1,0 +1,1 @@
+{"dsx_artifact_type":"datasource","type":"dashDB","description":"","host":"","port":"","URL":"jdbc:db2://dashdb-entry-yp-dal09-08.services.dal.bluemix.net:50000/BLUDB","webHDFSURL":"","webHCatURL":"","livyURL":"","driverClassName":""}

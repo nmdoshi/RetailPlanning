@@ -1,0 +1,2439 @@
+{
+  "name": "New dashboard",
+  "layout": {
+    "id": "page0",
+    "items": [
+      {
+        "id": "page1",
+        "items": [
+          {
+            "id": "model0000016cfe3f2150_00000000",
+            "style": {
+              "top": "12px",
+              "left": "12px",
+              "height": "110px",
+              "width": "200px"
+            },
+            "type": "widget"
+          },
+          {
+            "id": "model0000016cfe3fbfc2_00000000",
+            "style": {
+              "top": "12px",
+              "left": "217px",
+              "height": "110px",
+              "width": "200px"
+            },
+            "type": "widget"
+          },
+          {
+            "id": "model0000016cfe40a4ad_00000000",
+            "style": {
+              "top": "12px",
+              "left": "422px",
+              "height": "110px",
+              "width": "200px"
+            },
+            "type": "widget"
+          },
+          {
+            "id": "model0000016cfe45f627_00000000",
+            "style": {
+              "top": "169px",
+              "left": "51px",
+              "height": "420px",
+              "width": "500px"
+            },
+            "type": "widget"
+          },
+          {
+            "id": "model0000016cff1f1eb7_00000000",
+            "style": {
+              "top": "12px",
+              "left": "627px",
+              "height": "110px",
+              "width": "162px"
+            },
+            "type": "widget"
+          }
+        ],
+        "type": "absolute",
+        "title": {
+          "translationTable": {
+            "Default": "Financials"
+          }
+        },
+        "templateName": "NoTemplate"
+      },
+      {
+        "id": "model0000016cfe50198b_00000000",
+        "items": [
+          {
+            "id": "model0000016cfe572a15_00000000",
+            "style": {
+              "left": "31px",
+              "top": "12px",
+              "height": "110px",
+              "width": "200px"
+            },
+            "type": "widget"
+          },
+          {
+            "id": "model0000016cfe594aee_00000000",
+            "style": {
+              "top": "12px",
+              "left": "254px",
+              "height": "280px",
+              "width": "329px"
+            },
+            "type": "widget"
+          },
+          {
+            "id": "model0000016cff023bd8_00000000",
+            "style": {
+              "top": "380px",
+              "left": "55px",
+              "height": "121px",
+              "width": "176px"
+            },
+            "type": "widget",
+            "relatedLayouts": "model0000016cff00a433_00000001"
+          },
+          {
+            "id": "model0000016cff04532e_00000000",
+            "style": {
+              "left": "275px",
+              "top": "292px",
+              "height": "322px",
+              "width": "240px"
+            },
+            "type": "widget"
+          },
+          {
+            "id": "model0000016cff0c7f85_00000000",
+            "style": {
+              "top": "292px",
+              "left": "583px",
+              "height": "237px",
+              "width": "414px"
+            },
+            "type": "widget"
+          },
+          {
+            "id": "model0000016cff10f946_00000000",
+            "style": {
+              "left": "677px",
+              "top": "21px",
+              "height": "260px",
+              "width": "220px"
+            },
+            "type": "widget"
+          }
+        ],
+        "type": "absolute",
+        "title": {
+          "translationTable": {
+            "Default": "Customer"
+          }
+        },
+        "templateName": "NoTemplate"
+      },
+      {
+        "id": "model0000016cff00a432_00000000",
+        "items": [
+          {
+            "id": "model0000016cff00a433_00000000",
+            "css": "templateBox aspectRatio_default",
+            "items": [
+              {
+                "id": "model0000016cff00a433_00000001",
+                "style": {
+                  "top": "0%",
+                  "left": "0%",
+                  "right": "50%",
+                  "bottom": "50%"
+                },
+                "type": "templateDropZone",
+                "templateName": "dz1",
+                "relatedLayouts": ""
+              },
+              {
+                "id": "model0000016cff00a434_00000000",
+                "css": "noBorderLeft",
+                "style": {
+                  "top": "0%",
+                  "left": "50%",
+                  "right": "0%",
+                  "bottom": "50%"
+                },
+                "type": "templateDropZone",
+                "templateName": "dz2",
+                "relatedLayouts": "|model0000016cff158be1_00000000|"
+              },
+              {
+                "id": "model0000016cff00a434_00000001",
+                "css": "noBorderTop",
+                "style": {
+                  "top": "50%",
+                  "left": "0%",
+                  "right": "50%",
+                  "bottom": "0%"
+                },
+                "type": "templateDropZone",
+                "templateName": "dz3",
+                "relatedLayouts": "|model0000016cff18338a_00000000|"
+              },
+              {
+                "id": "model0000016cff00a435_00000000",
+                "css": "noBorderLeft noBorderTop",
+                "style": {
+                  "top": "50%",
+                  "left": "50%",
+                  "right": "0%",
+                  "bottom": "0%"
+                },
+                "type": "templateDropZone",
+                "templateName": "dz4",
+                "relatedLayouts": "|model0000016cff1be3d4_00000000|"
+              },
+              {
+                "id": "model0000016cff1be3d4_00000000",
+                "style": {
+                  "top": "50.92402464065709%",
+                  "left": "50.847457627118644%",
+                  "height": "50.30800821355236%",
+                  "width": "50.621468926553675%"
+                },
+                "type": "widget",
+                "relatedLayouts": "model0000016cff00a435_00000000"
+              },
+              {
+                "id": "model0000016cff18338a_00000000",
+                "style": {
+                  "top": "49.898989898989896%",
+                  "left": "0.1111111111111111%",
+                  "height": "49.494949494949495%",
+                  "width": "49.888888888888886%"
+                },
+                "type": "widget",
+                "relatedLayouts": "model0000016cff00a434_00000001"
+              },
+              {
+                "id": "model0000016cff158be1_00000000",
+                "style": {
+                  "top": "0.8080808080808081%",
+                  "left": "50.111111111111114%",
+                  "height": "53.13131313131313%",
+                  "width": "49.77777777777778%"
+                },
+                "type": "widget",
+                "relatedLayouts": "model0000016cff00a434_00000000"
+              },
+              {
+                "id": "model0000016cff132ae8_00000000",
+                "style": {
+                  "left": "1.3333333333333333%",
+                  "top": "1.0101010101010102%",
+                  "height": "49.09090909090909%",
+                  "width": "48.666666666666664%"
+                },
+                "type": "widget",
+                "relatedLayouts": ""
+              }
+            ],
+            "type": "scalingAbsolute"
+          }
+        ],
+        "type": "container",
+        "title": {
+          "translationTable": {
+            "Default": "Inventory"
+          }
+        },
+        "templateName": "Template9"
+      }
+    ],
+    "style": {
+      "height": "100%"
+    },
+    "type": "tab"
+  },
+  "theme": "defaultTheme",
+  "version": 1009,
+  "eventGroups": [
+    {
+      "id": "page1:1",
+      "widgetIds": [
+        "model0000016cfe3f2150_00000000",
+        "model0000016cfe3fbfc2_00000000",
+        "model0000016cfe40a4ad_00000000",
+        "model0000016cfe45f627_00000000",
+        "model0000016cff1f1eb7_00000000"
+      ]
+    },
+    {
+      "id": "model0000016cfe50198b_00000000:1",
+      "widgetIds": [
+        "model0000016cfe572a15_00000000",
+        "model0000016cfe594aee_00000000",
+        "model0000016cff023bd8_00000000",
+        "model0000016cff04532e_00000000",
+        "model0000016cff0c7f85_00000000",
+        "model0000016cff10f946_00000000"
+      ]
+    },
+    {
+      "id": "model0000016cff00a432_00000000:1",
+      "widgetIds": [
+        "model0000016cff132ae8_00000000",
+        "model0000016cff158be1_00000000",
+        "model0000016cff18338a_00000000",
+        "model0000016cff1be3d4_00000000"
+      ]
+    }
+  ],
+  "properties": {
+    "defaultLocale": "Default"
+  },
+  "dataSources": {
+    "version": "1.0",
+    "sources": [
+      {
+        "id": "model0000016cfe213681_00000001",
+        "assetId": "assetId0000016cfe213680_00000000",
+        "clientId": "eyJwcm9qZWN0IjoiUmV0YWlsUGxhbm5pbmciLCJuYW1lIjoiQ29nbm9zX0lucHV0IiwidHlwZSI6IkNTViJ9",
+        "module": {
+          "identifier": "aCognos_Input",
+          "label": "Cognos_Input",
+          "source": {
+            "id": "Cognos_Input",
+            "srcUrl": {
+              "property": [
+                {
+                  "name": "separator",
+                  "value": ","
+                },
+                {
+                  "name": "ColumnNamesLine",
+                  "value": "true"
+                },
+                {
+                  "name": "headers",
+                  "value": [
+                    {
+                      "name": "Authorization",
+                      "value": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im5lcmF2Iiwic3ViIjoibmVyYXYiLCJpc3MiOiJLTk9YU1NPIiwiYXVkIjoiRFNYIiwicm9sZSI6IkFkbWluIiwicGVybWlzc2lvbnMiOlsiYWNjZXNzX2NhdGFsb2ciLCJ2aXJ0dWFsaXplX3RyYW5zZm9ybSIsImNhbl9wcm92aXNpb24iLCJtYW5hZ2VfY2F0YWxvZyIsIm1hbmFnZV9wb2xpY2llcyIsImFjY2Vzc19wb2xpY2llcyIsImFkbWluaXN0cmF0b3IiLCJkZXBsb3ltZW50X2FkbWluIl0sInVpZCI6IjEwMjkiLCJhdXRoZW50aWNhdG9yIjoiZGVmYXVsdCIsImRpc3BsYXlfbmFtZSI6Ik5lcmF2IERvc2hpIiwiaWF0IjoxNTY4MDM4NDcxLCJleHAiOjE1NjgwODE2NzF9.fYLOnWVMibVZ03vrGYWPDSHfE_zeMkWcCYTpacEM39GZdqmxHlwgYItyF7cflkdq2xW1quUc0X1jMt3poN7AT7TFo_d4DXqoWn7KjN06oVo0J7WzLcPi4VHRVuygTROvUBcYseU_grymnMtkrOhHJHvqcrBiRbo3DlU0JnSKDx85OsN58kReO4-XJrbcbkfGeyDK9nibnsox9PBpi4M1voriD4K_IAKsK4iJMCAALEArH9X2Gnm6hjqkyMuH1G5XuB9IlYwSfRgYaCBzLQmX-5zMEA5eLFFA38KO7ClIJrXrz95AU45izk7C6y1Ah0JERGF3e-7ZYM_8QJO37lhcPw"
+                    }
+                  ]
+                }
+              ],
+              "sourceUrl": "http://dsx-core-svc:3000/v3/project/RetailPlanning/asset/Cognos_Input.csv/download"
+            }
+          },
+          "table": {
+            "column": [
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "City_US",
+                "label": "City_US",
+                "name": "aCity_US",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cCity",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "Vendor",
+                "label": "Vendor",
+                "name": "aVendor",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "Channel Type",
+                "label": "Channel Type",
+                "name": "aChannel_Type",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "Product type",
+                "label": "Product type",
+                "name": "aProduct_type",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "Retailer type",
+                "label": "Retailer type",
+                "name": "aRetailer_type",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "Product line",
+                "label": "Product line",
+                "name": "aProduct_line",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Product number",
+                "label": "Product number",
+                "name": "aProduct_number",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Year",
+                "label": "Year",
+                "name": "aYear",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cYear",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "Quarter",
+                "label": "Quarter",
+                "name": "aQuarter",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cQuarter",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Quantity",
+                "label": "Quantity",
+                "name": "aQuantity",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unit cost",
+                "label": "Unit cost",
+                "name": "aUnit_cost",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unit price",
+                "label": "Unit price",
+                "name": "aUnit_price",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unit sale price",
+                "label": "Unit sale price",
+                "name": "aUnit_sale_price",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Planned Revenue",
+                "label": "Planned Revenue",
+                "name": "aPlanned_Revenue",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Product cost",
+                "label": "Product cost",
+                "name": "aProduct_cost",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Gross profit",
+                "label": "Gross profit",
+                "name": "aGross_profit",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Revenue",
+                "label": "Revenue",
+                "name": "aRevenue",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Marketing spent",
+                "label": "Marketing spent",
+                "name": "aMarketing_spent",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Store Traffic",
+                "label": "Store Traffic",
+                "name": "aStore_Traffic",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Revenue surplus",
+                "label": "Revenue surplus",
+                "name": "aRevenue_surplus",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "PromotionFlag",
+                "label": "PromotionFlag",
+                "name": "aPromotionFlag",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Csat",
+                "label": "Csat",
+                "name": "aCsat",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Inventory_Needed",
+                "label": "Inventory_Needed",
+                "name": "aInventory_Needed",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Existing_Inventory",
+                "label": "Existing_Inventory",
+                "name": "aExisting_Inventory",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Revenue_Offer 1",
+                "label": "Revenue_Offer 1",
+                "name": "aRevenue_Offer_1",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Revenue_Offer 2",
+                "label": "Revenue_Offer 2",
+                "name": "aRevenue_Offer_2",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Revenue_Offer 3",
+                "label": "Revenue_Offer 3",
+                "name": "aRevenue_Offer_3",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Revenue_Offer 4",
+                "label": "Revenue_Offer 4",
+                "name": "aRevenue_Offer_4",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Revenue_Offer 5",
+                "label": "Revenue_Offer 5",
+                "name": "aRevenue_Offer_5",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Revenue_Offer 6",
+                "label": "Revenue_Offer 6",
+                "name": "aRevenue_Offer_6",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Revenue_Offer  7",
+                "label": "Revenue_Offer  7",
+                "name": "aRevenue_Offer_7",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Revenue_Offer 8",
+                "label": "Revenue_Offer 8",
+                "name": "aRevenue_Offer_8",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Revenue_Offer 9",
+                "label": "Revenue_Offer 9",
+                "name": "aRevenue_Offer_9",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Revenue_Offer 10",
+                "label": "Revenue_Offer 10",
+                "name": "aRevenue_Offer_10",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Revenue_Offer 11",
+                "label": "Revenue_Offer 11",
+                "name": "aRevenue_Offer_11",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Revenue_Offer 12",
+                "label": "Revenue_Offer 12",
+                "name": "aRevenue_Offer_12",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unnamed: 36",
+                "label": "Unnamed: 36",
+                "name": "aUnnamed:_36",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unnamed: 37",
+                "label": "Unnamed: 37",
+                "name": "aUnnamed:_37",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unnamed: 38",
+                "label": "Unnamed: 38",
+                "name": "aUnnamed:_38",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unnamed: 39",
+                "label": "Unnamed: 39",
+                "name": "aUnnamed:_39",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unnamed: 40",
+                "label": "Unnamed: 40",
+                "name": "aUnnamed:_40",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unnamed: 41",
+                "label": "Unnamed: 41",
+                "name": "aUnnamed:_41",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unnamed: 42",
+                "label": "Unnamed: 42",
+                "name": "aUnnamed:_42",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unnamed: 43",
+                "label": "Unnamed: 43",
+                "name": "aUnnamed:_43",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unnamed: 44",
+                "label": "Unnamed: 44",
+                "name": "aUnnamed:_44",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unnamed: 45",
+                "label": "Unnamed: 45",
+                "name": "aUnnamed:_45",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unnamed: 46",
+                "label": "Unnamed: 46",
+                "name": "aUnnamed:_46",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unnamed: 47",
+                "label": "Unnamed: 47",
+                "name": "aUnnamed:_47",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              }
+            ],
+            "name": "CognosInput"
+          },
+          "xsd": "https://ibm.com/daas/module/1.0/module.xsd"
+        },
+        "name": "Cognos_Input",
+        "shaping": {
+          "shapingId": "shaping0000016cff1aa421_00000000",
+          "embeddedModuleUpToDate": false,
+          "moserJSON": {
+            "version": "5.0.1",
+            "container": "C",
+            "useSpec": [
+              {
+                "identifier": "ES",
+                "type": "url",
+                "storeID": "baseModule",
+                "imports": "*"
+              }
+            ],
+            "expressionLocale": "en-us",
+            "calculation": [
+              {
+                "expression": "CognosInput.aExisting_Inventory - CognosInput.aInventory_Needed",
+                "usage": "fact",
+                "datatype": "DECIMAL(20,0)",
+                "nullable": true,
+                "regularAggregate": "calculated",
+                "datatypeCategory": "number",
+                "highlevelDatatype": "decimal",
+                "facetDefinition": {
+                  "enabled": "automatic"
+                },
+                "identifier": "Inventory_Surplus",
+                "label": "Inventory_Surplus",
+                "property": [
+                  {
+                    "name": "ui_expr",
+                    "value": "{\"func\":\"customCalculation\",\"version\":\"5.0.1\"}"
+                  }
+                ],
+                "propertyOverride": [
+                  "NEW"
+                ]
+              }
+            ],
+            "metadataTreeView": [
+              {
+                "folderItem": [
+                  {
+                    "ref": "Inventory_Surplus"
+                  }
+                ]
+              }
+            ],
+            "dataRetrievalMode": "liveConnection",
+            "identifier": "newModel",
+            "label": "newModel"
+          }
+        }
+      },
+      {
+        "id": "model0000016cfe527ebf_00000001",
+        "assetId": "assetId0000016cfe527ebe_00000000",
+        "clientId": "eyJwcm9qZWN0IjoiUmV0YWlsUGxhbm5pbmciLCJuYW1lIjoiRmluYWxfTWFya2V0aW5nX0xpc3QiLCJ0eXBlIjoiQ1NWIn0=",
+        "module": {
+          "identifier": "aFinal_Marketing_List",
+          "label": "Final_Marketing_List",
+          "source": {
+            "id": "Final_Marketing_List",
+            "srcUrl": {
+              "property": [
+                {
+                  "name": "separator",
+                  "value": ","
+                },
+                {
+                  "name": "ColumnNamesLine",
+                  "value": "true"
+                },
+                {
+                  "name": "headers",
+                  "value": [
+                    {
+                      "name": "Authorization",
+                      "value": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im5lcmF2Iiwic3ViIjoibmVyYXYiLCJpc3MiOiJLTk9YU1NPIiwiYXVkIjoiRFNYIiwicm9sZSI6IkFkbWluIiwicGVybWlzc2lvbnMiOlsiYWNjZXNzX2NhdGFsb2ciLCJ2aXJ0dWFsaXplX3RyYW5zZm9ybSIsImNhbl9wcm92aXNpb24iLCJtYW5hZ2VfY2F0YWxvZyIsIm1hbmFnZV9wb2xpY2llcyIsImFjY2Vzc19wb2xpY2llcyIsImFkbWluaXN0cmF0b3IiLCJkZXBsb3ltZW50X2FkbWluIl0sInVpZCI6IjEwMjkiLCJhdXRoZW50aWNhdG9yIjoiZGVmYXVsdCIsImRpc3BsYXlfbmFtZSI6Ik5lcmF2IERvc2hpIiwiaWF0IjoxNTY4MDM4NDcxLCJleHAiOjE1NjgwODE2NzF9.fYLOnWVMibVZ03vrGYWPDSHfE_zeMkWcCYTpacEM39GZdqmxHlwgYItyF7cflkdq2xW1quUc0X1jMt3poN7AT7TFo_d4DXqoWn7KjN06oVo0J7WzLcPi4VHRVuygTROvUBcYseU_grymnMtkrOhHJHvqcrBiRbo3DlU0JnSKDx85OsN58kReO4-XJrbcbkfGeyDK9nibnsox9PBpi4M1voriD4K_IAKsK4iJMCAALEArH9X2Gnm6hjqkyMuH1G5XuB9IlYwSfRgYaCBzLQmX-5zMEA5eLFFA38KO7ClIJrXrz95AU45izk7C6y1Ah0JERGF3e-7ZYM_8QJO37lhcPw"
+                    }
+                  ]
+                }
+              ],
+              "sourceUrl": "http://dsx-core-svc:3000/v3/project/RetailPlanning/asset/Final_Marketing_List.csv/download"
+            }
+          },
+          "table": {
+            "column": [
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "Customer line",
+                "label": "Customer line",
+                "name": "aCustomer_line",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Customer CostToServ",
+                "label": "Customer CostToServ",
+                "name": "aCustomer_CostToServ",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Customer Customer ID",
+                "label": "Customer Customer ID",
+                "name": "aCustomer_Customer_ID",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "Customer Offer id",
+                "label": "Customer Offer id",
+                "name": "aCustomer_Offer_id",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Customer Offer_Probability",
+                "label": "Customer Offer_Probability",
+                "name": "aCustomer_Offer_Probability",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Customer Revenue",
+                "label": "Customer Revenue",
+                "name": "aCustomer_Revenue",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "Customer Offer",
+                "label": "Customer Offer",
+                "name": "aCustomer_Offer",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "Customer Target Channel",
+                "label": "Customer Target Channel",
+                "name": "aCustomer_Target_Channel",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "total Revenue of Customers over all selections",
+                "label": "total Revenue of Customers over all selections",
+                "name": "total_Revenue_of_Customers_over_all_selections",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              }
+            ],
+            "name": "FinalMarketingList"
+          },
+          "xsd": "https://ibm.com/daas/module/1.0/module.xsd"
+        },
+        "name": "Final_Marketing_List",
+        "shaping": {
+          "embeddedModuleUpToDate": true
+        }
+      },
+      {
+        "id": "model0000016cfe55a243_00000002",
+        "assetId": "assetId0000016cfe55a243_00000000",
+        "clientId": "eyJwcm9qZWN0IjoiUmV0YWlsUGxhbm5pbmciLCJuYW1lIjoiQ3VzdG9tZXJfc2VsZWN0aW9uX3JlcG9ydCIsInR5cGUiOiJDU1YifQ==",
+        "module": {
+          "identifier": "aCustomer_selection_report",
+          "label": "Customer_selection_report",
+          "source": {
+            "id": "Customer_selection_report",
+            "srcUrl": {
+              "property": [
+                {
+                  "name": "separator",
+                  "value": ","
+                },
+                {
+                  "name": "ColumnNamesLine",
+                  "value": "true"
+                },
+                {
+                  "name": "headers",
+                  "value": [
+                    {
+                      "name": "Authorization",
+                      "value": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im5lcmF2Iiwic3ViIjoibmVyYXYiLCJpc3MiOiJLTk9YU1NPIiwiYXVkIjoiRFNYIiwicm9sZSI6IkFkbWluIiwicGVybWlzc2lvbnMiOlsiYWNjZXNzX2NhdGFsb2ciLCJ2aXJ0dWFsaXplX3RyYW5zZm9ybSIsImNhbl9wcm92aXNpb24iLCJtYW5hZ2VfY2F0YWxvZyIsIm1hbmFnZV9wb2xpY2llcyIsImFjY2Vzc19wb2xpY2llcyIsImFkbWluaXN0cmF0b3IiLCJkZXBsb3ltZW50X2FkbWluIl0sInVpZCI6IjEwMjkiLCJhdXRoZW50aWNhdG9yIjoiZGVmYXVsdCIsImRpc3BsYXlfbmFtZSI6Ik5lcmF2IERvc2hpIiwiaWF0IjoxNTY4MDM4NDcxLCJleHAiOjE1NjgwODE2NzF9.fYLOnWVMibVZ03vrGYWPDSHfE_zeMkWcCYTpacEM39GZdqmxHlwgYItyF7cflkdq2xW1quUc0X1jMt3poN7AT7TFo_d4DXqoWn7KjN06oVo0J7WzLcPi4VHRVuygTROvUBcYseU_grymnMtkrOhHJHvqcrBiRbo3DlU0JnSKDx85OsN58kReO4-XJrbcbkfGeyDK9nibnsox9PBpi4M1voriD4K_IAKsK4iJMCAALEArH9X2Gnm6hjqkyMuH1G5XuB9IlYwSfRgYaCBzLQmX-5zMEA5eLFFA38KO7ClIJrXrz95AU45izk7C6y1Ah0JERGF3e-7ZYM_8QJO37lhcPw"
+                    }
+                  ]
+                }
+              ],
+              "sourceUrl": "http://dsx-core-svc:3000/v3/project/RetailPlanning/asset/Customer_selection_report.csv/download"
+            }
+          },
+          "table": {
+            "column": [
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "Customer_selection_report (1)",
+                "label": "Customer_selection_report (1)",
+                "name": "aCustomer_selection_report_(1)",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              }
+            ],
+            "name": "Customerselectionreport"
+          },
+          "xsd": "https://ibm.com/daas/module/1.0/module.xsd"
+        },
+        "name": "Customer_selection_report",
+        "shaping": {
+          "embeddedModuleUpToDate": true
+        }
+      },
+      {
+        "id": "model0000016cfe563df0_00000002",
+        "assetId": "assetId0000016cfe563df0_00000000",
+        "clientId": "eyJwcm9qZWN0IjoiUmV0YWlsUGxhbm5pbmciLCJuYW1lIjoiQ3VzdG9tZXJQcm9maWxlRGVwdFN0b3JlIiwidHlwZSI6IkNTViJ9",
+        "module": {
+          "identifier": "aCustomerProfileDeptStore",
+          "label": "CustomerProfileDeptStore",
+          "source": {
+            "id": "CustomerProfileDeptStore",
+            "srcUrl": {
+              "property": [
+                {
+                  "name": "separator",
+                  "value": ","
+                },
+                {
+                  "name": "ColumnNamesLine",
+                  "value": "true"
+                },
+                {
+                  "name": "headers",
+                  "value": [
+                    {
+                      "name": "Authorization",
+                      "value": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im5lcmF2Iiwic3ViIjoibmVyYXYiLCJpc3MiOiJLTk9YU1NPIiwiYXVkIjoiRFNYIiwicm9sZSI6IkFkbWluIiwicGVybWlzc2lvbnMiOlsiYWNjZXNzX2NhdGFsb2ciLCJ2aXJ0dWFsaXplX3RyYW5zZm9ybSIsImNhbl9wcm92aXNpb24iLCJtYW5hZ2VfY2F0YWxvZyIsIm1hbmFnZV9wb2xpY2llcyIsImFjY2Vzc19wb2xpY2llcyIsImFkbWluaXN0cmF0b3IiLCJkZXBsb3ltZW50X2FkbWluIl0sInVpZCI6IjEwMjkiLCJhdXRoZW50aWNhdG9yIjoiZGVmYXVsdCIsImRpc3BsYXlfbmFtZSI6Ik5lcmF2IERvc2hpIiwiaWF0IjoxNTY4MDM4NDcxLCJleHAiOjE1NjgwODE2NzF9.fYLOnWVMibVZ03vrGYWPDSHfE_zeMkWcCYTpacEM39GZdqmxHlwgYItyF7cflkdq2xW1quUc0X1jMt3poN7AT7TFo_d4DXqoWn7KjN06oVo0J7WzLcPi4VHRVuygTROvUBcYseU_grymnMtkrOhHJHvqcrBiRbo3DlU0JnSKDx85OsN58kReO4-XJrbcbkfGeyDK9nibnsox9PBpi4M1voriD4K_IAKsK4iJMCAALEArH9X2Gnm6hjqkyMuH1G5XuB9IlYwSfRgYaCBzLQmX-5zMEA5eLFFA38KO7ClIJrXrz95AU45izk7C6y1Ah0JERGF3e-7ZYM_8QJO37lhcPw"
+                    }
+                  ]
+                }
+              ],
+              "sourceUrl": "http://dsx-core-svc:3000/v3/project/RetailPlanning/asset/CustomerProfileDeptStore.csv/download"
+            }
+          },
+          "table": {
+            "column": [
+              {
+                "datatype": "BIGINT",
+                "description": "CUST_ID",
+                "label": "CUST_ID",
+                "name": "aCUST_ID",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "REGISTRATION_ID",
+                "label": "REGISTRATION_ID",
+                "name": "aREGISTRATION_ID",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "AGE",
+                "label": "AGE",
+                "name": "aAGE",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "GENDER",
+                "label": "GENDER",
+                "name": "aGENDER",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "MARITAL_STATUS",
+                "label": "MARITAL_STATUS",
+                "name": "aMARITAL_STATUS",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "PROFESSION",
+                "label": "PROFESSION",
+                "name": "aPROFESSION",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "EDUCATION",
+                "label": "EDUCATION",
+                "name": "aEDUCATION",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "INCOME",
+                "label": "INCOME",
+                "name": "aINCOME",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "MEMBERS_IN_HOUSEHOLD",
+                "label": "MEMBERS_IN_HOUSEHOLD",
+                "name": "aMEMBERS_IN_HOUSEHOLD",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "PRODUCT_BROWSED_TOTAL",
+                "label": "PRODUCT_BROWSED_TOTAL",
+                "name": "aPRODUCT_BROWSED_TOTAL",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "PRODUCT_BROWSED_AVERAGE",
+                "label": "PRODUCT_BROWSED_AVERAGE",
+                "name": "aPRODUCT_BROWSED_AVERAGE",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "PRODUCT_PURCHASED_TOTAL",
+                "label": "PRODUCT_PURCHASED_TOTAL",
+                "name": "aPRODUCT_PURCHASED_TOTAL",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "PRODUCT_PURCHASED_AVERAGE",
+                "label": "PRODUCT_PURCHASED_AVERAGE",
+                "name": "aPRODUCT_PURCHASED_AVERAGE",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "ITEMS_PLACED_IN_CART_TOTAL",
+                "label": "ITEMS_PLACED_IN_CART_TOTAL",
+                "name": "aITEMS_PLACED_IN_CART_TOTAL",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "ITEMS_PLACED_IN_CART_AVERAGE",
+                "label": "ITEMS_PLACED_IN_CART_AVERAGE",
+                "name": "aITEMS_PLACED_IN_CART_AVERAGE",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "ONSITE_SEARCHES_TOTAL",
+                "label": "ONSITE_SEARCHES_TOTAL",
+                "name": "aONSITE_SEARCHES_TOTAL",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "ONSITE_SEARCHES_AVERAGE",
+                "label": "ONSITE_SEARCHES_AVERAGE",
+                "name": "aONSITE_SEARCHES_AVERAGE",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "PAGE_VIEWS_TOTAL",
+                "label": "PAGE_VIEWS_TOTAL",
+                "name": "aPAGE_VIEWS_TOTAL",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "PAGE_VIEWS_AVERAGE",
+                "label": "PAGE_VIEWS_AVERAGE",
+                "name": "aPAGE_VIEWS_AVERAGE",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "AMOUNT_BROWSED_TOTAL",
+                "label": "AMOUNT_BROWSED_TOTAL",
+                "name": "aAMOUNT_BROWSED_TOTAL",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "AMOUNT_BROWSED_AVERAGE",
+                "label": "AMOUNT_BROWSED_AVERAGE",
+                "name": "aAMOUNT_BROWSED_AVERAGE",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "AMOUNT_CARTED_TOTAL",
+                "label": "AMOUNT_CARTED_TOTAL",
+                "name": "aAMOUNT_CARTED_TOTAL",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "AMOUNT_CARTED_AVERAGE",
+                "label": "AMOUNT_CARTED_AVERAGE",
+                "name": "aAMOUNT_CARTED_AVERAGE",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "AMOUNT_PURCHASED_TOTAL",
+                "label": "AMOUNT_PURCHASED_TOTAL",
+                "name": "aAMOUNT_PURCHASED_TOTAL",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "AMOUNT_PURCHASED_AVERAGE",
+                "label": "AMOUNT_PURCHASED_AVERAGE",
+                "name": "aAMOUNT_PURCHASED_AVERAGE",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "AMOUNT_ABANDONED_TOTAL",
+                "label": "AMOUNT_ABANDONED_TOTAL",
+                "name": "aAMOUNT_ABANDONED_TOTAL",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "AMOUNT_ABANDONED_AVERAGE",
+                "label": "AMOUNT_ABANDONED_AVERAGE",
+                "name": "aAMOUNT_ABANDONED_AVERAGE",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "NUMBER_OF_ACTIVITIES_TOTAL",
+                "label": "NUMBER_OF_ACTIVITIES_TOTAL",
+                "name": "aNUMBER_OF_ACTIVITIES_TOTAL",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "NUMBER_OF_ACTIVITIES_AVERAGE",
+                "label": "NUMBER_OF_ACTIVITIES_AVERAGE",
+                "name": "aNUMBER_OF_ACTIVITIES_AVERAGE",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "NUMBER_OF_SESSIONS",
+                "label": "NUMBER_OF_SESSIONS",
+                "name": "aNUMBER_OF_SESSIONS",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "COOKIE_ID",
+                "label": "COOKIE_ID",
+                "name": "aCOOKIE_ID",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "identifier"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "PCI_BUYER_CATEGORY",
+                "label": "PCI_BUYER_CATEGORY",
+                "name": "aPCI_BUYER_CATEGORY",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "PCI_LTV",
+                "label": "PCI_LTV",
+                "name": "aPCI_LTV",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "PCI_DEMOGRAPHIC_CLUSTER",
+                "label": "PCI_DEMOGRAPHIC_CLUSTER",
+                "name": "aPCI_DEMOGRAPHIC_CLUSTER",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "PCI_ONLINE_BEHAVIOR_CLUSTER",
+                "label": "PCI_ONLINE_BEHAVIOR_CLUSTER",
+                "name": "aPCI_ONLINE_BEHAVIOR_CLUSTER",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "PCI_BUYING_BEHAVIOR_CLUSTER",
+                "label": "PCI_BUYING_BEHAVIOR_CLUSTER",
+                "name": "aPCI_BUYING_BEHAVIOR_CLUSTER",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unnamed: 36",
+                "label": "Unnamed: 36",
+                "name": "aUnnamed:_36",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Unnamed: 37",
+                "label": "Unnamed: 37",
+                "name": "aUnnamed:_37",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "PCI_PRODUCT_PURCHASE_AFFINITY",
+                "label": "PCI_PRODUCT_PURCHASE_AFFINITY",
+                "name": "aPCI_PRODUCT_PURCHASE_AFFINITY",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "NVARCHAR(MAX)",
+                "description": "PCI_PRODUCT_BROWSE_AFFINITY",
+                "label": "PCI_PRODUCT_BROWSE_AFFINITY",
+                "name": "aPCI_PRODUCT_BROWSE_AFFINITY",
+                "nullable": true,
+                "regularAggregate": "countDistinct",
+                "taxonomyFamily": "cNone",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "PCI_NEXT_BEST_OFFER1",
+                "label": "PCI_NEXT_BEST_OFFER1",
+                "name": "aPCI_NEXT_BEST_OFFER1",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "PCI_NEXT_BEST_OFFER2",
+                "label": "PCI_NEXT_BEST_OFFER2",
+                "name": "aPCI_NEXT_BEST_OFFER2",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "PCI_NEXT_BEST_OFFER3",
+                "label": "PCI_NEXT_BEST_OFFER3",
+                "name": "aPCI_NEXT_BEST_OFFER3",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "PCI_TOP_PRODUCT1",
+                "label": "PCI_TOP_PRODUCT1",
+                "name": "aPCI_TOP_PRODUCT1",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "PCI_TOP_PRODUCT2",
+                "label": "PCI_TOP_PRODUCT2",
+                "name": "aPCI_TOP_PRODUCT2",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              },
+              {
+                "datatype": "BIGINT",
+                "description": "PCI_TOP_PRODUCT3",
+                "label": "PCI_TOP_PRODUCT3",
+                "name": "aPCI_TOP_PRODUCT3",
+                "nullable": true,
+                "regularAggregate": "total",
+                "taxonomyFamily": "cNone",
+                "usage": "fact"
+              }
+            ],
+            "name": "CustomerProfileDeptStore"
+          },
+          "xsd": "https://ibm.com/daas/module/1.0/module.xsd"
+        },
+        "name": "CustomerProfileDeptStore",
+        "shaping": {
+          "embeddedModuleUpToDate": true
+        }
+      }
+    ]
+  },
+  "pageContext": [
+    {
+      "origin": "filter",
+      "table": "",
+      "alias": "0",
+      "sourceId": "model0000016cfe213681_00000001",
+      "scope": "global",
+      "hierarchyNames": [
+        "Quarter"
+      ],
+      "hierarchyUniqueNames": [
+        "CognosInput.aQuarter"
+      ],
+      "isNamedSet": false
+    },
+    {
+      "origin": "filter",
+      "table": "",
+      "alias": "0",
+      "sourceId": "model0000016cfe213681_00000001",
+      "conditions": [],
+      "scope": "global",
+      "hierarchyNames": [
+        "Quantity"
+      ],
+      "hierarchyUniqueNames": [
+        "CognosInput.aQuantity"
+      ],
+      "isNamedSet": false
+    },
+    {
+      "origin": "filter",
+      "table": "",
+      "alias": "0",
+      "sourceId": "model0000016cfe213681_00000001",
+      "conditions": [],
+      "scope": "global",
+      "hierarchyNames": [
+        "Revenue"
+      ],
+      "hierarchyUniqueNames": [
+        "CognosInput.aRevenue"
+      ],
+      "isNamedSet": false
+    },
+    {
+      "origin": "visualization",
+      "table": "",
+      "alias": "0",
+      "sourceId": "model0000016cfe213681_00000001",
+      "hierarchies": [
+        {
+          "hierarchyUniqueName": "CognosInput.aProduct_type"
+        }
+      ],
+      "scope": "model0000016cff00a432_00000000",
+      "hierarchyUniqueNames": [
+        "CognosInput.aProduct_type"
+      ],
+      "eventSourceId": "model0000016cff1be3d4_00000000",
+      "eventGroupId": "model0000016cff00a432_00000000:1",
+      "tupleSet": "{\"CognosInput.aProduct_type->[Ladies Watch]\":{\"u\":\"CognosInput.aProduct_type->[Ladies Watch]\",\"d\":\"Ladies Watch\"}}"
+    },
+    {
+      "origin": "visualization",
+      "table": "",
+      "alias": "0",
+      "sourceId": "model0000016cfe213681_00000001",
+      "hierarchies": [
+        {
+          "hierarchyUniqueName": "CognosInput.aProduct_line"
+        }
+      ],
+      "scope": "model0000016cfe50198b_00000000",
+      "hierarchyUniqueNames": [
+        "CognosInput.aProduct_line"
+      ],
+      "eventSourceId": "model0000016cff10f946_00000000",
+      "eventGroupId": "model0000016cfe50198b_00000000:1",
+      "tupleSet": "{\"CognosInput.aProduct_line->[Personal Accessories]\":{\"u\":\"CognosInput.aProduct_line->[Personal Accessories]\",\"d\":\"Personal Accessories\"}}"
+    }
+  ],
+  "drillThrough": [],
+  "widgets": {
+    "model0000016cfe3f2150_00000000": {
+      "id": "model0000016cfe3f2150_00000000",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model0000016cfe213681_00000001",
+            "dataItems": [
+              {
+                "id": "model0000016cfe3f43e4_00000000",
+                "itemId": "CognosInput.aProduct_type",
+                "itemLabel": "Product type"
+              }
+            ],
+            "id": "model0000016cfe3f43e3_00000000"
+          }
+        ]
+      },
+      "visTypeLocked": true,
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "values",
+            "dataItems": [
+              "model0000016cfe3f43e4_00000000"
+            ],
+            "dataItemSettings": [],
+            "caption": "Value",
+            "id": "values"
+          }
+        ]
+      },
+      "type": "live",
+      "visId": "summary",
+      "name": {
+        "translationTable": {}
+      }
+    },
+    "model0000016cfe3fbfc2_00000000": {
+      "id": "model0000016cfe3fbfc2_00000000",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model0000016cfe213681_00000001",
+            "dataItems": [
+              {
+                "id": "model0000016cfe402830_00000000",
+                "itemId": "CognosInput.aVendor",
+                "itemLabel": "Vendor"
+              }
+            ],
+            "id": "model0000016cfe3fdbf8_00000001"
+          }
+        ]
+      },
+      "visTypeLocked": true,
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "values",
+            "dataItems": [
+              "model0000016cfe402830_00000000"
+            ],
+            "dataItemSettings": [],
+            "caption": "Value",
+            "id": "values"
+          }
+        ]
+      },
+      "type": "live",
+      "visId": "summary",
+      "name": {
+        "translationTable": {}
+      },
+      "localFilters": []
+    },
+    "model0000016cfe40a4ad_00000000": {
+      "id": "model0000016cfe40a4ad_00000000",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model0000016cfe213681_00000001",
+            "dataItems": [
+              {
+                "id": "model0000016cfe4121e9_00000001",
+                "itemId": "CognosInput.aCity_US",
+                "itemLabel": "City_US"
+              }
+            ],
+            "id": "model0000016cfe4121e9_00000000"
+          }
+        ]
+      },
+      "visTypeLocked": true,
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "values",
+            "dataItems": [
+              "model0000016cfe4121e9_00000001"
+            ],
+            "dataItemSettings": [],
+            "caption": "Value",
+            "id": "values",
+            "layerId": "data"
+          }
+        ]
+      },
+      "type": "live",
+      "visId": "summary",
+      "name": {
+        "translationTable": {}
+      }
+    },
+    "model0000016cfe45f627_00000000": {
+      "id": "model0000016cfe45f627_00000000",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model0000016cfe213681_00000001",
+            "dataItems": [
+              {
+                "id": "model0000016cfe46433a_00000001",
+                "itemId": "CognosInput.aRevenue",
+                "itemLabel": "Revenue",
+                "selection": [
+                  {
+                    "operation": "keep",
+                    "topBottom": {
+                      "type": "topcount",
+                      "value": 10
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "model0000016cfe467427_00000000",
+                "itemId": "CognosInput.aQuarter",
+                "itemLabel": "Quarter"
+              },
+              {
+                "id": "model0000016cfe486f2d_00000000",
+                "itemId": "CognosInput.aGross_profit",
+                "itemLabel": "Gross profit"
+              },
+              {
+                "id": "_multiMeasuresSeries",
+                "itemId": "_multiMeasuresSeries",
+                "itemLabel": "Measures group (2)"
+              }
+            ],
+            "id": "model0000016cfe46433a_00000000"
+          }
+        ]
+      },
+      "visTypeLocked": false,
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "values",
+            "dataItems": [
+              "model0000016cfe486f2d_00000000",
+              "model0000016cfe46433a_00000001"
+            ],
+            "caption": "y-axis",
+            "id": "values"
+          },
+          {
+            "name": "categories",
+            "dataItems": [
+              "model0000016cfe467427_00000000"
+            ],
+            "dataItemSettings": [],
+            "caption": "x-axis",
+            "id": "categories"
+          },
+          {
+            "name": "series",
+            "dataItems": [
+              "_multiMeasuresSeries"
+            ],
+            "caption": "Color",
+            "id": "series"
+          }
+        ]
+      },
+      "type": "live",
+      "visId": "com.ibm.vis.rave2line",
+      "name": {
+        "translationTable": {}
+      },
+      "localFilters": []
+    },
+    "model0000016cfe572a15_00000000": {
+      "id": "model0000016cfe572a15_00000000",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model0000016cfe563df0_00000002",
+            "dataItems": [
+              {
+                "id": "model0000016cfe5734f8_00000001",
+                "itemId": "CustomerProfileDeptStore.aCUST_ID",
+                "itemLabel": "CUST_ID"
+              }
+            ],
+            "id": "model0000016cfe5734f8_00000000"
+          }
+        ]
+      },
+      "visTypeLocked": true,
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "values",
+            "dataItems": [
+              "model0000016cfe5734f8_00000001"
+            ],
+            "dataItemSettings": [],
+            "caption": "Value",
+            "id": "values",
+            "layerId": "data"
+          }
+        ]
+      },
+      "type": "live",
+      "visId": "summary",
+      "name": {
+        "translationTable": {}
+      }
+    },
+    "model0000016cfe594aee_00000000": {
+      "id": "model0000016cfe594aee_00000000",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model0000016cfe563df0_00000002",
+            "dataItems": [
+              {
+                "id": "model0000016cfe5a4b6d_00000000",
+                "itemId": "CustomerProfileDeptStore.aINCOME",
+                "itemLabel": "INCOME",
+                "aggregate": "avg"
+              },
+              {
+                "id": "model0000016cfe5ce4ec_00000000",
+                "itemId": "CustomerProfileDeptStore.aAGE",
+                "itemLabel": "AGE"
+              },
+              {
+                "id": "model0000016cfe5e1e31_00000000",
+                "itemId": "CustomerProfileDeptStore.aGENDER",
+                "itemLabel": "GENDER"
+              }
+            ],
+            "id": "model0000016cfe598bb7_00000001"
+          }
+        ]
+      },
+      "visTypeLocked": true,
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "categories",
+            "dataItems": [
+              "model0000016cfe5ce4ec_00000000"
+            ],
+            "dataItemSettings": [],
+            "caption": "Bubbles",
+            "id": "categories",
+            "layerId": "data"
+          },
+          {
+            "name": "size",
+            "dataItems": [
+              "model0000016cfe5a4b6d_00000000"
+            ],
+            "caption": "Size",
+            "id": "size",
+            "layerId": "data"
+          },
+          {
+            "name": "color",
+            "dataItems": [
+              "model0000016cfe5e1e31_00000000"
+            ],
+            "caption": "Color",
+            "id": "color",
+            "layerId": "data"
+          }
+        ]
+      },
+      "type": "live",
+      "visId": "com.ibm.vis.rave2bundlepackedbubble",
+      "name": {
+        "translationTable": {}
+      },
+      "localFilters": []
+    },
+    "model0000016cff023bd8_00000000": {
+      "id": "model0000016cff023bd8_00000000",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model0000016cfe213681_00000001",
+            "dataItems": [
+              {
+                "id": "model0000016cff0252c2_00000001",
+                "itemId": "CognosInput.aCsat",
+                "itemLabel": "Csat",
+                "aggregate": "avg"
+              }
+            ],
+            "id": "model0000016cff0252c2_00000000"
+          }
+        ]
+      },
+      "visTypeLocked": true,
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "values",
+            "dataItems": [
+              "model0000016cff0252c2_00000001"
+            ],
+            "dataItemSettings": [],
+            "caption": "Value",
+            "id": "values",
+            "layerId": "data"
+          }
+        ]
+      },
+      "type": "live",
+      "visId": "summary",
+      "name": {
+        "translationTable": {}
+      },
+      "localFilters": []
+    },
+    "model0000016cff04532e_00000000": {
+      "id": "model0000016cff04532e_00000000",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model0000016cfe213681_00000001",
+            "dataItems": [
+              {
+                "id": "model0000016cff046797_00000001",
+                "itemId": "CognosInput.aChannel_Type",
+                "itemLabel": "Channel Type"
+              },
+              {
+                "id": "model0000016cff05946d_00000000",
+                "itemId": "CognosInput.aCsat",
+                "itemLabel": "Csat",
+                "aggregate": "avg"
+              }
+            ],
+            "id": "model0000016cff046797_00000000"
+          }
+        ]
+      },
+      "visTypeLocked": true,
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "categories",
+            "dataItems": [
+              "model0000016cff046797_00000001"
+            ],
+            "dataItemSettings": [],
+            "caption": "Bubbles",
+            "id": "categories",
+            "layerId": "data"
+          },
+          {
+            "name": "size",
+            "dataItems": [
+              "model0000016cff05946d_00000000"
+            ],
+            "caption": "Size",
+            "id": "size"
+          }
+        ]
+      },
+      "type": "live",
+      "visId": "com.ibm.vis.rave2bundlepackedbubble",
+      "name": {
+        "translationTable": {}
+      },
+      "localFilters": []
+    },
+    "model0000016cff0c7f85_00000000": {
+      "id": "model0000016cff0c7f85_00000000",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model0000016cfe213681_00000001",
+            "dataItems": [
+              {
+                "id": "model0000016cff0ca057_00000001",
+                "itemId": "CognosInput.aCsat",
+                "itemLabel": "Csat"
+              },
+              {
+                "id": "model0000016cff0cf593_00000000",
+                "itemId": "CognosInput.aRetailer_type",
+                "itemLabel": "Retailer type",
+                "selection": []
+              }
+            ],
+            "id": "model0000016cff0ca057_00000000"
+          }
+        ]
+      },
+      "visTypeLocked": true,
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "categories",
+            "dataItems": [
+              "model0000016cff0cf593_00000000"
+            ],
+            "dataItemSettings": [],
+            "caption": "Bars",
+            "id": "categories",
+            "layerId": "data"
+          },
+          {
+            "name": "values",
+            "dataItems": [
+              "model0000016cff0ca057_00000001"
+            ],
+            "caption": "Length",
+            "id": "values",
+            "layerId": "data"
+          }
+        ]
+      },
+      "type": "live",
+      "visId": "com.ibm.vis.rave2bundlecolumn",
+      "name": {
+        "translationTable": {}
+      },
+      "localFilters": []
+    },
+    "model0000016cff10f946_00000000": {
+      "id": "model0000016cff10f946_00000000",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model0000016cfe213681_00000001",
+            "dataItems": [
+              {
+                "id": "model0000016cff11079a_00000001",
+                "itemId": "CognosInput.aProduct_line",
+                "itemLabel": "Product line"
+              }
+            ],
+            "id": "model0000016cff11079a_00000000"
+          }
+        ]
+      },
+      "visTypeLocked": true,
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "level1",
+            "dataItems": [
+              "model0000016cff11079a_00000001"
+            ],
+            "dataItemSettings": [],
+            "caption": "Level one",
+            "id": "level1"
+          }
+        ]
+      },
+      "type": "live",
+      "visId": "list",
+      "name": {
+        "translationTable": {}
+      }
+    },
+    "model0000016cff132ae8_00000000": {
+      "id": "model0000016cff132ae8_00000000",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model0000016cfe213681_00000001",
+            "dataItems": [
+              {
+                "id": "model0000016cff136277_00000000",
+                "itemId": "CognosInput.aExisting_Inventory",
+                "itemLabel": "Existing_Inventory"
+              },
+              {
+                "id": "model0000016cff13a088_00000000",
+                "itemId": "CognosInput.aProduct_type",
+                "itemLabel": "Product type"
+              },
+              {
+                "id": "model0000016cff14ecd8_00000001",
+                "itemId": "CognosInput.aRetailer_type",
+                "itemLabel": "Retailer type"
+              }
+            ],
+            "id": "model0000016cff133f40_00000000"
+          }
+        ]
+      },
+      "visTypeLocked": true,
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "size",
+            "dataItems": [
+              "model0000016cff136277_00000000"
+            ],
+            "caption": "Size",
+            "id": "size"
+          },
+          {
+            "name": "color",
+            "dataItems": [
+              "model0000016cff13a088_00000000"
+            ],
+            "caption": "Color",
+            "id": "color"
+          },
+          {
+            "name": "categories",
+            "dataItems": [
+              "model0000016cff14ecd8_00000001"
+            ],
+            "dataItemSettings": [],
+            "caption": "Bubbles",
+            "id": "categories"
+          }
+        ]
+      },
+      "type": "live",
+      "visId": "com.ibm.vis.rave2bundlepackedbubble",
+      "name": {
+        "translationTable": {}
+      },
+      "localFilters": []
+    },
+    "model0000016cff158be1_00000000": {
+      "id": "model0000016cff158be1_00000000",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model0000016cfe213681_00000001",
+            "dataItems": [
+              {
+                "id": "model0000016cff16206e_00000000",
+                "itemId": "CognosInput.aExisting_Inventory",
+                "itemLabel": "Existing_Inventory",
+                "selection": [
+                  {
+                    "operation": "order",
+                    "sort": {
+                      "type": "asc",
+                      "priority": 0,
+                      "by": "caption"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "model0000016cff169970_00000001",
+                "itemId": "CognosInput.aProduct_type",
+                "itemLabel": "Product type"
+              },
+              {
+                "id": "model0000016cff171b66_00000000",
+                "itemId": "CognosInput.aInventory_Needed",
+                "itemLabel": "Inventory_Needed"
+              },
+              {
+                "id": "_multiMeasuresSeries",
+                "itemId": "_multiMeasuresSeries",
+                "itemLabel": "Measures group (2)"
+              }
+            ],
+            "id": "model0000016cff15c840_00000000"
+          }
+        ]
+      },
+      "visTypeLocked": true,
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "categories",
+            "dataItems": [
+              "model0000016cff169970_00000001"
+            ],
+            "dataItemSettings": [],
+            "caption": "Bars",
+            "id": "categories",
+            "layerId": "data"
+          },
+          {
+            "name": "values",
+            "dataItems": [
+              "model0000016cff16206e_00000000",
+              "model0000016cff171b66_00000000"
+            ],
+            "caption": "Length",
+            "id": "values",
+            "layerId": "data"
+          },
+          {
+            "name": "color",
+            "dataItems": [
+              "_multiMeasuresSeries"
+            ],
+            "caption": "Color",
+            "id": "color"
+          }
+        ]
+      },
+      "type": "live",
+      "visId": "com.ibm.vis.rave2bundlecolumn",
+      "name": {
+        "translationTable": {}
+      },
+      "localFilters": []
+    },
+    "model0000016cff18338a_00000000": {
+      "id": "model0000016cff18338a_00000000",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model0000016cfe213681_00000001",
+            "dataItems": [
+              {
+                "id": "model0000016cff1847d5_00000002",
+                "itemId": "CognosInput.aCity_US",
+                "itemLabel": "City_US"
+              },
+              {
+                "id": "model0000016cff1aa5bc_00000000",
+                "itemId": "Inventory_Surplus",
+                "itemLabel": "Inventory_Surplus"
+              }
+            ],
+            "id": "model0000016cff1847d5_00000001"
+          }
+        ]
+      },
+      "visTypeLocked": true,
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "categories",
+            "dataItems": [
+              "model0000016cff1847d5_00000002"
+            ],
+            "dataItemSettings": [],
+            "caption": "Words",
+            "id": "categories",
+            "layerId": "data"
+          },
+          {
+            "name": "size",
+            "dataItems": [
+              "model0000016cff1aa5bc_00000000"
+            ],
+            "caption": "Size",
+            "id": "size"
+          }
+        ]
+      },
+      "type": "live",
+      "visId": "com.ibm.vis.rave2bundlewordcloud",
+      "name": {
+        "translationTable": {}
+      },
+      "localFilters": []
+    },
+    "model0000016cff1be3d4_00000000": {
+      "id": "model0000016cff1be3d4_00000000",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model0000016cfe213681_00000001",
+            "dataItems": [
+              {
+                "id": "model0000016cff1c08a0_00000002",
+                "itemId": "CognosInput.aRetailer_type",
+                "itemLabel": "Retailer type"
+              },
+              {
+                "id": "model0000016cff1c483d_00000000",
+                "itemId": "CognosInput.aRevenue",
+                "itemLabel": "Revenue"
+              },
+              {
+                "id": "model0000016cff1caa5e_00000000",
+                "itemId": "CognosInput.aProduct_type",
+                "itemLabel": "Product type"
+              }
+            ],
+            "id": "model0000016cff1c08a0_00000001"
+          }
+        ]
+      },
+      "visTypeLocked": true,
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "categories",
+            "dataItems": [
+              "model0000016cff1caa5e_00000000"
+            ],
+            "caption": "Area hierarchy",
+            "id": "categories",
+            "layerId": "data"
+          },
+          {
+            "name": "size",
+            "dataItems": [
+              "model0000016cff1c08a0_00000002"
+            ],
+            "caption": "Size",
+            "id": "size",
+            "layerId": "data"
+          },
+          {
+            "name": "color",
+            "dataItems": [
+              "model0000016cff1c483d_00000000"
+            ],
+            "caption": "Heat",
+            "id": "color",
+            "layerId": "data"
+          }
+        ]
+      },
+      "type": "live",
+      "visId": "com.ibm.vis.rave2bundletreemap",
+      "name": {
+        "translationTable": {}
+      },
+      "localFilters": []
+    },
+    "model0000016cff1f1eb7_00000000": {
+      "id": "model0000016cff1f1eb7_00000000",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model0000016cfe213681_00000001",
+            "dataItems": [
+              {
+                "id": "model0000016cff1f3b4c_00000000",
+                "itemId": "CognosInput.aRevenue",
+                "itemLabel": "Revenue"
+              }
+            ],
+            "id": "model0000016cff1f3b4b_00000000"
+          }
+        ]
+      },
+      "visTypeLocked": false,
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "values",
+            "dataItems": [
+              "model0000016cff1f3b4c_00000000"
+            ],
+            "dataItemSettings": [],
+            "caption": "Value",
+            "id": "values",
+            "layerId": "data"
+          }
+        ]
+      },
+      "type": "live",
+      "visId": "summary",
+      "name": {
+        "translationTable": {}
+      }
+    }
+  }
+}

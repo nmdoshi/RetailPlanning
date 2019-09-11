@@ -1,0 +1,50 @@
+[2019-09-11T14:47:23Z, INFO] * building wado model
+[2019-09-11T14:47:30Z, INFO] model building done in 6.492123603820801 secs
+[2019-09-11T14:47:30Z, INFO] * running wado model
+[2019-09-11T14:47:30Z, INFO] WARNING: Number of workers has been reduced to 3 to comply with platform limitations.
+[2019-09-11T14:47:30Z, INFO] CPXPARAM_TimeLimit                               120
+[2019-09-11T14:47:30Z, INFO] CPXPARAM_Read_DataCheck                          1
+[2019-09-11T14:47:30Z, INFO] CPXPARAM_Threads                                 3
+[2019-09-11T14:47:30Z, INFO] Tried aggregator 1 time.
+[2019-09-11T14:47:30Z, INFO] MIP Presolve eliminated 60182 rows and 54959 columns.
+[2019-09-11T14:47:30Z, INFO] Reduced MIP has 2 rows, 5223 columns, and 10446 nonzeros.
+[2019-09-11T14:47:30Z, INFO] Reduced MIP has 5223 binaries, 0 generals, 0 SOSs, and 0 indicators.
+[2019-09-11T14:47:30Z, INFO] Presolve time = 0.07 sec. (43.24 ticks)
+[2019-09-11T14:47:30Z, INFO] Found incumbent of value -1.4250300e+07 after 0.09 sec. (51.80 ticks)
+[2019-09-11T14:47:30Z, INFO] Tried aggregator 1 time.
+[2019-09-11T14:47:30Z, INFO] Reduced MIP has 2 rows, 5223 columns, and 10446 nonzeros.
+[2019-09-11T14:47:30Z, INFO] Reduced MIP has 5223 binaries, 0 generals, 0 SOSs, and 0 indicators.
+[2019-09-11T14:47:30Z, INFO] Presolve time = 0.01 sec. (5.15 ticks)
+[2019-09-11T14:47:30Z, INFO] Probing time = 0.01 sec. (0.49 ticks)
+[2019-09-11T14:47:30Z, INFO] MIP emphasis: balance optimality and feasibility.
+[2019-09-11T14:47:30Z, INFO] MIP search method: dynamic search.
+[2019-09-11T14:47:30Z, INFO] Parallel mode: deterministic, using up to 3 threads.
+[2019-09-11T14:47:30Z, INFO] Root relaxation solution time = 0.01 sec. (3.06 ticks)
+[2019-09-11T14:47:30Z, INFO] 
+[2019-09-11T14:47:30Z, INFO]         Nodes                                         Cuts/
+[2019-09-11T14:47:30Z, INFO]    Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+[2019-09-11T14:47:30Z, INFO] *     0+    0                      -1.42503e+07  -2.57239e+07            80.51%
+[2019-09-11T14:47:30Z, INFO] *     0+    0                      -1.42830e+07  -2.57239e+07            80.10%
+[2019-09-11T14:47:30Z, INFO]       0     0  -1.85939e+07     1  -1.42830e+07  -1.85939e+07        1   30.18%
+[2019-09-11T14:47:30Z, INFO] *     0+    0                      -1.85921e+07  -1.85939e+07             0.01%
+[2019-09-11T14:47:30Z, INFO] *     0+    0                      -1.85921e+07  -1.85939e+07             0.01%
+[2019-09-11T14:47:31Z, INFO]       0     0  -1.85939e+07     1  -1.85921e+07       Cuts: 2        2    0.01%
+[2019-09-11T14:47:31Z, INFO] *     0+    0                      -1.85923e+07  -1.85939e+07             0.01%
+[2019-09-11T14:47:31Z, INFO] *     0+    0                      -1.85928e+07  -1.85939e+07             0.01%
+[2019-09-11T14:47:31Z, INFO] Cover cuts applied:  1
+[2019-09-11T14:47:31Z, INFO] Mixed integer rounding cuts applied:  1
+[2019-09-11T14:47:31Z, INFO] 
+[2019-09-11T14:47:31Z, INFO] Root node processing (before b&c):
+[2019-09-11T14:47:31Z, INFO]   Real time             =    0.70 sec. (105.56 ticks)
+[2019-09-11T14:47:31Z, INFO] Parallel b&c, 3 threads:
+[2019-09-11T14:47:31Z, INFO]   Real time             =    0.00 sec. (0.00 ticks)
+[2019-09-11T14:47:31Z, INFO]   Sync time (average)   =    0.00 sec.
+[2019-09-11T14:47:31Z, INFO]   Wait time (average)   =    0.00 sec.
+[2019-09-11T14:47:31Z, INFO]                           ------------
+[2019-09-11T14:47:31Z, INFO] Total (root+branch&cut) =    0.70 sec. (105.56 ticks)
+[2019-09-11T14:47:32Z, INFO] Solve status: JobSolveStatus.OPTIMAL_SOLUTION
+[2019-09-11T14:47:32Z, INFO] * model docplex_model1 solved with objective = -18592808.686
+[2019-09-11T14:47:32Z, INFO] *  KPI: total Revenue of Customers over all selections    = 21792778.192
+[2019-09-11T14:47:32Z, INFO] *  KPI: total CostToServ of Customers over all selections = 3199969.506
+[2019-09-11T14:47:32Z, INFO] model solve done in 1.9588639736175537 secs
+[2019-09-11T14:47:32Z, INFO] solution export done in 0.05648684501647949 secs
