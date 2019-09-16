@@ -1,0 +1,48 @@
+[2019-09-13T21:31:29Z, INFO] * building wado model
+[2019-09-13T21:31:30Z, INFO] model building done in 0.19407272338867188 secs
+[2019-09-13T21:31:30Z, INFO] * running wado model
+[2019-09-13T21:31:30Z, INFO] WARNING: Number of workers has been reduced to 3 to comply with platform limitations.
+[2019-09-13T21:31:30Z, INFO] CPXPARAM_TimeLimit                               120
+[2019-09-13T21:31:30Z, INFO] CPXPARAM_Read_DataCheck                          1
+[2019-09-13T21:31:30Z, INFO] CPXPARAM_Threads                                 3
+[2019-09-13T21:31:30Z, INFO] Tried aggregator 2 times.
+[2019-09-13T21:31:30Z, INFO] MIP Presolve eliminated 279 rows and 72 columns.
+[2019-09-13T21:31:30Z, INFO] MIP Presolve modified 679 coefficients.
+[2019-09-13T21:31:30Z, INFO] Aggregator did 77 substitutions.
+[2019-09-13T21:31:30Z, INFO] Reduced MIP has 248 rows, 251 columns, and 748 nonzeros.
+[2019-09-13T21:31:30Z, INFO] Reduced MIP has 128 binaries, 123 generals, 0 SOSs, and 0 indicators.
+[2019-09-13T21:31:30Z, INFO] Presolve time = 0.00 sec. (1.93 ticks)
+[2019-09-13T21:31:30Z, INFO] Found incumbent of value 7.1401126e+11 after 0.01 sec. (2.09 ticks)
+[2019-09-13T21:31:30Z, INFO] Probing time = 0.00 sec. (0.13 ticks)
+[2019-09-13T21:31:30Z, INFO] Tried aggregator 1 time.
+[2019-09-13T21:31:30Z, INFO] MIP Presolve eliminated 11 rows and 15 columns.
+[2019-09-13T21:31:30Z, INFO] Reduced MIP has 237 rows, 236 columns, and 590 nonzeros.
+[2019-09-13T21:31:30Z, INFO] Reduced MIP has 118 binaries, 118 generals, 0 SOSs, and 0 indicators.
+[2019-09-13T21:31:30Z, INFO] Presolve time = 0.00 sec. (0.46 ticks)
+[2019-09-13T21:31:30Z, INFO] Probing time = 0.00 sec. (0.06 ticks)
+[2019-09-13T21:31:30Z, INFO] MIP emphasis: balance optimality and feasibility.
+[2019-09-13T21:31:30Z, INFO] MIP search method: dynamic search.
+[2019-09-13T21:31:30Z, INFO] Parallel mode: deterministic, using up to 3 threads.
+[2019-09-13T21:31:30Z, INFO] Root relaxation solution time = 0.00 sec. (0.49 ticks)
+[2019-09-13T21:31:30Z, INFO] 
+[2019-09-13T21:31:30Z, INFO]         Nodes                                         Cuts/
+[2019-09-13T21:31:30Z, INFO]    Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+[2019-09-13T21:31:30Z, INFO] *     0+    0                       7.14011e+11   3.35510e+13              ---
+[2019-09-13T21:31:30Z, INFO] *     0+    0                       7.15137e+11   3.35510e+13              ---
+[2019-09-13T21:31:30Z, INFO]       0     0   3.88966e+12     1   7.15137e+11   3.88966e+12      114  443.90%
+[2019-09-13T21:31:30Z, INFO] *     0+    0                       3.88965e+12   3.88966e+12             0.00%
+[2019-09-13T21:31:30Z, INFO] 
+[2019-09-13T21:31:30Z, INFO] Root node processing (before b&c):
+[2019-09-13T21:31:30Z, INFO]   Real time             =    0.02 sec. (5.13 ticks)
+[2019-09-13T21:31:30Z, INFO] Parallel b&c, 3 threads:
+[2019-09-13T21:31:30Z, INFO]   Real time             =    0.00 sec. (0.00 ticks)
+[2019-09-13T21:31:30Z, INFO]   Sync time (average)   =    0.00 sec.
+[2019-09-13T21:31:30Z, INFO]   Wait time (average)   =    0.00 sec.
+[2019-09-13T21:31:30Z, INFO]                           ------------
+[2019-09-13T21:31:30Z, INFO] Total (root+branch&cut) =    0.02 sec. (5.13 ticks)
+[2019-09-13T21:31:30Z, INFO] Solve status: JobSolveStatus.OPTIMAL_SOLUTION
+[2019-09-13T21:31:30Z, INFO] * model docplex_model1 solved with objective = 3889652416265.960
+[2019-09-13T21:31:30Z, INFO] *  KPI: the number of Product selections              = 1280.000
+[2019-09-13T21:31:30Z, INFO] *  KPI: total Profit of Products over all allocations = 3889652414985.959
+[2019-09-13T21:31:30Z, INFO] model solve done in 0.07885909080505371 secs
+[2019-09-13T21:31:30Z, INFO] solution export done in 0.006144523620605469 secs

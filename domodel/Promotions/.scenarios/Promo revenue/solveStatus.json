@@ -1,1 +1,0 @@
-{"retry":0,"creationTime":1567622027991,"lastModificationTime":1567622128488,"state":"FAILED","solveConfig":{"containerId":"Promo revenue","solveParameters":{}},"runtimeDetails":{"state":"FAILED","message":"Cannot start Decision Optimization environment"},"taskSetupMillis":0,"taskSolveMillis":0,"taskTearDownMillis":0}

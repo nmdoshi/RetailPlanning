@@ -1,0 +1,57 @@
+[2019-09-16T16:10:45Z, INFO] * building wado model
+[2019-09-16T16:10:45Z, INFO] model building done in 0.06968498229980469 secs
+[2019-09-16T16:10:45Z, INFO] * running wado model
+[2019-09-16T16:10:45Z, INFO] WARNING: Number of workers has been reduced to 3 to comply with platform limitations.
+[2019-09-16T16:10:45Z, INFO] CPXPARAM_TimeLimit                               120
+[2019-09-16T16:10:45Z, INFO] CPXPARAM_Read_DataCheck                          1
+[2019-09-16T16:10:45Z, INFO] CPXPARAM_Threads                                 3
+[2019-09-16T16:10:45Z, INFO] Found incumbent of value 0.000000 after 0.00 sec. (0.01 ticks)
+[2019-09-16T16:10:45Z, INFO] Tried aggregator 1 time.
+[2019-09-16T16:10:45Z, INFO] MIP Presolve eliminated 3 rows and 83 columns.
+[2019-09-16T16:10:45Z, INFO] MIP Presolve added 3 rows and 3 columns.
+[2019-09-16T16:10:45Z, INFO] Reduced MIP has 3 rows, 120 columns, and 124 nonzeros.
+[2019-09-16T16:10:45Z, INFO] Reduced MIP has 118 binaries, 2 generals, 0 SOSs, and 0 indicators.
+[2019-09-16T16:10:45Z, INFO] Presolve time = 0.00 sec. (0.26 ticks)
+[2019-09-16T16:10:45Z, INFO] Probing time = 0.00 sec. (0.01 ticks)
+[2019-09-16T16:10:45Z, INFO] Tried aggregator 1 time.
+[2019-09-16T16:10:45Z, INFO] MIP Presolve eliminated 3 rows and 3 columns.
+[2019-09-16T16:10:45Z, INFO] MIP Presolve added 3 rows and 3 columns.
+[2019-09-16T16:10:45Z, INFO] Reduced MIP has 3 rows, 120 columns, and 124 nonzeros.
+[2019-09-16T16:10:45Z, INFO] Reduced MIP has 118 binaries, 2 generals, 0 SOSs, and 0 indicators.
+[2019-09-16T16:10:45Z, INFO] Presolve time = 0.00 sec. (0.23 ticks)
+[2019-09-16T16:10:45Z, INFO] Probing time = 0.00 sec. (0.01 ticks)
+[2019-09-16T16:10:45Z, INFO] MIP emphasis: balance optimality and feasibility.
+[2019-09-16T16:10:45Z, INFO] MIP search method: dynamic search.
+[2019-09-16T16:10:45Z, INFO] Parallel mode: deterministic, using up to 3 threads.
+[2019-09-16T16:10:45Z, INFO] Root relaxation solution time = 0.00 sec. (0.08 ticks)
+[2019-09-16T16:10:45Z, INFO] 
+[2019-09-16T16:10:45Z, INFO]         Nodes                                         Cuts/
+[2019-09-16T16:10:45Z, INFO]    Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+[2019-09-16T16:10:45Z, INFO] *     0+    0                      9180824.3584   3.71811e+08              ---
+[2019-09-16T16:10:45Z, INFO]       0     0   3.20526e+08     1  9180824.3584   3.20526e+08        1     ---
+[2019-09-16T16:10:45Z, INFO] *     0+    0                       3.20358e+08   3.20526e+08             0.05%
+[2019-09-16T16:10:45Z, INFO]       0     0   3.20498e+08     1   3.20358e+08       Cuts: 2        4    0.04%
+[2019-09-16T16:10:45Z, INFO]       0     0   3.20430e+08     4   3.20358e+08       Cuts: 3        7    0.02%
+[2019-09-16T16:10:45Z, INFO]       0     0        cutoff         3.20358e+08   3.20358e+08        7    0.00%
+[2019-09-16T16:10:45Z, INFO] Elapsed time = 0.03 sec. (1.31 ticks, tree = 0.01 MB
+[2019-09-16T16:10:45Z, INFO] , solutions = 2
+[2019-09-16T16:10:45Z, INFO] )
+[2019-09-16T16:10:45Z, INFO] Cover cuts applied:  2
+[2019-09-16T16:10:45Z, INFO] Flow cuts applied:  1
+[2019-09-16T16:10:45Z, INFO] Mixed integer rounding cuts applied:  1
+[2019-09-16T16:10:45Z, INFO] Zero-half cuts applied:  1
+[2019-09-16T16:10:45Z, INFO] 
+[2019-09-16T16:10:45Z, INFO] Root node processing (before b&c):
+[2019-09-16T16:10:45Z, INFO]   Real time             =    0.03 sec. (1.32 ticks)
+[2019-09-16T16:10:45Z, INFO] Parallel b&c, 3 threads:
+[2019-09-16T16:10:45Z, INFO]   Real time             =    0.00 sec. (0.00 ticks)
+[2019-09-16T16:10:45Z, INFO]   Sync time (average)   =    0.00 sec.
+[2019-09-16T16:10:45Z, INFO]   Wait time (average)   =    0.00 sec.
+[2019-09-16T16:10:45Z, INFO]                           ------------
+[2019-09-16T16:10:45Z, INFO] Total (root+branch&cut) =    0.03 sec. (1.32 ticks)
+[2019-09-16T16:10:45Z, INFO] Solve status: JobSolveStatus.OPTIMAL_SOLUTION
+[2019-09-16T16:10:45Z, INFO] * model docplex_model1 solved with objective = 320357903.085
+[2019-09-16T16:10:45Z, INFO] *  KPI: total Profit of Products over all selections = 320356447.085
+[2019-09-16T16:10:45Z, INFO] *  KPI: number of Product selections                 = 1456.000
+[2019-09-16T16:10:45Z, INFO] model solve done in 0.07628321647644043 secs
+[2019-09-16T16:10:45Z, INFO] solution export done in 0.003484010696411133 secs
