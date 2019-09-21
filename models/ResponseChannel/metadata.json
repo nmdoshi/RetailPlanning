@@ -1,0 +1,86 @@
+{
+    "id": 1569006258641,
+    "name": "ResponseChannel",
+    "latestModelVersion": 1,
+    "runtime": "SPSS PMML Scoring Engine",
+    "author": "1029",
+    "createdAt": 1569006258641,
+    "filename": "import",
+    "features": [
+        {
+            "name": "Affinity",
+            "type": "string"
+        },
+        {
+            "name": "Annual Spend",
+            "type": "double"
+        },
+        {
+            "name": "Loyalty Program Member",
+            "type": "string"
+        },
+        {
+            "name": "Home Closeout",
+            "type": "string"
+        },
+        {
+            "name": "Johnston and Murphy",
+            "type": "string"
+        },
+        {
+            "name": "Lancome Gift with Purchase",
+            "type": "string"
+        },
+        {
+            "name": "Shoe and Handbag sale",
+            "type": "string"
+        },
+        {
+            "name": "Save 20% Career Suits",
+            "type": "string"
+        },
+        {
+            "name": "Anastasia Beverly Hills",
+            "type": "string"
+        },
+        {
+            "name": "Discount of Womens Active Shoes",
+            "type": "string"
+        },
+        {
+            "name": "Save 10% with store pickup",
+            "type": "string"
+        },
+        {
+            "name": "Womens Sweather Sale",
+            "type": "string"
+        },
+        {
+            "name": "Free shipping on orders over $49",
+            "type": "string"
+        },
+        {
+            "name": "Gender",
+            "type": "string"
+        },
+        {
+            "name": "Dress sale - 30 percent off",
+            "type": "string"
+        }
+    ],
+    "labelColumns": [
+        {
+            "name": "Response Channel",
+            "type": "string"
+        }
+    ],
+    "type": "pmml-model-3.0",
+    "serialization": "pmml",
+    "learningType": "Supervised",
+    "algorithm": "RuleSetModel",
+    "algorithmType": "Classification",
+    "params": {},
+    "publishedBy": "",
+    "isPublished": false,
+    "publishedModelVersion": -1
+}

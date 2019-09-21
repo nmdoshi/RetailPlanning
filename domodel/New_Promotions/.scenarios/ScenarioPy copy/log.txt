@@ -1,0 +1,88 @@
+[2019-09-20T10:48:55Z, INFO] Model: RetailPlanning
+[2019-09-20T10:48:55Z, INFO]  - number of variables: 969
+[2019-09-20T10:48:55Z, INFO]    - binary=969, integer=0, continuous=0
+[2019-09-20T10:48:55Z, INFO]  - number of constraints: 823
+[2019-09-20T10:48:55Z, INFO]    - linear=823
+[2019-09-20T10:48:55Z, INFO]  - parameters: defaults
+[2019-09-20T10:48:55Z, INFO] WARNING: Number of workers has been reduced to 1 to comply with platform limitations.
+[2019-09-20T10:48:55Z, INFO] CPXPARAM_Read_DataCheck                          1
+[2019-09-20T10:48:55Z, INFO] CPXPARAM_Threads                                 1
+[2019-09-20T10:48:55Z, INFO] Found incumbent of value 0.000000 after 0.00 sec. (0.03 ticks)
+[2019-09-20T10:48:55Z, INFO] Tried aggregator 1 time.
+[2019-09-20T10:48:55Z, INFO] MIP Presolve eliminated 823 rows and 969 columns.
+[2019-09-20T10:48:55Z, INFO] All rows and columns eliminated.
+[2019-09-20T10:48:55Z, INFO] Presolve time = 0.00 sec. (0.54 ticks)
+[2019-09-20T10:48:55Z, INFO] 
+[2019-09-20T10:48:55Z, INFO] Root node processing (before b&c):
+[2019-09-20T10:48:55Z, INFO]   Real time             =    0.00 sec. (0.62 ticks)
+[2019-09-20T10:48:55Z, INFO] Sequential b&c:
+[2019-09-20T10:48:55Z, INFO]   Real time             =    0.00 sec. (0.00 ticks)
+[2019-09-20T10:48:55Z, INFO]                           ------------
+[2019-09-20T10:48:55Z, INFO] Total (root+branch&cut) =    0.00 sec. (0.62 ticks)
+[2019-09-20T10:48:55Z, INFO] * model RetailPlanning solved with objective = 322250.901
+[2019-09-20T10:48:55Z, INFO] *  KPI: Expected revenue = 322250.901
+[2019-09-20T10:48:55Z, INFO] *  KPI: Nb Offer         = 823.000
+[2019-09-20T10:48:55Z, INFO] customer  offer  channel    
+[2019-09-20T10:48:55Z, INFO] 10154     3      Mobile         1.0
+[2019-09-20T10:48:55Z, INFO] 10157     3      Mobile         1.0
+[2019-09-20T10:48:55Z, INFO] 10160     3      Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 10162     4      Mobile         1.0
+[2019-09-20T10:48:55Z, INFO] 10163     3      Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 10164     1      Email          1.0
+[2019-09-20T10:48:55Z, INFO] 10165     3      Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 10167     10     Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 10169     3      Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO]           7      Direct Mail    0.0
+[2019-09-20T10:48:55Z, INFO] 10170     3      Mobile         1.0
+[2019-09-20T10:48:55Z, INFO] 10171     7      Mobile         1.0
+[2019-09-20T10:48:55Z, INFO] 10172     3      Email          0.0
+[2019-09-20T10:48:55Z, INFO]           9      Email          1.0
+[2019-09-20T10:48:55Z, INFO] 10173     4      Mobile         1.0
+[2019-09-20T10:48:55Z, INFO] 10175     5      Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 10176     9      Email          1.0
+[2019-09-20T10:48:55Z, INFO] 10177     3      Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 10179     3      Mobile         1.0
+[2019-09-20T10:48:55Z, INFO] 10180     1      Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 10181     2      Mobile         0.0
+[2019-09-20T10:48:55Z, INFO]           7      Mobile         1.0
+[2019-09-20T10:48:55Z, INFO] 10185     3      Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 10189     3      Mobile         1.0
+[2019-09-20T10:48:55Z, INFO] 10191     4      Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 10192     7      Mobile         0.0
+[2019-09-20T10:48:55Z, INFO]           10     Mobile         1.0
+[2019-09-20T10:48:55Z, INFO] 10195     4      Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 10197     8      Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 10198     3      Email          1.0
+[2019-09-20T10:48:55Z, INFO]                                ... 
+[2019-09-20T10:48:55Z, INFO] 11769     3      Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 11770     8      Mobile         1.0
+[2019-09-20T10:48:55Z, INFO] 11771     3      Email          1.0
+[2019-09-20T10:48:55Z, INFO] 11772     7      Email          0.0
+[2019-09-20T10:48:55Z, INFO]           8      Email          1.0
+[2019-09-20T10:48:55Z, INFO] 11775     3      Email          1.0
+[2019-09-20T10:48:55Z, INFO] 11776     12     Mobile         1.0
+[2019-09-20T10:48:55Z, INFO] 11777     1      Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 11779     8      Mobile         1.0
+[2019-09-20T10:48:55Z, INFO] 11781     4      Email          1.0
+[2019-09-20T10:48:55Z, INFO] 11784     3      Email          1.0
+[2019-09-20T10:48:55Z, INFO] 11785     12     Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 11786     10     Mobile         1.0
+[2019-09-20T10:48:55Z, INFO] 11787     4      Email          1.0
+[2019-09-20T10:48:55Z, INFO] 11790     7      Email          1.0
+[2019-09-20T10:48:55Z, INFO] 11791     2      Mobile         1.0
+[2019-09-20T10:48:55Z, INFO] 11792     3      Email          1.0
+[2019-09-20T10:48:55Z, INFO] 11793     3      Email          1.0
+[2019-09-20T10:48:55Z, INFO] 11794     3      Email          1.0
+[2019-09-20T10:48:55Z, INFO] 11795     8      Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 11797     4      Mobile         1.0
+[2019-09-20T10:48:55Z, INFO] 11800     9      Email          1.0
+[2019-09-20T10:48:55Z, INFO] 11803     2      Mobile         1.0
+[2019-09-20T10:48:55Z, INFO]           3      Mobile         0.0
+[2019-09-20T10:48:55Z, INFO] 11808     7      Email          1.0
+[2019-09-20T10:48:55Z, INFO] 11809     7      Email          1.0
+[2019-09-20T10:48:55Z, INFO] 11812     3      Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 11814     7      Direct Mail    1.0
+[2019-09-20T10:48:55Z, INFO] 11817     3      Mobile         1.0
+[2019-09-20T10:48:55Z, INFO]           9      Mobile         0.0
+[2019-09-20T10:48:55Z, INFO] Name: selected, Length: 969, dtype: float64
+[2019-09-20T10:48:55Z, INFO] selected.csv

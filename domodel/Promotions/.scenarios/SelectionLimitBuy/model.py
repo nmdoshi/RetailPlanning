@@ -210,11 +210,10 @@ def export_solution(msol):
     return
 
 
-# Import custom code definition if module exists
+# Instantiate CustomCode class if definition exists
 try:
-    from custom_code import CustomCode
     custom_code = CustomCode(globals())
-except ImportError:
+except NameError:
     # Create a dummy anonymous object for custom_code
     custom_code = type('', (object,), {'preprocess': (lambda *args: None),
                                        'update_goals_list': (lambda *args: None),
